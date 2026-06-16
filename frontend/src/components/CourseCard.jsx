@@ -1,65 +1,48 @@
 /* eslint-disable react/prop-types */
-import React from 'react'
+import React, { useState } from 'react';
 
 function CourseCard({ course }) {
-  const title = course.title || course.Title;
-  const description = course.CourseOverview || course.Description;
-  const image = course.imageLink || "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop";
+  const [imgError, setImgError] = useState(false);
+  
+  const title = course.title || course.Title || 'Sin Título';
+  const description = course.CourseOverview || course.Description || 'Sin descripción disponible.';
+  const image = imgError ? 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop' : (course.imageLink || 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop');
   const link = course.link || course.Link;
 
-  function handleAction(e) {
-    e.stopPropagation();
-    window.open(link, "_blank");
-  }
-
   return (
-    <div 
-      onClick={handleAction} 
-      className="card bg-base-100 shadow-xl hover:shadow-2xl transition-all duration-300 cursor-pointer group border border-base-200 overflow-hidden"
-    >
-      <figure className="relative h-48 overflow-hidden">
+    <div className="group relative bg-zinc-900/30 border border-white/5 overflow-hidden transition-all hover:border-yellow-600/50">
+      <div className="aspect-video w-full overflow-hidden bg-zinc-800">
         <img 
           src={image} 
           alt={title} 
-          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" 
+          onError={() => setImgError(true)}
+          className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 opacity-80 group-hover:opacity-100"
         />
-        <div className="absolute top-2 right-2">
-          <div className="badge badge-primary font-bold shadow-lg">FREE</div>
+      </div>
+      <div className="p-6">
+        <div className="flex justify-between items-start mb-4">
+           <span className="text-[10px] font-black bg-yellow-600 text-black px-2 py-0.5 uppercase tracking-tighter">
+             {course.category || 'General'}
+           </span>
+           <span className="text-[10px] text-zinc-600 font-mono">#LCA-ACC-01</span>
         </div>
-      </figure>
-      <div className="card-body p-5">
-        <div className="flex flex-wrap gap-1 mb-2">
-          <div className="badge badge-ghost badge-sm">Course</div>
-          <div className="badge badge-ghost badge-sm">Trending</div>
-        </div>
-        <h3 className="card-title text-xl font-bold line-clamp-1 group-hover:text-primary transition-colors">
-          {title}
-        </h3>
-        <p className="text-sm text-base-content/70 line-clamp-2 mt-2 leading-relaxed">
-          {description}
-        </p>
-        <div className="card-actions justify-between items-center mt-6">
-          <div className="flex flex-col">
-            <span className="text-xs text-base-content/50 line-through">
-              $89.99
-            </span>
-            <span className="text-xl font-black text-primary">
-              FREE
-            </span>
-          </div>
-          <button 
-            onClick={handleAction} 
-            className="btn btn-primary btn-md shadow-lg group-hover:translate-x-1 transition-transform"
-          >
-            Start Now
-            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-              <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
-            </svg>
-          </button>
-        </div>
+        <h3 className="text-xl font-bold text-white mb-2 line-clamp-1 group-hover:text-yellow-500 transition-colors">{title}</h3>
+        <p className="text-zinc-500 text-sm line-clamp-2 mb-6 font-light leading-relaxed">{description}</p>
+        
+        <a 
+          href={link} 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 text-xs font-black uppercase tracking-widest text-white group-hover:text-yellow-600 transition-all"
+        >
+          Acceder al Archivo
+          <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+          </svg>
+        </a>
       </div>
     </div>
-  )
+  );
 }
 
-export default CourseCard
+export default CourseCard;
