@@ -1,27 +1,21 @@
 // login code here
 import React, { useState } from "react";
-import { useMutation } from "react-query";
-import userSignin from "../services/userSignin";
 import { useNavigate } from "react-router-dom";
 
 const Login = ({ setShowRegister }) => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [error, setError] = useState("");
 
   const navigator = useNavigate();
 
-  const mutation = useMutation(userSignin, {
-    onSuccess: (data) => {
-      localStorage.setItem("token", data.data.token);
-      navigator("/");
-    },
-    onError: (data) => {
-      console.log(data);
-    },
-  });
-
   async function handleSignin() {
-    mutation.mutate({ email, password });
+    if (email === "test@test.com" && password === "test1234") {
+      localStorage.setItem("token", "dummy-token");
+      navigator("/");
+    } else {
+      setError("Invalid email or password");
+    }
     setEmail("");
     setPassword("");
   }
@@ -72,10 +66,10 @@ const Login = ({ setShowRegister }) => {
               placeholder="Enter your password"
             />
           </div>
-          {mutation.isError && (
-            <p className="text-red-500">{mutation.error.response.data.error}</p>
+          {error && (
+            <p className="text-red-500">{error}</p>
           )}
-          <p className="text-xs">email : john.doe@example.com | password : john12345</p>
+          <p className="text-xs">email : test@test.com | password : test1234</p>
 
           <button
             type="submit"
@@ -85,7 +79,7 @@ const Login = ({ setShowRegister }) => {
               handleSignin();
             }}
           >
-            {mutation.isLoading ? "Loading.." : "Sign In"}
+            Sign In
           </button>
         </form>
         <p className="mt-4 text-center text-sm text-neutral-content">
