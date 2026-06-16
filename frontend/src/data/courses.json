@@ -1,0 +1,156 @@
+[
+  {
+    "Title": "Skills for Work 2026",
+    "Provider": "Santander Open Academy",
+    "Link": "https://app.santanderopenacademy.com/en/program/skills-for-work-2026",
+    "Description": "Develop high-demand skills in AI, Data, Cybersecurity, and Professional Certifications.",
+    "Category": "IT / Professional Skills"
+  },
+  {
+    "Title": "Business for All 2026 - Harvard Business Impact",
+    "Provider": "Santander Open Academy / Harvard",
+    "Link": "https://app.santanderopenacademy.com/en/program/business-for-all-2026-harvard-business-impact",
+    "Description": "Foundations of business impact and management principles.",
+    "Category": "Business"
+  },
+  {
+    "Title": "Artificial Intelligence Foundations",
+    "Provider": "IBM SkillsBuild",
+    "Link": "https://skillsbuild.org/adult-learners/explore-learning/artificial-intelligence",
+    "Description": "Introduction to AI concepts, ethics, and applications.",
+    "Category": "IT / AI"
+  },
+  {
+    "Title": "Cybersecurity Analyst",
+    "Provider": "IBM SkillsBuild",
+    "Link": "https://skillsbuild.org/adult-learners/explore-learning/cybersecurity-analyst",
+    "Description": "Comprehensive path to becoming a cybersecurity analyst with digital credentials.",
+    "Category": "IT / Security"
+  },
+  {
+    "Title": "Data Analyst",
+    "Provider": "IBM SkillsBuild",
+    "Link": "https://skillsbuild.org/adult-learners/explore-learning/data-analyst",
+    "Description": "Learn data analysis tools and techniques to interpret data for business decisions.",
+    "Category": "IT / Data"
+  },
+  {
+    "Title": "Fundamentals of Digital Marketing",
+    "Provider": "Google Skillshop",
+    "Link": "https://skillshop.exceedlms.com/student/activity/1830706-fundamentals-of-digital-marketing",
+    "Description": "Master the basics of digital marketing with a certification accredited by Interactive Advertising Bureau Europe.",
+    "Category": "Business / Marketing"
+  },
+  {
+    "Title": "Microsoft Applied Skills: Configure secure access to your workloads",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-access-to-your-workloads/",
+    "Description": "Scenario-based credential for configuring secure access in Azure.",
+    "Category": "IT / Cloud"
+  },
+  {
+    "Title": "HubSpot Reporting Certification",
+    "Provider": "HubSpot Academy",
+    "Link": "https://academy.hubspot.com/courses/hubspot-reporting",
+    "Description": "Learn how to build and analyze reports in HubSpot to measure business success.",
+    "Category": "Business / Tools"
+  },
+  {
+    "Title": "Cybersecurity Defense Analyst (Career Path)",
+    "Provider": "Cisco Networking Academy",
+    "Link": "https://www.netacad.com/career-paths/splunk-cybersecurity-defense-analyst",
+    "Description": "High-value career path focusing on cybersecurity defense operations.",
+    "Category": "IT / Security"
+  },
+  {
+    "Title": "Argentina Programa 4.0",
+    "Provider": "Gobierno de Argentina",
+    "Link": "https://www.argentina.gob.ar/economia/conocimiento/argentina-programa",
+    "Description": "National program for programming and tech skills development with official certification.",
+    "Category": "IT / Programming"
+  },
+  {
+    "Title": "Capacitar - Formación para Empresas",
+    "Provider": "Gobierno de Argentina",
+    "Link": "https://www.argentina.gob.ar/economia/capacitar",
+    "Description": "Free platform for business management, digital transformation, and professional growth.",
+    "Category": "Business / Management"
+  },
+  {
+    "Title": "Excel – From basics to intermediate",
+    "Provider": "Santander Open Academy",
+    "Link": "https://app.santanderopenacademy.com/en/course/excel",
+    "Description": "Master Microsoft Excel from the ground up to intermediate data management.",
+    "Category": "Tools"
+  },
+  {
+    "Title": "ChatGPT Fundamentals",
+    "Provider": "Santander Open Academy",
+    "Link": "https://app.santanderopenacademy.com/en/course/chatgpt",
+    "Description": "Introduction to leveraging generative AI and prompt engineering.",
+    "Category": "IT / AI"
+  },
+  {
+    "Title": "IT Support Technician",
+    "Provider": "IBM SkillsBuild",
+    "Link": "https://skillsbuild.org/adult-learners/explore-learning/it-support-technician",
+    "Description": "Build the core technical skills needed for an entry-level IT support role.",
+    "Category": "IT / Support"
+  },
+  {
+    "Title": "Project Manager",
+    "Provider": "IBM SkillsBuild",
+    "Link": "https://skillsbuild.org/adult-learners/explore-learning/project-manager",
+    "Description": "Learn the essentials of project management methodologies and tools.",
+    "Description": "Business / Management"
+  },
+  {
+    "Title": "CS101: Introduction to Computer Science",
+    "Provider": "Saylor Academy",
+    "Link": "https://learn.saylor.org/course/cs101",
+    "Description": "Foundational course in computer science concepts and programming basics.",
+    "Category": "IT / Computer Science"
+  },
+  {
+    "Title": "BUS101: Introduction to Business",
+    "Provider": "Saylor Academy",
+    "Link": "https://learn.saylor.org/course/bus101",
+    "Description": "Overview of business principles, marketing, and management.",
+    "Description": "Business"
+  },
+  {
+    "Title": "Data Science Foundations",
+    "Provider": "Cognitive Class (IBM)",
+    "Link": "https://cognitiveclass.ai/courses/data-science-101",
+    "Description": "Introduction to the field of data science and the work of data scientists.",
+    "Category": "IT / Data"
+  },
+  {
+    "Title": "Machine Learning with Python",
+    "Provider": "Cognitive Class (IBM)",
+    "Link": "https://cognitiveclass.ai/courses/machine-learning-with-python",
+    "Description": "Learn how to use Python for machine learning tasks like classification and regression.",
+    "Description": "IT / AI"
+  },
+  {
+    "Title": "Ethical Hacker",
+    "Provider": "Cisco Skills for All",
+    "Link": "https://skillsforall.com/course/ethical-hacker",
+    "Description": "Gain the skills to find and exploit vulnerabilities to help organizations secure their networks.",
+    "Category": "IT / Security"
+  },
+  {
+    "Title": "Networking Basics",
+    "Provider": "Cisco Skills for All",
+    "Link": "https://skillsforall.com/course/networking-basics",
+    "Description": "Fundamental networking concepts and hands-on skills for beginners.",
+    "Category": "IT / Networking"
+  },
+  {
+    "Title": "Inbound Marketing Certification",
+    "Provider": "HubSpot Academy",
+    "Link": "https://academy.hubspot.com/courses/inbound-marketing",
+    "Description": "Learn the inbound marketing methodology and how to apply it to your business.",
+    "Category": "Business / Marketing"
+  }
+]
