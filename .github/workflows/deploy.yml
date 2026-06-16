@@ -1,0 +1,21 @@
+name: Deploy Coursify
+on:
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Source
+        run: git clone https://github.com/ManikMaity/Coursify.git source
+      - name: Prepare and Push
+        run: |
+          cd source
+          rm -rf .git
+          git init
+          git config user.name "Zapia Bot"
+          git config user.email "bot@zapia.com"
+          git checkout -b main
+          git add .
+          git commit -m "Final deployment of Coursify"
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/florenciaamor36-ship-it/cursin-v2-plataforma.git"
+          git push origin main --force
