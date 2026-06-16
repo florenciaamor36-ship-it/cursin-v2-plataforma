@@ -102,7 +102,7 @@
     "Provider": "IBM SkillsBuild",
     "Link": "https://skillsbuild.org/adult-learners/explore-learning/project-manager",
     "Description": "Learn the essentials of project management methodologies and tools.",
-    "Description": "Business / Management"
+    "Category": "Business / Management"
   },
   {
     "Title": "CS101: Introduction to Computer Science",
@@ -116,7 +116,7 @@
     "Provider": "Saylor Academy",
     "Link": "https://learn.saylor.org/course/bus101",
     "Description": "Overview of business principles, marketing, and management.",
-    "Description": "Business"
+    "Category": "Business"
   },
   {
     "Title": "Data Science Foundations",
@@ -130,7 +130,7 @@
     "Provider": "Cognitive Class (IBM)",
     "Link": "https://cognitiveclass.ai/courses/machine-learning-with-python",
     "Description": "Learn how to use Python for machine learning tasks like classification and regression.",
-    "Description": "IT / AI"
+    "Category": "IT / AI"
   },
   {
     "Title": "Ethical Hacker",
