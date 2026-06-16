@@ -10,6 +10,7 @@ import PageLayout from "./pages/PageLayout"
 import CoursePage from "./pages/CoursePage"
 import Search from "./pages/Search"
 import CourseDetail from "./pages/CourseDetail"
+
 function App() {
 
   const router = createBrowserRouter([
@@ -49,7 +50,9 @@ function App() {
     }
   ]
     }
-])
+], {
+  basename: "/cursin-v2-plataforma/"
+})
 
   return (
     
