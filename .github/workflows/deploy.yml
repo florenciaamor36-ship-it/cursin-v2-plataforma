@@ -4,6 +4,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Clone Source
         run: git clone https://github.com/ManikMaity/Coursify.git source
