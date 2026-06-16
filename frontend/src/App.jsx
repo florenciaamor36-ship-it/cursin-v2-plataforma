@@ -15,43 +15,45 @@ function App() {
 
   const router = createBrowserRouter([
     {
+      path: "/",
       element : <PageLayout/>,
-      children : [{
-        path : "/",
-        element : <Home/>
-    },
-    {
-        path : "signup",
-        element : <Signup/>
-    },
-    {
-      path : "purchased",
-      element : <PurchasedCourse/>
-    },
-    {
-      path : "admin",
-      element : <Dashboard/>
-    },
-    {
-      path : "admin/signup",
-      element : <AdminSignupPage/>
-    },
-    {
-      path : "coursePage/:courseid",
-      element : <CoursePage/>
-    },
-    {
-      path : "search",
-      element : <Search/>
-    }, 
-    {
-      path : "detail/:courseid",
-      element : <CourseDetail/>
-    }
-  ]
+      children : [
+        {
+          index: true,
+          element : <Home/>
+        },
+        {
+          path : "signup",
+          element : <Signup/>
+        },
+        {
+          path : "purchased",
+          element : <PurchasedCourse/>
+        },
+        {
+          path : "admin",
+          element : <Dashboard/>
+        },
+        {
+          path : "admin/signup",
+          element : <AdminSignupPage/>
+        },
+        {
+          path : "coursePage/:courseid",
+          element : <CoursePage/>
+        },
+        {
+          path : "search",
+          element : <Search/>
+        }, 
+        {
+          path : "detail/:courseid",
+          element : <CourseDetail/>
+        }
+      ]
     }
 ], {
-  basename: "/cursin-v2-plataforma/"
+  basename: "/cursin-v2-plataforma"
 })
 
   return (
