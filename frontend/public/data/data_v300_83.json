@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Troubleshoot Microsoft Teams meetings live events and messaging",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/troubleshoot-microsoft-teams-meetings-live-events-messaging/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to troubleshoot meeting creation, attendee access, meeting recording issues, and content sharing. Learn how to optimize live events, and how to troubleshoot messaging issues.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/troubleshoot-microsoft-teams-meetings-live-events-and-messaging.svg"
+  },
+  {
+    "Title": "Empower your workforce with Microsoft 365 Copilot: Sales use case",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot-sales/?WT.mc_id=api_CatalogApi",
+    "Description": "This module enables students to perform a series of Use Case exercises that build their Microsoft 365 Copilot skills in Sales-related business scenarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Navigate your Viva Glint results",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/viva-glint-navigate-viva-glint-results/?WT.mc_id=api_CatalogApi",
+    "Description": "Designed for Viva Glint users, this module guides you through the various dashboards and reports available on the Viva Glint app. Understanding each element of Viva Glint allows you to utilize the powerful analytics available within the app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Extend declarative agents with prompt tools in Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/extend-declarative-agents-prompt-actions-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Customize your declarative agent's generative responses by extending your agent with prompt tools. Craft custom prompts, test your prompts against the LLM, and add prompt tools to declarative agents that extend Microsoft 365 Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Protect identities in Microsoft Entra ID",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/protect-identities-azure-active-directory/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces students to the various authentication methods used to protect identities.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/protect-identities-azure-active-directory.svg"
+  },
+  {
+    "Title": "Plan for Microsoft Teams Phone",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/plan-teams-phone-system/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about Microsoft Teams Phone and what is needed to make and receive phone calls, plan for Teams Phone devices, features, and cloud voicemail.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/1-plan-teams-phone-system.svg"
+  },
+  {
+    "Title": "Understand Viva Glint\u2019s approach to 360 feedback",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/viva-glint-understand-viva-glint-approach-360-feedback/?WT.mc_id=api_CatalogApi",
+    "Description": "This module will provide you with the prerequisite knowledge designed to help you understand the foundations of a Viva Glint 360 feedback program.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Combine external applications for more customized productions with Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/m365-combine-external-applications-customized-productions/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create professional and engaging presentations for large audiences in Microsoft Teams. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/combine-external-applications-for-more-customized-productions.svg"
+  },
+  {
+    "Title": "Manage Safe Links",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-safe-links-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "This module examines how to manage Safe Links in your tenant by creating and configuring policies and using transport rules to disable a policy from taking effect in certain scenarios. MS-102",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-safe-links-microsoft-365.svg"
+  },
+  {
+    "Title": "Get started with Microsoft Viva Connections",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/viva-connections-get-started/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn what Microsoft Viva Connections is, how your organization will benefit from using it, and how to enable it in your Microsoft 365 tenant.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Explore Windows client file systems",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-windows-client-file-systems/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you will learn about the differences and benefits of the file systems that Windows client supports.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/windows-client-files.svg"
+  },
+  {
+    "Title": "Use Microsoft Graph and non-Microsoft APIs in SharePoint Framework solutions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sharepoint-spfx-graph-3rd-party-apis/?WT.mc_id=api_CatalogApi",
+    "Description": "This module will teach you how to use external APIs in your SharePoint Framework projects. You'll learn how to use data from anonymous APIs, REST APIs secured with Microsoft Entra ID, and Microsoft Graph.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/sharepoint-spfx-graph-3rd-party-apis.svg"
+  },
+  {
+    "Title": "Empower your workforce with Microsoft 365 Copilot: Legal Use Case",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/empower-workforce-microsoft-365-copilot-legal-use-case/?WT.mc_id=api_CatalogApi",
+    "Description": "This module enables students to perform a series of Use Case exercises that build their Microsoft 365 Copilot skills in Legal-related business scenarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Draft impactful documents using AI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/draft-impactful-documents-using-ai/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use Copilot in Microsoft Word to draft, edit, and enhance your content.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Analyze advanced device signals with Microsoft Intune Suite",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/analyze-advanced-device-signals/?WT.mc_id=api_CatalogApi",
+    "Description": "Use Microsoft Intune Suite Advanced Analytics, anomaly detection, and integration with Microsoft Defender to surface real-time device health and risk signals and drive risk-based policy decisions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Generate inventory and compliance reports",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/generate-inventory-compliance-reports/?WT.mc_id=api_CatalogApi",
+    "Description": "This module describes how to use Microsoft Endpoint Manager and Power BI to create compliance and custom reports.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/inventory-compliance-reports.svg"
+  },
+  {
+    "Title": "Manage compliance in Microsoft 365 and Exchange Online",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/m365-messaging-manage-compliance/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how compliance works in Exchange Online. Learn how to use retention and data loss prevention policies to keep the data and communications you're required to maintain, how to find that data and communications, and how to ensure you're ready for an audit.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-compliance-exchange-online-environment.svg"
+  },
+  {
+    "Title": "Migrate voice services from Skype for Business Server to Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/migrate-voice-services-from-skype-for-business-server-to-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn how to plan, configure, and migrate Skype for Business Server Enterprise Voice users and devices to Microsoft Teams. Allowing you to gradually move people from on-premises to the cloud, while maintaining the ability to call internally and externally during the migration. You can also continue to make use of personal and meeting room devices.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/3-migrate-voice-services-from-skype-for-business-server-to-teams.svg"
+  },
+  {
+    "Title": "Summarize and simplify information with Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/summarize-simplify-information-with-microsoft-copilot-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to craft an effective prompt to save time and effort by using Microsoft 365 Copilot to summarize, simplify, and visualize complex information using Microsoft 365 Copilot in Microsoft Word, PowerPoint, Excel, and Outlook.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Configure and manage voice users",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/configure-manage-voice-users/?WT.mc_id=api_CatalogApi",
+    "Description": "Ongoing management is required as new employees start, or if their needs change. Learn how to manage voice user configuration, including enabling voice services and adjusting voice configuration.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/1-configure-and-manage-voice-users.svg"
+  },
+  {
+    "Title": "Examine and Configure Surface Security Options",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/examine-configure-surface-security-options/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about advanced firmware and security features of Microsoft Surface devices, Surface UEFI, Project Mu, configuring Virtualization-based Security and Memory Integrity in Windows, and Firmware Attack Surface Reduction.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introduction to Microsoft 365 core services and admin controls",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-core-services-admin-control/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces the Microsoft 365 admin center and basic configurations for core services like Teams, Exchange, and SharePoint.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Classify data for protection and governance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/m365-compliance-information-classify-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the information available to help you understand your data landscape and know your data.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/classify-data-protection-governance.svg"
+  },
+  {
+    "Title": "Explore Microsoft Purview Data Loss Prevention",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-examine-data-loss-prevention-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "This module examines the data loss prevention features in Microsoft 365 that help organizations identify, monitor, report, and protect sensitive data through deep content analysis while helping users understand and manage data risks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-examine-data-loss-prevention-microsoft-365.svg"
+  },
+  {
+    "Title": "Understand endpoint management strategies and Microsoft Intune",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/understand-intune-strategies/?WT.mc_id=api_CatalogApi",
+    "Description": "Introduces Microsoft Intune, management models (cloud-only, hybrid, co-managed), and how Microsoft Entra ID supports device management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Explore Microsoft Purview Message Encryption",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-purview-message-encryption/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces Microsoft Purview Message Encryption, an online service that\u2019s built on Microsoft Azure Rights Management and includes encryption, identity, and authorization policies to help organizations secure their email.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-purview-message-encryption.svg"
+  },
+  {
+    "Title": "Manage users, licenses, guests, and contacts in Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-accounts-licenses-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "This module provides instruction on how to create and manage user accounts, assign Microsoft 365 licenses to users, recover deleted user accounts, and create and manage guests and contacts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-accounts-licenses-microsoft-365.svg"
+  },
+  {
+    "Title": "Use Adaptive Cards to show data in API plugins for declarative agents",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/copilot-declarative-agent-action-api-plugin-adaptive-cards-vsc/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to enhance the user experience of declarative agents by using Adaptive Cards to render API data visually. Create and configure Adaptive Card templates, integrate them into API plugins, and test the setup in Microsoft 365 Copilot. Learn the practical steps for building and previewing Adaptive Cards in Visual Studio Code.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Safeguard your environment with Microsoft Defender for Identity",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/m365-threat-safeguard/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the Microsoft Defender for Identity component of Microsoft Defender XDR.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection.svg"
+  },
+  {
+    "Title": "Describe collaboration solutions of Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-collaboration-solutions-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about how the collaboration solutions through Microsoft 365 unlock new ways of working together by helping people and teams stay connected, engaged, and ensure fluid communication across organizations. Prepare for MS-900.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/3-describe-collaboration-solutions-in-microsoft-365.svg"
+  },
+  {
+    "Title": "Learn the basics of psychological safety",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/viva-glint-basics-psychological-safety/?WT.mc_id=api_CatalogApi",
+    "Description": "This module provides three practical lessons managers can take to cultivate psychological safety on their teams. It also teaches managers how to use Copilot to help them practice these lessons.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Define ransomware and extortion-based security threats",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/ransomware-extortion-based-threats/?WT.mc_id=api_CatalogApi",
+    "Description": "Ransomware attacks are growing at an alarming rate. But what exactly is a ransomware attack? This module will define ransomware, determine the scope of the ransomware problem, describe who ransomware victims are, and will touch on a few notable ransomware \\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/examine-ransomware-extortion-based-threats.svg"
+  },
+  {
+    "Title": "Understand AI agents and prompting",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/understand-ai-agents-prompting/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about what AI Agents are and when to use them in every day tasks. Understand how to optimize your prompt to get the best possible results from Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Monitor and troubleshoot Teams collaboration communications systems",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/monitor-troubleshoot-teams-phone-system/?WT.mc_id=api_CatalogApi",
+    "Description": "Troubleshooting is an important task that includes troubleshooting of phone number assignment, call failure and quality issues, client issues, and device issues. Call Analytics, Call Quality Dashboard, and the Teams Rooms Pro portal are also covered for monitoring, reporting, and troubleshooting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/3-monitor-and-troubleshoot-teams-phone-system.svg"
+  },
+  {
+    "Title": "Examine email protection in Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/examine-exchange-online-protection/?WT.mc_id=api_CatalogApi",
+    "Description": "This module examines how Exchange Online Protection (EOP) protects organizations from phishing and spoofing. It also explores how EOP blocks spam, bulk email, and malware before they arrive in users\u2019 mailboxes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/examine-exchange-online-protection.svg"
+  },
+  {
+    "Title": "Build your first declarative agent for Microsoft 365 Copilot by using Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-your-first-agent-microsoft-365-copilot-use-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Define an agent to extend Microsoft 365 Copilot tailored to a specific scenario. Your declarative agent provides relevant and accurate responses using custom knowledge.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introduction to custom engine agents",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/copilot-custom-engine-agents-intro/?WT.mc_id=api_CatalogApi",
+    "Description": "Evaluate whether a custom engine agent is the right choice for building an agent in Microsoft 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Monitor and optimize application performance using Microsoft Intune",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/monitor-optimize-application-performance-intune/?WT.mc_id=api_CatalogApi",
+    "Description": "Monitor application health, deployment status, and performance across managed devices using Microsoft Intune reports and Endpoint analytics.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Create and draft with Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-draft-content-with-microsoft-copilot-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to craft an effective prompt to save time and effort by using Microsoft 365 Copilot to create, draft, and brainstorm new ideas and material using Microsoft 365 Copilot in Microsoft Word, PowerPoint, Teams, and Outlook.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Add a custom domain in Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/add-domain-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "This module provides instruction on how to add a custom domain to your Microsoft 365 deployment. It also examines the DNS requirements that are necessary to support a new domain.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/add-domain-microsoft-365.svg"
+  },
+  {
+    "Title": "Configure and secure devices with Microsoft Intune policies",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/configure-secure-devices-intune-policies/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to configure and secure devices using Microsoft Intune configuration profiles, compliance policies, and dynamic group targeting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Explore device encryption features",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-device-encryption-features/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explains the benefits of using encryption to protect drives and files against unauthorized access.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/encryption-explore-features.svg"
+  },
+  {
+    "Title": "Use and customize Microsoft Search for schools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/microsoft-search-edu/?WT.mc_id=api_CatalogApi",
+    "Description": "Overview of the search experience for schools, including the custom results available to students and teachers, and the settings available to customize school and web results for your organization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/microsoft-search-edu.svg"
+  },
+  {
+    "Title": "Perform basic administrative tasks for Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/perform-admin-tasks-microsoft-365-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "This module guides administrators on how to manage Microsoft 365 Copilot, including licensing and access control, billing and usage monitoring, prompt governance, and strategies for tracking and driving user adoption.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implement security for Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-security-for-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about different security capabilities for Microsoft Teams, including Conditional Access, multifactor authentication, Safe Attachments, Safe Links, and Defender for Cloud Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/teams-implement-security.svg"
+  },
+  {
+    "Title": "Protect against malicious attacks and unauthorized access with Microsoft Edge",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/protect-against-malicious-attacks-unauthorized-access-with-microsoft-edge/?WT.mc_id=api_CatalogApi",
+    "Description": "Protect against malicious attacks and unauthorized access with Microsoft Edge",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/protect-against-malicious-attacks-and-unauthorized-access-with-microsoft-edge.svg"
+  },
+  {
+    "Title": "Extend the SharePoint user interface with SharePoint Framework extensions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sharepoint-spfx-extensions/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to extend the SharePoint user interface with SharePoint Framework extensions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/sharepoint-spfx-extensions.svg"
+  },
+  {
+    "Title": "Enable SharePoint Framework web part configuration with property panes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sharepoint-spfx-web-part-property-pane/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to enable web part configurations with property panes in the SharePoint Framework.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/sharepoint-spfx-web-part-property-pane.svg"
+  },
+  {
+    "Title": "Bringing it all together for engaging virtual events in Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/m365-bring-all-together-engaging-virtual-events/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn best practices for producing, presenting, moderating, and attending a virtual event in Microsoft Teams or Microsoft 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/bringing-it-all-together-for-engaging-virtual-events.svg"
+  },
+  {
+    "Title": "Independent learning with math tools in OneNote",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/independent-learning-math-tools-onenote/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators understand how OneNote Math Assistant allows students to see the steps to solve an equation and become independent learners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/independent-learning-math-tools-onenote.svg"
+  },
+  {
+    "Title": "Collaborate faster using Microsoft Teams for higher education staff",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/collaborate-faster-microsoft-teams-higher-education-staff/?WT.mc_id=api_CatalogApi",
+    "Description": "Use staff and PLC teams in Microsoft Teams to work with colleagues, share files, and hold online meetings with screen share and whiteboard.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/collaborate-faster-microsoft-teams-higher-education-staff.svg"
+  },
+  {
+    "Title": "Use AI for nonprofit role-based tasks, tools, and workflows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-ai-nonprofit-role-base-tasks-tools-workflows/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to identify tasks at nonprofits that are suitable for AI and require human insight, context, and values.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Activate AI with the Microsoft Education AI Toolkit",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/activate-ai-microsoft-education-ai-toolkit/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover the Microsoft Education AI Toolkit for education leaders. Access strategies and tips across five areas to support your AI journey.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/activate-ai-microsoft-education-ai-toolkit.svg"
+  },
+  {
+    "Title": "Extend Microsoft Teams with Learning Management Systems (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/extend-microsoft-teams-learning-management-systems/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to extend Microsoft Teams for Education by integrating it with learning management systems (LMS) to streamline assignments, grading, and classroom workflows. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Transform learning with 21st century learning design",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/transform-learning-21st-century-learning-design/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators explore learning in the 21st century and innovative teaching practices that support the development of 21st century skills.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/transform-learning-21st-century-learning-design.svg"
+  },
+  {
+    "Title": "Minecraft in esports",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/minecraft-esports/?WT.mc_id=api_CatalogApi",
+    "Description": "Utilize Minecraft Education esports content to host competitions and tournaments for students.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Keep students safe in the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/keep-students-safe-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Equip Minecraft Student Ambassador sponsors with essential guidelines and best practices to ensure student safety at all sponsored events.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/keep-students-safe-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Code Jumper: An inclusive physical coding language",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/code-jumper-inclusive-physical-coding-language/?WT.mc_id=api_CatalogApi",
+    "Description": "Code Jumper is an easy platform to help students, with or without visual impairments, build the necessary coding skills for a modern workplace.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/code-jumper-inclusive-physical-coding-language.svg"
+  },
+  {
+    "Title": "Digital citizenship: Prepare today's learners for online success",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/digital-citizenship-prepare-todays-learners/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn that understanding how online actions affect self and others is important for teaching digital citizenship in today's education environments.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/digital-citizenship-prepare-todays-learners.svg"
+  },
+  {
+    "Title": "Improve communication skills with the 21CLD skilled communication dimension",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/improve-communication-skills-21cld/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn the concept of skilled communication to supports them in designing learning activities to this important skill.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/improve-communication-skills-21cld.svg"
+  },
+  {
+    "Title": "Prepare your child with cybersecurity essentials",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/prepare-child-cybersecurity-essentials/?WT.mc_id=api_CatalogApi",
+    "Description": "Use cybersecurity measures to help protect children online. This module equips parents and guardians with strategies for teaching cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/prepare-child-cybersecurity-essentials.svg"
+  },
+  {
+    "Title": "Flipped instruction with Record feature in PowerPoint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/flipped-instruction-powerpoint-recorder/?WT.mc_id=api_CatalogApi",
+    "Description": "Use Record in PowerPoint to flip instruction, provide content for students outside of class, and help improve student outcomes. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/flipped-instruction-powerpoint-recorder.svg"
+  },
+  {
+    "Title": "Explore SOC tools and technologies with Microsoft Security",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-tools-technologies-microsoft-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how SOC teams use tools like SIEM, SOAR, XDR, and AI to detect and respond to cyber threats using Microsoft's unified security platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Dyslexia Teaching: Part 3, In partnership with Made By Dyslexia",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dyslexia-teaching-part-3/?WT.mc_id=api_CatalogApi",
+    "Description": "Deepen yourunderstanding of dyslexia with next-level strategies and solutions for memory, organization & concentration, math, and technology.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/dyslexia-teaching-part-3.svg"
+  },
+  {
+    "Title": "Utilize MakeCode Arcade in your classroom",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/utilize-makecode-arcade-your-classroom/?WT.mc_id=api_CatalogApi",
+    "Description": "Use Microsoft MakeCode Arcade to provide meaningful instruction that develops computer science concepts and skills.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/utilize-makecode-arcade-your-classroom.svg"
+  },
+  {
+    "Title": "Understand security operations centers (SOCs) to manage cybersecurity",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/understand-security-operations-centers-manage-cybersecurity/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn what a security operations center (SOC) is, key roles like analysts and threat hunters, and how SOCs detect, respond to, and recover from cyber threats.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Design AI for good, in partnership with ISTE+ASCD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/design-ai-for-good/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn to evaluate AI outputs using a consistent routine rather than intuition or fluency using an Output QA process to check accuracy, bias, and readiness.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "AI foundations for nonprofits",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/ai-foundations-for-nonprofits/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces foundational AI concepts and key terminology, providing a baseline for all subsequent learning.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Practice collaborative skills with the 21CLD collaboration dimension",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/practice-collaborative-skills-21cld-collaboration/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators design learning for learners to develop collaboration skills: shared responsibility, substantive decisions making, and interdependent work.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/practice-collaborative-skills-21cld-collaboration.svg"
+  },
+  {
+    "Title": "Know where to leverage AI in your classroom",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/know-where-leverage-ai-classroom/?WT.mc_id=api_CatalogApi",
+    "Description": "Classroom teachers, instructional coaches, and administrators learn to use AI in their roles supporting students, teachers, and school systems.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Empower school leaders and educators with Windows 11",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/windows-11-101/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to use Windows 11 with best practices, accessibility, security, and management tools to enhance learning and streamline technology integration.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/windows-11-101.svg"
+  },
+  {
+    "Title": "Empower Dyslexic Thinking in schools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/empower-dyslexic-thinking-schools/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators and guardians learn best practices, resources, and tools to harness valuable dyslexic thinking skills for a world in increasing need of them.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/empower-dyslexic-thinking-schools.svg"
+  },
+  {
+    "Title": "Build a reflective AI practice over time",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-reflective-ai-practice-over-time/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn to use AI responsibly by building accurate mental models and a simple reflection routine.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Deepen educational experiences with the 21CLD ICT for learning dimension",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/deepen-educational-experiences/?WT.mc_id=api_CatalogApi",
+    "Description": "This module highlights for educators the need to use information and communication technologies (ICT) to transform learning experiences and create and design new information and ICT products.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/deepen-educational-experiences.svg"
+  },
+  {
+    "Title": "Support student learning with MakeCode Arcade",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/support-student-learning-with-makecode-arcade/?WT.mc_id=api_CatalogApi",
+    "Description": "Use Microsoft MakeCode Arcade in both computer science courses and noncomputer science courses to support student learning outcomes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/support-student-learning-with-makecode-arcade.svg"
+  },
+  {
+    "Title": "Enhance creativity to advance learning with Windows 11 and Microsoft 365 tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/enhance-creativity-advance-learning-windows-11-microsoft-365-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explores how educators transitioning to Microsoft 365 from other platforms gain access to a powerful library of creativity tools and apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/enhance-creativity-advance-learning-windows-11-microsoft-365-tools.svg"
+  },
+  {
+    "Title": "Explore the benefits of a Change Agents Program for public sector organizations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-benefits-change-agents-program-public-sector-organizations/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the benefits of Change Agents in public sector to support technology-based change and adoption.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Transition to Python in Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/transition-python-minecraft-education-edition/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how educators teach Python with Minecraft Education worlds, lessons, and supporting materials.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/transition-python-minecraft-education-edition.svg"
+  },
+  {
+    "Title": "Unlock the power of Microsoft agents",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/unlock-power-microsoft-agents/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to use Microsoft 365 Copilot AI agents in education understanding types, benefits, workflows, setup, and custom agent creation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Teach information literacy with Search Coach and Search Progress",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/teach-information-literacy-search-coach-search-progress/?WT.mc_id=api_CatalogApi",
+    "Description": "Help learners build transferable online reasoning skills and make their research process visible with Search Coach and Search Progress.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/teach-information-literacy-search-coach-search-progress.svg"
+  },
+  {
+    "Title": "Develop confident presenters with Speaker Progress",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/develop-confident-presenters-speaker-progress/?WT.mc_id=api_CatalogApi",
+    "Description": "Speaker Progress empowers learners to develop presentation skills and gain confidence in their speaking abilities with real-time coaching.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/develop-confident-presenters-speaker-progress.svg"
+  },
+  {
+    "Title": "Build reading fluency with Reading Coach",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-reading-fluency-reading-coach/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Reading Coach, a free tool that uses artificial intelligence and built-in fluency detection to personalize reading content and practice for learners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/build-reading-fluency-reading-coach.svg"
+  },
+  {
+    "Title": "Use Microsoft Teams Assignments in learning management systems",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-microsoft-teams-assignments-learning-management-systems/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to seamlessly integrate Teams Assignments into learning management systems like Blackboard Ultra, D2L Brightspace, Canvas, and Schoology Learning.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Teach cybersecurity concepts with Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/teach-cybersecurity-concepts-minecraft-education/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the full cybersecurity pathway in Minecraft Education to support educators in facilitating cybersecurity education with students.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/teach-cybersecurity-concepts-minecraft-education.svg"
+  },
+  {
+    "Title": "Dyslexia Awareness: Part 2, in partnership with Made By Dyslexia",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dyslexia-awareness-part-2/?WT.mc_id=api_CatalogApi",
+    "Description": "This Dyslexia Awareness module teaches foundational approaches for literacy, math, emotional impact, memory, organization, concentration, technology.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/dyslexia-awareness-part-2.svg"
+  },
+  {
+    "Title": "Use Microsoft accessibility features in education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-microsoft-accessibility-features-education/?WT.mc_id=api_CatalogApi",
+    "Description": "Help education customers use Microsoft accessibility tools for vision, hearing, neurodiversity, cognition, and mobility.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Build a digital learning hub with Class Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-digital-learning-hub-class-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to use Microsoft Teams for Education to share content, collaborate, and communicate with learners, guardians, colleagues, and the larger school community.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/build-digital-learning-hub-class-teams.svg"
+  },
+  {
+    "Title": "Dyslexia Awareness: Part 1, in partnership with Made By Dyslexia",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dyslexia-awareness-part-1/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators and parents learn essential insight into dyslexia.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/dyslexia-awareness-part-1.svg"
+  },
+  {
+    "Title": "Get started with the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Start the journey to build a Minecraft Student Ambassador program or club. Module one in a learning path.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Understand the AI Literacy Framework, in partnership with ISTE+ASCD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/understand-ai-literacy-framework/?WT.mc_id=api_CatalogApi",
+    "Description": "Apply the AILit Framework to school scenarios, identifying decision domains, forming domain-first questions, and using reflection loops to guide safeguards, communication, and responsible AI use.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Grow your Minecraft esports program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/grow-your-minecraft-esports-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Grow your Minecraft Education esports program by setting expectations and creating competitive tournaments.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Build with AI as a creative partner, developed in partnership with ISTE+ASCD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-with-ai-creative-partner/?WT.mc_id=api_CatalogApi",
+    "Description": "Build a practical, educator-ready approach to using AI as a creative partner without outsourcing professional judgment.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Guide assessment with Copilot in Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/guide-assessment-copilot-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how Assignments in Teams for Education and Microsoft 365 LTI can help educators set clear expectations and guidelines on AI use by learners and communicate rubric-based feedback more effectively.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Hybrid learning: A model for the future of learning",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/hybrid-learning-a-new-model-for-the-future-of-learning/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn the five elements of hybrid learning and how to implement them with Microsoft Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/hybrid-learning-a-new-model-for-the-future-of-learning.svg"
+  },
+  {
+    "Title": "Create an inclusive environment with cultural leadership",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-inclusive-environment-cultural-leadership/?WT.mc_id=api_CatalogApi",
+    "Description": "School leaders learn to create inclusive environments, equitable access, and stakeholder engagement using Microsoft tools.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-inclusive-environment-cultural-leadership.svg"
+  },
+  {
+    "Title": "Build programs using Python coding in Minecraft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-programs-use-python-coding-minecraft-azure-notebooks/?WT.mc_id=api_CatalogApi",
+    "Description": "Apply coding knowledge in Python, a text-based programming language, through Minecraft Education to facilitate Python coding in the classroom with students.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/build-programs-use-python-coding-minecraft-azure-notebooks.svg"
+  },
+  {
+    "Title": "Introduction to the Partner Success Series",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-partner-success-series/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the Partner Success Series, a training program specifically for education partners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Build Study Guides in Copilot Notebooks",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-study-guides-copilot-notebooks/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how Copilot Notebook Study Guide supports learning mastery using course materials to generate summaries, quizzes, and more interactive activities.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Dyslexia Teaching: Part 1, In partnership with Made By Dyslexia",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dyslexia-teaching-part-1/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft and Made By Dyslexia\u2019s shared mission empowers every person with dyslexia to reach their potential. This training showcases best practices for teaching and empowering students with dyslexia.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/dyslexia-teaching-part-1.svg"
+  },
+  {
+    "Title": "Manage AI thoughtfully, developed in partnership with ISTE+ASCD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-ai-thoughtfully/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how AI generates text, why outputs sound confident but miss key context, and how clear prompts use purpose, audience, constraints, and criteria.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  }
+]
