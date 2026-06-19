@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Potenciaci\u00f3n del aula con SharePoint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-classroom-sharepoint/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo Microsoft SharePoint mejora la productividad, la eficiencia y la comunicaci\u00f3n en la educaci\u00f3n. Aprenda a crear p\u00e1ginas web, listas y optimizar bibliotecas para potenciar el aula.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/power-classroom-sharepoint.svg"
+  },
+  {
+    "Title": "Bloc de notas del personal de OneNote: herramientas para la colaboraci\u00f3n del personal",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/onenote-staff-notebook/?WT.mc_id=api_CatalogApi",
+    "Description": "Colabore con compa\u00f1eros o personal mediante OneNote. Los blocs de notas del personal de OneNote tienen un \u00e1rea de trabajo personal para cada miembro del personal o profesor, una biblioteca de contenido para informaci\u00f3n compartida y un espacio de colaboraci\u00f3n para que todos trabajen juntos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/onenote-staff-notebook.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la inteligencia artificial y la ciencia de datos en la educaci\u00f3n STEM con FarmBeats para estudiantes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduce-ai-data-science-stem-farmbeats-students/?WT.mc_id=api_CatalogApi",
+    "Description": "Los educadores ense\u00f1an inteligencia artificial y ciencia de datos con FarmBeats for Students mediante la resoluci\u00f3n de desaf\u00edos agr\u00edcolas del mundo real en asociaci\u00f3n con la Organizaci\u00f3n Nacional de FFA.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/introduce-ai-data-science-stem-farmbeats-students.svg"
+  },
+  {
+    "Title": "Facilitar una experiencia de Hora de la IA en Minecraft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/facilitate-minecraft-hour-ai-experience/?WT.mc_id=api_CatalogApi",
+    "Description": "Proporcionar a los estudiantes una formaci\u00f3n de alta calidad en inteligencia artificial y ciencias de la computaci\u00f3n a trav\u00e9s de una experiencia satisfactoria con Hora de la IA en Minecraft Education.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/facilitate-minecraft-hour-ai-experience.svg"
+  },
+  {
+    "Title": "Minecraft Trainer Academy: Entrenamiento de educadores para ense\u00f1ar con Minecraft Education en el aula",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-trainer-academy-minecraft-education-classroom/?WT.mc_id=api_CatalogApi",
+    "Description": "La Minecraft Education Trainer Academy gu\u00eda a los educadores a trav\u00e9s de los procedimientos recomendados para preparar y facilitar una formaci\u00f3n de Minecraft Education para su organizaci\u00f3n, proporciona los materiales de aprendizaje e inspira ideas para crear un entorno de entrenamiento que permita a todos usar Minecraft Education\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/minecraft-trainer-academy-minecraft-education-classroom.svg"
+  },
+  {
+    "Title": "Apoye el aprendizaje socioemocional con las herramientas de Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/support-social-emotional-learning/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda formas pr\u00e1cticas de introducir el aprendizaje social y emocional mediante herramientas de Microsoft como Minecraft para aumentar y mejorar el aprendizaje.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/support-social-emotional-learning.svg"
+  },
+  {
+    "Title": "Aumentar la productividad con el explorador Office, OneNote y Microsoft Edge en Windows 11",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/increase-productivity-office-onenote-edge-browser-windows-11/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore c\u00f3mo los educadores que realizan la transici\u00f3n a Microsoft 365 desde otras plataformas aumentan la productividad con las herramientas de Microsoft.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/increase-productivity-office-onenote-edge-windows.svg"
+  },
+  {
+    "Title": "Organizar contenido, crear asignaciones y evaluar la comprensi\u00f3n de los aprendices en Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/organize-content-create-assignments-assess-learners-understanding-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Cree y organice contenido en Trabajo en clase, administre asignaciones, simplifique las evaluaciones, proporcione comentarios puntuales y realice un seguimiento de las tendencias acad\u00e9micas y DEL dentro de Class Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/organize-content-create-assignments-assess-learners-understanding-teams.svg"
+  },
+  {
+    "Title": "Desarrollo de una funci\u00f3n ejecutiva de estudiante con la dimensi\u00f3n de autorregulaci\u00f3n 21CLD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/develop-learner-executive-function/?WT.mc_id=api_CatalogApi",
+    "Description": "Los educadores aprenden sobre el concepto de autorregulaci\u00f3n y a dise\u00f1ar actividades de aprendizaje para ayudar a los estudiantes a desarrollarlo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/develop-learner-executive-function.svg"
+  },
+  {
+    "Title": "Capacite a los educadores para explorar el potencial de la inteligencia artificial",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/empower-educators-explore-potential-artificial-intelligence/?WT.mc_id=api_CatalogApi",
+    "Description": "Los educadores aprenden a usar la inteligencia artificial, la inteligencia artificial generativa y las herramientas de Microsoft para personalizar el aprendizaje, automatizar tareas y proporcionar informaci\u00f3n para la educaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/empower-educators-explore-potential-artificial-intelligence.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n de una comunidad con Teams y OneNote",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-community-teams-onenote/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se explora c\u00f3mo los formadores que realizan la transici\u00f3n a Microsoft 365 desde otras plataformas pueden usar Teams y OneNote, dos programas completos que ofrecen diversas opciones y una variedad de caracter\u00edsticas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-community-teams-onenote.svg"
+  },
+  {
+    "Title": "Desarrolle aptitudes sociales y emocionales en su comunidad educativa con Reflect",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-sel-skills-with-reflect/?WT.mc_id=api_CatalogApi",
+    "Description": "Los alumnos necesitan las palabras para expresar y abordar las emociones. Los educadores deben construir un lugar seguro para el bienestar social y emocional en el aula.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-sel-skills-with-reflect.svg"
+  },
+  {
+    "Title": "Use Power Automate para aumentar la productividad",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-power-automate-increase-productivity/?WT.mc_id=api_CatalogApi",
+    "Description": "Los formadores comprenden mejor lo que es Power Automate y exploran lo que Power Automate puede hacer. Vea c\u00f3mo Power Automate puede beneficiar a los educadores para simplificar las tareas diarias.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/use-power-automate-increase-productivity.svg"
+  },
+  {
+    "Title": "Descubra Power Apps for Educators y recupere su tiempo 101",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/discover-power-apps-educators-reclaim-time/?WT.mc_id=api_CatalogApi",
+    "Description": "Los educadores aprenden a utilizar Power Apps creando ellos mismos aplicaciones que les ayudan a ahorrar tiempo y a crear eficiencia administrativa.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/discover-power-apps-educators-reclaim-time.svg"
+  },
+  {
+    "Title": "Colaborar con compa\u00f1eros con el personal y los equipos de PLC en Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/collaborate-colleagues-staff-plc-teams-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Los equipos de personal y los equipos de PLC de Microsoft Teams facilitan la colaboraci\u00f3n entre compa\u00f1eros profesionales e incorporan el uso compartido de archivos y la organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/collaborate-colleagues-staff-plc-teams-microsoft-teams.svg"
+  },
+  {
+    "Title": " #MicrosoftEDULab Online",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/edulab-online/?WT.mc_id=api_CatalogApi",
+    "Description": "#MicrosoftEDULab es un entorno de experimentaci\u00f3n educativa, con sesiones de capacitaci\u00f3n docente y talleres innovadores para alumnos de todas las edades. Descubre todos los beneficios que la programaci\u00f3n, el cuaderno digital y los videojuegos pueden hacer por tus alumnos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/edulab-online.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n de grupos de trabajo con Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/equipos-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso descubrir\u00e1s c\u00f3mo configurar el equipo de Microsoft Teams que has creado de manera que puedas gestionar los permisos de los miembros y propietarios de TEAMS, aprobar o rechazar peticiones de adhesi\u00f3n al equipo, estructurar los canales, tags y ajustes de los mismos, y personalizar tu equipo de clase a trav\u00e9s de la adici\u00f3n de aplicaciones y del uso de Insights. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/equipos-teams.svg"
+  },
+  {
+    "Title": "Actividad digital y retroalimentaci\u00f3n en Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/actividad-digital-retroalimentacion-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Corrige las tareas de tus estudiantes desde tu equipo de Microsoft Teams y descubre c\u00f3mo exportar las notas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/actividad-digital-retroalimentacion-teams.svg"
+  },
+  {
+    "Title": "Comparte contenidos con tus estudiantes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/comparte-contenido-estudiantes/?WT.mc_id=api_CatalogApi",
+    "Description": "Conoce Microsoft Teams, un entorno de trabajo online que te permite crear grupos de trabajo colaborativos y organizar tus clases creando canales para cada una de las asignaturas, proyectos o departamentos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/comparte-contenido-estudiantes.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n de contenidos y recursos digitales",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/creacion-recursos-digitales/?WT.mc_id=api_CatalogApi",
+    "Description": "Trabaja de forma colaborativa con Microsoft Sway y Microsoft Forms. Descubre una nueva forma de presentar contenido y eval\u00faa a tus estudiantes con herramientas innovadoras ya disponibles en tu panel de Office 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/creacion-recursos-digitales.svg"
+  },
+  {
+    "Title": "Herramientas de Aprendizaje accesibles en PowerPoint - Lenguaje y learning tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/accesibilidad-powerpoint-parte-1/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso aprender\u00e1s a usar las Herramientas que Microsoft pone a tu disposici\u00f3n en PowerPoint para lograr una mayor inclusividad en el aula y mejorar la atenci\u00f3n al alumnado, convirtiendo el aprendizaje en uno centrado en el alumno/a. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/accesibilidad-powerpoint-parte-1.svg"
+  },
+  {
+    "Title": "Programa Microsoft Innovative Educator (MIE) - MIE Expert",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/mie-expert/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft apoya a la Comunidad de docentes innovadores, que est\u00e1n constantemente aprendiendo, creciendo y trabajando juntos para transformar la forma de ense\u00f1ar y construir un mundo mejor. El programa de Microsoft Innovative Educator (MIE) Expert, es un programa exclusivo creado para reconocer a docentes innovadores como t\u00fa.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/mie-expert.svg"
+  },
+  {
+    "Title": "Crear un entorno personal de aprendizaje",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/crear-entorno-personal-aprendizaje/?WT.mc_id=api_CatalogApi",
+    "Description": "Favorece la creaci\u00f3n y desarrollo del PLE (Personal Learning Environment) de tus estudiantes ofreci\u00e9ndoles herramientas y recursos innovadores.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/crear-entorno-personal-aprendizaje.svg"
+  },
+  {
+    "Title": "Lecciones M:EE para trabajar en el aula",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/lecciones-mee-para-trabajar-en-el-aula/?WT.mc_id=api_CatalogApi",
+    "Description": "Minecraft Education es un juego que va a conseguir cambiar la din\u00e1mica de tu aula de forma sencilla. Apuesta por una herramienta como esta para introducir el aprendizaje basado en el juego de forma efectiva y aprovechando el potencial de una herramienta como esta.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/lecciones-mee-para-trabajar-en-el-aula.svg"
+  },
+  {
+    "Title": "\u00bfC\u00f3mo trabajan mis estudiantes en Microsoft?",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/trabajan-estudiantes-microsoft/?WT.mc_id=api_CatalogApi",
+    "Description": "Ponte en el lugar de tus estudiantes para conocer sus necesidades y descubrir c\u00f3mo trabajan con las herramientas de Office 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/trabajan-estudiantes-microsoft.svg"
+  },
+  {
+    "Title": "\u00a1A la caza del tesoro con OneNote y Microsoft Teams!",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/caza-del-tesoro-onenote/?WT.mc_id=api_CatalogApi",
+    "Description": "Desarrolla una metodolog\u00eda de gamificaci\u00f3n en tu aula creando una \u201ccaza del tesoro\u201d con OneNote y Microsoft Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/caza-del-tesoro-onenote.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Minecraft y c\u00f3mo empezar a utilizarlo en el aula",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduccion-a-minecraft-como-empezar-a-usarlo-en-el-aula/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso aprender\u00e1s los fundamentos b\u00e1sicos de Minecraft Education",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/introduccion-a-minecraft-como-empezar-a-usarlo-en-el-aula.svg"
+  },
+  {
+    "Title": "Genera tareas para tus estudiantes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/genera-tareas-estudiantes-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfSab\u00edas que puedes crear y enviar tareas a tus estudiantes directamente desde Microsoft Teams? Ahora puedes hacerlo personalizando los planes de trabajo y planificando las entregas. Adem\u00e1s, puedes a\u00f1adir tus cuestionarios de Microsoft Forms para enriquecer las tareas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/genera-tareas-estudiantes-teams.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n de Tareas con Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/creacion-de-tareas-con-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Teams ayuda a los docentes a crear tareas, realizar el seguimiento y correcci\u00f3n de las mismas de un modo eficiente directamente desde un equipo para clase. En la pesta\u00f1a Tareas, puedes crear una actividad, adjuntar los archivos pertinentes y publicar los criterios que utilizar\u00e1s para evaluar el trabajo de los estudiantes. Una vez que los estudiantes hayan enviado sus trabajos, podr\u00e1s corregirlos, aportarles comentarios para mejorarlos y calificarlos. Dado que todo se almacena dentro de Microsoft Teams, los estudiantes ya no perder\u00e1n las tareas y las tendr\u00e1n siempre localizadas sabiendo en todo momento cu\u00e1les han presentado y cu\u00e1les les quedan pendientes de presentar y los profesores no tendr\u00e1n que acarrear pilas de cuadernos y trabajos para corregirlos. Con Tareas, Teams viene a aportar una soluci\u00f3n muy interesante en relaci\u00f3n con la evaluaci\u00f3n del alumnado, pudiendo los profesores administrar todos los aspectos de los cursos que imparten en una sola ubicaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/creacion-de-tareas-con-microsoft-teams.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n y personalizaci\u00f3n de contenido con PowerPoint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/creacion-personalizacion-de-contenido-con-powerpoint/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfEst\u00e1s interesado en crear sus propios v\u00eddeos educativos, pero no conoces c\u00f3mo hacerlo? A lo largo de este m\u00f3dulo podr\u00e1s descubrir las ventajas que puede proporcionarte este recurso pedag\u00f3gico dentro de sus clases, c\u00f3mo crear v\u00eddeos de calidad de una manera r\u00e1pida y sencilla y sacar el m\u00e1ximo partido a esos v\u00eddeos gracias al entorno de Office 365. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/creacion-personalizacion-de-contenido-con-powerpoint.svg"
+  },
+  {
+    "Title": "Aprendizaje colaborativo en Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aprendizaje-colaborativo-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Sube archivos a tu equipo de Microsoft Teams y comp\u00e1rtelos de forma segura con tus estudiantes y compa\u00f1eros. Descubre c\u00f3mo OneNote tambi\u00e9n est\u00e1 integrado dentro de Microsoft Teams. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/aprendizaje-colaborativo-teams.svg"
+  },
+  {
+    "Title": "Club MIE",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/club-mie/?WT.mc_id=api_CatalogApi",
+    "Description": "El Club MIE es una iniciativa lanzada por Microsoft para reunir a todos los docentes interesados que est\u00e1n usando en su d\u00eda a d\u00eda las soluciones educativas de Microsoft conect\u00e1ndoles entre si para compartir experiencias y d\u00e1ndoles el soporte que necesitan. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/club-mie.svg"
+  },
+  {
+    "Title": "B\u00fasquedas efectivas con Edge",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/busqueda-microsoft-edge/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00a1Descubre Microsoft Edge! Tu buscador web de confianza que te permite explorar y archivar informaci\u00f3n de forma eficiente y segura.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/busqueda-microsoft-edge.svg"
+  },
+  {
+    "Title": "Construye tu entorno de trabajo personalizado con OneNote",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/construye-tu-entorno-de-trabajo/?WT.mc_id=api_CatalogApi",
+    "Description": "Organiza tu aula con OneNote, un cuaderno digital multimedia que te permite a\u00f1adir secciones, p\u00e1ginas y subp\u00e1ginas para estructurar tu contenido de clase. Descubre todas sus posibilidades.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/construye-tu-entorno-de-trabajo.svg"
+  },
+  {
+    "Title": "Trabajo colaborativo con Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/trabajo-colaborativo-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "A\u00f1ade pesta\u00f1as adicionales dentro de tu equipo de Microsoft Teams e incluye documentos, v\u00eddeos o aplicaciones con las que trabajes de forma habitual.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/trabajo-colaborativo-teams.svg"
+  },
+  {
+    "Title": "Define tu perfil y comun\u00edcate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/define-tu-perfil-comunicate/?WT.mc_id=api_CatalogApi",
+    "Description": "Comienza tu aventura con Office 365. Inicia sesi\u00f3n con tu usuario y contrase\u00f1a, descubre tu panel de aplicaciones y personaliza tu experiencia seg\u00fan tus preferencias.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/define-tu-perfil-comunicate.svg"
+  },
+  {
+    "Title": "MicrosoftEDULab en Minecraft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-edulab-mee/?WT.mc_id=api_CatalogApi",
+    "Description": "El EDULab es un laboratorio de experiencias educativas, que ha obtenido el reconocimiento de European Schoolnet, dentro del network de Future Classroom Labs. El MicrosoftEDULab es un espacio de ense\u00f1anza y aprendizaje totalmente equipado, que pretende ayudar a visualizar la forma en que nuestras aulas actuales pueden reorganizarse para promover cambios en los estilos de ense\u00f1anza y aprendizaje.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/microsoft-edulab-mee.svg"
+  },
+  {
+    "Title": "Interacciona con tus estudiantes. Comunicaci\u00f3n con Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/interacciona-con-tus-estudiantes-comunicacion/?WT.mc_id=api_CatalogApi",
+    "Description": "Comun\u00edcate de forma eficiente y segura con tus estudiantes, crea equipos, realiza publicaciones, abre chats privados y mucho m\u00e1s.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/interacciona-con-tus-estudiantes-comunicacion.svg"
+  },
+  {
+    "Title": "Herramientas de Aprendizaje Accesibles en PowerPoint \u2013 Flipped Classroom y Presentaci\u00f3n ",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/accesibilidad-powerpoint-parte2/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso aprender\u00e1s a usar las Herramientas que Microsoft pone a tu disposici\u00f3n en Powerpoint para lograr una mayor inclusividad en el aula y mejorar la atenci\u00f3n al alumnado, conviertiendo el aprendizaje en uno centrado en el alumno/a. Al mismo tiempo aprender\u00e1s una serie de t\u00e9cnicas que te permitir\u00e1n mejorar los contenidos propios dise\u00f1ados con anterioridad en PowerPoint adapt\u00e1ndolos a nuevas metodolog\u00edas sin tener que crearlos desde cero. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/accesibilidad-powerpoint-parte2.svg"
+  },
+  {
+    "Title": "Tu cuaderno colaborativo de clase con OneNote",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/cuaderno-colaborativo-clase-onenote/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubre c\u00f3mo trabajar con tu cuaderno digital OneNote desde un equipo de Microsoft Teams y crea espacios colaborativos de aprendizaje.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/cuaderno-colaborativo-clase-onenote.svg"
+  },
+  {
+    "Title": "Primeros pasos con Minecraft: Education Edition",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/primeros-pasos-minecraft/?WT.mc_id=api_CatalogApi",
+    "Description": "Minecraft: Education Edition es la versi\u00f3n educativa del popular videojuego Minecraft, el juego m\u00e1s vendido de la historia, jugado d\u00eda tras d\u00eda por miles de jugadores de todas las edades. En 2016 Microsoft lanz\u00f3 la versi\u00f3n educativa llamada Minecraft: Education Edition, una versi\u00f3n que cuenta con numerosos recursos espec\u00edficos para educaci\u00f3n y con m\u00e1s de 35 millones de usuarios, entre docentes y estudiantes, en 115 pa\u00edses. En este curso aprender\u00e1s a dar los primeros pasos con esta herramienta en el aula, empezando por conocer su adquisici\u00f3n como instituci\u00f3n educativa y su instalaci\u00f3n en diferentes dispositivos, adem\u00e1s de descubrir c\u00f3mo empezar a jugar desde cero con las diferentes funcionalidades y opciones a la hora de generar contenido educativo adaptado a las necesidades de nuestro aula. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/primeros-pasos-minecraft.svg"
+  },
+  {
+    "Title": "Comparte y colabora",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/comparte-colabora/?WT.mc_id=api_CatalogApi",
+    "Description": "Una de las principales oportunidades que te ofrece tu cuenta Office 365, es la de trabajar el aprendizaje colaborativo junto con otros docentes, departamento, estudiantes etc. Ahorra tiempo y esfuerzo compartiendo y construyendo contenido con otros usuarios de tu Centro.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/comparte-colabora.svg"
+  },
+  {
+    "Title": "Accesibilidad y educaci\u00f3n inclusiva: atiende a las necesidades de tus estudiantes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/accesibilidad-y-educacion-inclusiva-atiende-a-las-necesidad/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfC\u00f3mo me puede ayudar Office 365 y Windows 10 a que los alumnos con discapacidad tengan acceso a materiales de aprendizaje y formaci\u00f3n online? Office 365 es accesible por dise\u00f1o y ayuda a las personas y organizaciones a ser m\u00e1s productivas e inclusivas mientras crean, comunican y colaboran desde cualquier dispositivo. Descubre c\u00f3mo Office 365 ayuda a que todos sean m\u00e1s eficientes e independientes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/accesibilidad-y-educacion-inclusiva-atiende-a-las-necesidad.svg"
+  },
+  {
+    "Title": "Dise\u00f1o Universal de Aprendizaje con Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/diseno-aprendizaje-microsoft/?WT.mc_id=api_CatalogApi",
+    "Description": "Haz de tu clase un lugar m\u00e1s accesible y personalizado para tus estudiantes con las herramientas gratuitas de Microsoft.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/diseno-aprendizaje-microsoft.svg"
+  },
+  {
+    "Title": "Interacciona con tus estudiantes. Las videollamadas en el aula",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/interacciona-con-tus-estudiantes-videollamadas/?WT.mc_id=api_CatalogApi",
+    "Description": "Comun\u00edcate con tus estudiantes y compa\u00f1eros por medio de las videollamadas de Microsoft Teams. Accede a las opciones de reuni\u00f3n y personaliza tu experiencia creando salas de espera, moderando el uso y los permisos de tus estudiantes en clase, todo de una forma segura. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/interacciona-con-tus-estudiantes-videollamadas.svg"
+  },
+  {
+    "Title": "Cuestionarios sencillos para estudiantes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/cuestionarios-para-estudiantes/?WT.mc_id=api_CatalogApi",
+    "Description": "Crea y comparte tus propios cuestionarios de evaluaci\u00f3n con Microsoft Forms. Descubre la variedad de preguntas y configuraciones que puedes a\u00f1adir a tus formularios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/cuestionarios-para-estudiantes.svg"
+  },
+  {
+    "Title": "Aprendizaje en contextos h\u00edbridos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aprendizaje-contextos-hibridos/?WT.mc_id=api_CatalogApi",
+    "Description": "Conoceremos y comprenderemos algunos elementos relevantes sobre el Aprendizaje en Contextos H\u00edbridos, desde una perspectiva de Aprendizaje Profundo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/aprendizaje-contextos-hibridos.svg"
+  },
+  {
+    "Title": "Permitir el \u00e9xito de los estudiantes con soluciones de aprendizaje combinado en la educaci\u00f3n superior",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/extito-estudiantes-aprendizaje-combinado-educacion-superior/?WT.mc_id=api_CatalogApi",
+    "Description": "Las herramientas de Microsoft 365 pueden ayudar a los a crear un curso de aprendizaje combinado exitoso, desde el dise\u00f1o y la entrega hasta la participaci\u00f3n y los comentarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/extito-estudiantes-aprendizaje-combinado-educacion-superior.svg"
+  },
+  {
+    "Title": "Minecraft aplicado en clase: Preparaci\u00f3n de la clase",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-preparacion-clase/?WT.mc_id=api_CatalogApi",
+    "Description": "Los participantes son introducidos al proceso de construcci\u00f3n de una estructura para usar Minecraft: Edici\u00f3n Educativa en sus entornos de aprendizaje y con sus estudiantes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/minecraft-preparacion-clase.svg"
+  },
+  {
+    "Title": "La ense\u00f1anza de las Ciencias de la Computaci\u00f3n hoy. Ciclo Webinars Fundaci\u00f3n Evoluci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ensenanza-ciencias-computacion-hoy/?WT.mc_id=api_CatalogApi",
+    "Description": "Ponente: Mar\u00eda Bel\u00e9n Bonello es Licenciada y Profesora de Ciencia Pol\u00edtica (UBA). Y cursa la Especializaci\u00f3n en Educaci\u00f3n y Nuevas Tecnolog\u00edas de FLACSO. Se desempe\u00f1a en el dise\u00f1o e implementaci\u00f3n de pol\u00edticas p\u00fablicas vinculadas a educaci\u00f3n, derechos humanos y juventud. Actualmente coordina la iniciativa Program.AR en la Fundaci\u00f3n Sadosky del Ministerio de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n Productiva.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/ensenanza-ciencias-computacion-hoy.svg"
+  },
+  {
+    "Title": "Teams en acci\u00f3n\u2026 Integrando recursos did\u00e1cticos desarrollados con Office 365. Webinars Ense\u00f1anza Moderna 6/6",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/teams-integrando-recursos-didacticos-webinar-6/?WT.mc_id=api_CatalogApi",
+    "Description": "Esta es la sesi\u00f3n 6/6 de la serie de Webinars denominada \u201cEnse\u00f1anza Moderna: Aprendizaje remoto, colaborativo y seguro con Microsoft Teams.\u201d En la misma veremos c\u00f3mo agregar recursos a un equipo de clase. Creaci\u00f3n e integraci\u00f3n de objetos de aprendizaje creados con OneNote y Sway y la integraci\u00f3n de elementos multimedia creados en Microsoft Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/teams-integrando-recursos-didacticos-webinar-6.svg"
+  },
+  {
+    "Title": "Aprendizaje Profundo I y II - Experiencias de Aprendizaje Profundo en contextos h\u00edbridos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aprendizaje-profundo-i-ii/?WT.mc_id=api_CatalogApi",
+    "Description": "Profindizaremos en la noci\u00f3n de \u201cAprendizaje profundo\u201d y apropiarnos de ella de una manera m\u00e1s pr\u00e1ctica.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/aprendizaje-profundo-i-ii.svg"
+  },
+  {
+    "Title": "Microsoft Teams: Creaci\u00f3n y seguimiento de espacios de aula colaborativos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/teams-creacion-seguimiento-espacios-aula-colaborativos/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Teams es un espacio donde podemos, reunirnos, comunicarnos y compartir informaci\u00f3n, en un entorno de trabajo intuitivo, integrado y accesible. Ha sido creado en base a los Grupos de Office 365, lo que facilita trabajar de forma simult\u00e1nea con las distintas herramientas. Es multiplataforma, lo que permite utilizarlo desde un equipo de escritorio, una notebook, una tableta o un dispositivo m\u00f3vil. Incluye un conjunto de herramientas que nos permitir\u00e1n mejorar la comunicaci\u00f3n y el trabajo de los equipos, mediante conversaciones individuales o grupales.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/teams-creacion-seguimiento-espacios-aula-colaborativos.svg"
+  },
+  {
+    "Title": " Dise\u00f1o del Aprendizaje en el Siglo XXI: Curso 3 - Habilidades de comunicaci\u00f3n ",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/21cld-curso-3-habilidades-de-comunicacion/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo introduce el concepto de comunicaci\u00f3n cualificada y apoya a los docentes a dise\u00f1ar actividades de aprendizaje en las que los j\u00f3venes puedan desarrollar esta importante destreza.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/21cld-curso-3-habilidades-de-comunicacion.svg"
+  },
+  {
+    "Title": "Transformando el aprendizaje con Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/transformando-aprendizaje-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda los conceptos b\u00e1sicos de la ense\u00f1anza con Microsoft Teams para la comunicaci\u00f3n y la colaboraci\u00f3n, el uso compartido de archivos optimizado y los blocs de notas de clase.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/transformando-aprendizaje-microsoft-teams.svg"
+  },
+  {
+    "Title": "Minecraft aplicado y enriquecido: Introducci\u00f3n a la codificaci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-introduccion-codificacion/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo ense\u00f1a aplicaciones de las Ciencias de la Computaci\u00f3n de Minecraft para todas las edades, incluido Code Builder, La hora del c\u00f3digo y Recursos de Ciencias de la Computaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/minecraft-introduccion-codificacion.svg"
+  },
+  {
+    "Title": "Unidades did\u00e1cticas multiplataforma con Sway: Crear y compartir contenido interactivo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/unidades-didacticas-multiplataforma-con-sway/?WT.mc_id=api_CatalogApi",
+    "Description": "Sway es una potente aplicaci\u00f3n, f\u00e1cil de usar, que nos permite crear y compartir presentaciones interactivas, sin importar el tipo de dispositivo o plataforma que utilicemos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/unidades-didacticas-multiplataforma-con-sway.svg"
+  },
+  {
+    "Title": "Microsoft Exchange: Comunicaci\u00f3n, gesti\u00f3n de contactos y calendarios",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-exchange-comunicacion-gestion-contactos/?WT.mc_id=api_CatalogApi",
+    "Description": "Outlook la aplicaci\u00f3n de correo de Exchange, nos permitir\u00e1 mantenernos comunicados de forma \u00e1gil y sencilla. De una forma amigable y a trav\u00e9s de un entorno intuitivo, podremos recibir y enviar correos de forma segura, as\u00ed como administrar y disponer en todo momento de la informaci\u00f3n que m\u00e1s utilizamos o compartimos con nuestros contactos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/microsoft-exchange-comunicacion-gestion-contactos.svg"
+  },
+  {
+    "Title": "Situaciones simuladas: Estrategia 6",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/situaciones-simuladas-estrategia-6/?WT.mc_id=api_CatalogApi",
+    "Description": "Conoceremos la estrategia de aprendizaje \u201cSituaciones simuladas\u201d desde una perspectiva de Aprendizaje Profundo, identificando su potencial en un contexto de aprendizaje h\u00edbrido.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/situaciones-simuladas-estrategia-6.svg"
+  },
+  {
+    "Title": "Descubriendo el poder de Microsoft 365 en el aula de clases. Webinars Ense\u00f1anza Moderna 1/6",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/poder-microsoft365-aula/?WT.mc_id=api_CatalogApi",
+    "Description": "Esta es la sesi\u00f3n 1/6 de la serie de Webinars denominada \u201cEnse\u00f1anza Moderna: Aprendizaje remoto, colaborativo y seguro con Microsoft Teams.\u201d En la misma veremos el entorno de Microsoft 365 y c\u00f3mo persozalizar del entorno de Microsoft 365, la administraci\u00f3n del correo electr\u00f3nico y el uso del calendario para la planificaci\u00f3n de actividades.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/poder-microsoft365-aula.svg"
+  },
+  {
+    "Title": "\u00c9xito de los Estudiantes y la Escuela - Marco de Transformaci\u00f3n Educativa",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/exito-de-estudiantes-escuela/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso dedicado al \u00e9xito de los estudiantes y de la escuela vinculado a la estructura de transformaci\u00f3n educativa, usted aprender\u00e1 c\u00f3mo apoyar a los educadores en el aprendizaje proactivo y en el crecimiento de la capacidad para ense\u00f1ar en las materias que aman.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/exito-de-estudiantes-escuela.svg"
+  },
+  {
+    "Title": "Problemas contextualizados para la aplicaci\u00f3n: Estrategia 9",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/problemas-contextualizados-para-aplicacion-estrategia-9/?WT.mc_id=api_CatalogApi",
+    "Description": "Conoceremos la estrategia de aprendizaje \u201cProblemas contextualizados para la aplicaci\u00f3n\u201d desde una perspectiva de Aprendizaje Profundo, identificando su potencial en un contexto de aprendizaje h\u00edbrido.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/problemas-contextualizados-para-aplicacion-estrategia-9.svg"
+  },
+  {
+    "Title": "Proyectos colaborativos en Microsoft Teams: Gesti\u00f3n y evaluaci\u00f3n. Ciclo Webinars Teams 4/9",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/proyectos-colaborativos-en-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Le invitamos a seminarios web gratuitos deTeams para la educaci\u00f3n. En este webinar en particular veremos proyectos colaborativos en Microsoft Teams: Gesti\u00f3n y evaluaci\u00f3n. El contenido cubre las pr\u00e1cticas recomendadas de uso de Microsoft Teams como el hub digital que re\u00fane conversaciones, contenido, asignaciones y aplicaciones en un solo lugar. Con nuestro anfitri\u00f3n Red Qualitas, Global Partner Trainer y expertos en Teams y Office 365, elija entre las opciones que mejor se adapte a usted. Microsoft Teams para Educaci\u00f3n es gratuito para todos los estudiantes y el personal.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/proyectos-colaborativos-en-teams.svg"
+  },
+  {
+    "Title": "Comunicaciones en vivo con Microsoft Teams. Reuniones vs. Eventos en directo. Ciclo Webinars Teams 7/9",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/comunicaciones-en-vivo-con-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Le invitamos a seminarios web gratuitos deTeams para la educaci\u00f3n. En este webinar en particular veremos las comunicaciones en vivo con Microsoft Teams. Reuniones vs. Eventos en directo El contenido cubre las pr\u00e1cticas recomendadas de uso de Microsoft Teams como el hub digital que re\u00fane conversaciones, contenido, asignaciones y aplicaciones en un solo lugar. Con nuestro anfitri\u00f3n Red Qualitas, Global Partner Trainer y expertos en Teams y Office 365, elija entre las opciones que mejor se adapte a usted. Microsoft Teams para Educaci\u00f3n es gratuito para todos los estudiantes y el personal.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/comunicaciones-en-vivo-con-teams.svg"
+  },
+  {
+    "Title": "Minecraft aprenda a jugar: Herramientas de evaluaci\u00f3n y retroalimentaci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-herramientas-evaluacion-retroalimentacion/?WT.mc_id=api_CatalogApi",
+    "Description": "Minecraft: Edici\u00f3n Educativa apoya la evaluaci\u00f3n y retroalimentaci\u00f3n del conocimiento de los contenidos y habilidades de siglo XX por educadores y estudiantes",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/minecraft-herramientas-evaluacion-retroalimentacion.svg"
+  },
+  {
+    "Title": "Minecraft: Edici\u00f3n Educativa. Introducci\u00f3n al aprendizaje basado en juegos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-ee-introduccion-al-aprendizaje-basado-en-juegos/?WT.mc_id=api_CatalogApi",
+    "Description": "Minecraft: Edici\u00f3n Educativa apoya la ense\u00f1anza y el aprendizaje a trav\u00e9s de una interfaz basada en juegos que promueve la creatividad, la colaboraci\u00f3n y la resoluci\u00f3n de problemas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/minecraft-ee-introduccion-al-aprendizaje-basado-en-juegos.svg"
+  },
+  {
+    "Title": "Minecraft aprenda a jugar: Desaf\u00edos de construcci\u00f3n de clases",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-desafios-construccion-clases/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso, exploraremos c\u00f3mo Minecraft: Edici\u00f3n Educativa apoya la ense\u00f1anza y el aprendizaje a trav\u00e9s de una interfaz que involucra la creatividad de los estudiantes y fortalece las habilidades del siglo 21 con actividades que son f\u00e1ciles de implementar en el aula.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/minecraft-desafios-construccion-clases.svg"
+  },
+  {
+    "Title": "Dise\u00f1o del Aprendizaje en el siglo XXI: Curso 5 - Autorregulaci\u00f3n ",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/21cld-curso-5-autorregulacion/?WT.mc_id=api_CatalogApi",
+    "Description": "Introducci\u00f3n a la idea de autorregulaci\u00f3n donde los estudiantes planean su propia labor, proporcionando oportunidades para revisar el trabajo basados en la retroalimentaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/21cld-curso-5-autorregulacion.svg"
+  },
+  {
+    "Title": "Minecraft aplicado en clase: Modo de juego colaborativo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-modo-juego-colaborativo/?WT.mc_id=api_CatalogApi",
+    "Description": "El modo de juego colaborativo permite que los grupos se sumerjan en Minecraft: Edici\u00f3n Educativa mientras planifican y construyen juntos. Explorares el poder de las clases y actividades multijugador.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/minecraft-modo-juego-colaborativo.svg"
+  },
+  {
+    "Title": "Estudio de casos: Estrategia 5",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/estudio-casos-estrategia-5/?WT.mc_id=api_CatalogApi",
+    "Description": "Conoceremos la estrategia de aprendizaje \u201cestudio de casos\u201d desde una perspectiva de Aprendizaje Profundo, reconociendo su potencial para un contexto de aprendizaje h\u00edbrido.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/estudio-casos-estrategia-5.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la programaci\u00f3n por bloques: Code Builder y Microsoft MakeCode - Global Inclusive Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/intro-programacion-bloques-codebuilder-makecode-gie/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo iniciaremos por comprender cu\u00e1l es el nuevo enfoque de las Ciencias de la Computaci\u00f3n, veremos c\u00f3mo se define el Pensamiento Computacional y cu\u00e1les son los principios que lo fundamentan. Mostraremos como Minecraft est\u00e1 alineado a estos principios, presentaremos el concepto de \u201cProgramaci\u00f3n por Bloques\u201d, y trabajaremos con Minecraft Code Builder.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/intro-programacion-bloques-codebuilder-makecode-gie.svg"
+  },
+  {
+    "Title": "Desarrollo de escenarios educativos y aplicaci\u00f3n de principios de programaci\u00f3n con MEE Code Builder - Global Inclusive Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/desarrollo-escenarios-educativos-aplicacion-mee/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso haremos una exploraci\u00f3n de Minecraft Education Edition como herramienta de aprendizaje: \u00bfQu\u00e9 es Minecraft Education Edition?, \u00bfc\u00f3mo se descarga y activa? Realizaremos una introducci\u00f3n a la Biblioteca de lecciones, exploraremos el dise\u00f1o del sal\u00f3n de clases Minecraft y mostraremos como configurar el modo clase (o modo Hosting), e introduciremos la metodolog\u00eda de programaci\u00f3n por bloques.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/desarrollo-escenarios-educativos-aplicacion-mee.svg"
+  },
+  {
+    "Title": " \u00a1Teams Tips! Usabilidad, casos de uso y consejos sobre Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/teams-tips-usabilidad-casos-de-uso-y-consejos-sobre-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso discutiremos la usabilidad, casos de uso y consejos sobre Microsoft Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/teams-tips-usabilidad-casos-de-uso-y-consejos-sobre-teams.svg"
+  },
+  {
+    "Title": "Oportunidades para el aprendizaje con Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/oportunidades-para-aprendizaje-con-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "El prop\u00f3sito de este microcurso es generar v\u00ednculos para el aprendizaje significativo de los estudiantes, mediante la incorporaci\u00f3n de estrategias asociadas a herramientas tecnol\u00f3gicas, en contexto remoto. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/oportunidades-para-aprendizaje-con-microsoft-teams.svg"
+  },
+  {
+    "Title": "Microsoft Planner para la gestion del aprendizaje basado en proyectos. Webinars Ense\u00f1anza Moderna 5/6",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/planner-para-gestion-aprendizaje-basado-proyectors/?WT.mc_id=api_CatalogApi",
+    "Description": "Esta es la sesi\u00f3n 5/6 de la serie de Webinars denominada \u201cEnse\u00f1anza Moderna: Aprendizaje remoto, colaborativo y seguro con Microsoft Teams.\u201d En la misma veremos Microsoft Planner, dise\u00f1o y creaci\u00f3n de un plan de trabajo. Configuraci\u00f3n y asignaci\u00f3n de tareas en proyectos \u00e1ulicos. Gesti\u00f3n de planes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/planner-para-gestion-aprendizaje-basado-proyectors.svg"
+  },
+  {
+    "Title": "Rutinas de pensamiento: Estrategia 4",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/rutinas-de-pensamiento-estrategia-4/?WT.mc_id=api_CatalogApi",
+    "Description": "Conoceremos algunas estrategias de aprendizaje de las denominadas \u201cRutinas de Pensamiento\u201d y su aporte al desarrollo de un Aprendizaje Profundo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/rutinas-de-pensamiento-estrategia-4.svg"
+  },
+  {
+    "Title": "Microsoft SharePoint: Una biblioteca virtual para la clase",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-sharepoint-biblioteca-virtual/?WT.mc_id=api_CatalogApi",
+    "Description": "SharePoint es una de las aplicaciones o herramientas de productividad de O365 que nos permite crear sitios web atractivos y seguros para brindar acceso y compartir con personas dentro de una instituci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/microsoft-sharepoint-biblioteca-virtual.svg"
+  },
+  {
+    "Title": "Dise\u00f1o de evaluaciones y revision de resultados con Microsoft Forms. Webinars Ense\u00f1anza Moderna 3/6",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/evaluaciones-y-revision-de-resultados/?WT.mc_id=api_CatalogApi",
+    "Description": "Esta es la sesi\u00f3n 3/6 de la serie de Webinars denominada \u201cEnse\u00f1anza Moderna: Aprendizaje remoto, colaborativo y seguro con Microsoft Teams.\u201d En la misma veremos c\u00f3mo crear y dise\u00f1ar cuestionarios Forms. La distribuci\u00f3n de los mismos para ser completados y revisi\u00f3n, correcci\u00f3n y gesti\u00f3n de resultados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/evaluaciones-y-revision-de-resultados.svg"
+  },
+  {
+    "Title": "OneNote en el aula\u2026 Una herramienta para proponer, colaborar y evaluar el aprendizaje",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/onenote-en-aula/?WT.mc_id=api_CatalogApi",
+    "Description": "Revisemos el ejemplo que nos comparte Dami\u00e1n, un joven docente que busca transformar su aula de clases en un espacio donde sus estudiantes desarrollen destrezas del mundo real, que les preparen para un futuro cada vez m\u00e1s incierto. Integrar habilidades de colaboraci\u00f3n, trabajo en equipo, pensamiento cr\u00edtico y creatividad, son para \u00e9l elementos claves en cada actividad que propone.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/onenote-en-aula.svg"
+  },
+  {
+    "Title": "Brecha de g\u00e9nero y TIC: desaf\u00edos y oportunidades para Am\u00e9rica Latina. Ciclo Webinars Fundaci\u00f3n Evoluci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/brecha-genero-tic/?WT.mc_id=api_CatalogApi",
+    "Description": "Ponente: Mar\u00eda Teresa Lugo es Magister en Nuevas Tecnolog\u00edas aplicadas a la educaci\u00f3n (Universidad Aut\u00f3noma de Barcelona) y Lic. en Ciencias de la Educaci\u00f3n por la Universidad de Buenos Aires (UBA). Ha realizado estudios de especializaci\u00f3n en Ense\u00f1anza para la Comprensi\u00f3n en Harvard University School of Education. Es Coordinadora de proyectos TIC y Educaci\u00f3n del Instituto Internacional de Planeamiento de la Educaci\u00f3n de la UNESCO oficina Buenos Aires desde el a\u00f1o 2004. Su campo de estudio es la Gesti\u00f3n institucional y las Pol\u00edticas TIC. Ejemplo de ello es el Estudio sobre usos pedag\u00f3gicos del celular de UNESCO.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/brecha-genero-tic.svg"
+  },
+  {
+    "Title": " Asignar y evaluar estudiantes con tareas y formularios en Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/asignar-evaluar-tareas-formularios-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo demostrar\u00e1 c\u00f3mo crear, distribuir, recopilar y evaluar tareas con Microsoft Forms, Teams, el diario de clase en Teams y Reflect.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/asignar-evaluar-tareas-formularios-teams.svg"
+  },
+  {
+    "Title": "Primera cumbre y vuelta a casa. \u00bfC\u00f3mo involucramos a nuestras comunidades educativas en la transformaci\u00f3n? - Grupo Educativo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/como-involucramos-nuestras-comunidades-educativas/?WT.mc_id=api_CatalogApi",
+    "Description": "Los participantes identifican acciones concretas que involucren y comprometan, tanto a ellos como a sus comunidades educativas, en el proceso de transformaci\u00f3n ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/como-involucramos-nuestras-comunidades-educativas.svg"
+  },
+  {
+    "Title": "Escenarios de colaboraci\u00f3n y Evaluaci\u00f3n con Microsoft Teams y O365- Ciclo Webinars Teams 2/9",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/escenarios-colaboracion-evaluacion-webinar-2/?WT.mc_id=api_CatalogApi",
+    "Description": "Le invitamos a seminarios web gratuitos deTeams para la educaci\u00f3n. En este webianar en particular veremos Escenarios de colaboraci\u00f3n y Evaluaci\u00f3n con Microsoft Teams y O365. El contenido cubre las pr\u00e1cticas recomendadas de uso de Microsoft Teams como el hub digital que re\u00fane conversaciones, contenido, asignaciones y aplicaciones en un solo lugar. Con nuestro anfitri\u00f3n Red Qualitas, Global Partner Trainer y expertos en Teams y Office 365, elija entre las opciones que mejor se adapte a usted. Microsoft Teams para Educaci\u00f3n es gratuito para todos los estudiantes y el personal.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/escenarios-colaboracion-evaluacion-webinar-2.svg"
+  },
+  {
+    "Title": "Dise\u00f1o del aprendizaje en el siglo XXI: Curso 8 - 21CLD en la pr\u00e1ctica",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/21cld-curso-8-21cld-en-practica/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo le proporcionar\u00e1 actividades pr\u00e1cticas y ejemplos, a partir de los cuales puede reflexionar sobre su propia pr\u00e1ctica y sobre la experiencia de otros profesores.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/21cld-curso-8-21cld-en-practica.svg"
+  },
+  {
+    "Title": "Minecraft aplicado y enriquecido: Qu\u00edmica",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-quimica/?WT.mc_id=api_CatalogApi",
+    "Description": "Este curso est\u00e1 dise\u00f1ado para guiar a los educadores a comprender mejor la funcionalidad de la Qu\u00edmica y la Ciencia en Minecraft: Edici\u00f3n Educativa y c\u00f3mo el juego apoya la investigaci\u00f3n y la curiosidad de todos los estudiantes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/minecraft-quimica.svg"
+  },
+  {
+    "Title": "Microsoft Yammer: Creaci\u00f3n de redes sociales privadas\u2026Comunicaci\u00f3n responsable",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-yammer-creacion-redes-sociales-privadas/?WT.mc_id=api_CatalogApi",
+    "Description": "Yammer, es una red social privada e institucional, que nos permite mantenernos comunicados con personas con nuestros mismos intereses. Esta herramienta tiene como objetivo la colaboraci\u00f3n entre los miembros de una instituci\u00f3n, creando de este modo un espacio para la comunicaci\u00f3n e incorporando a ella principios de interacci\u00f3n de red, muy similares a Facebook, Twitter y Linkedin. Proporciona comunicaci\u00f3n en tiempo real y fomenta la participaci\u00f3n natural de los miembros, innovando y descubriendo nuevas y creativas formas de trabajar en forma colaborativa.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/microsoft-yammer-creacion-redes-sociales-privadas.svg"
+  },
+  {
+    "Title": "Debates: Estrategia 8",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/debates-estrategia-8/?WT.mc_id=api_CatalogApi",
+    "Description": "Conoceremos la estrategia de aprendizaje del \u201cDebate\u201d desde una perspectiva de Aprendizaje Profundo, identificando su potencial en un contexto de aprendizaje h\u00edbrido.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/debates-estrategia-8.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de experiencias remotas de aprendizaje",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implementacion-experiencias-remotas-aprendizaje/?WT.mc_id=api_CatalogApi",
+    "Description": "Objetivo: Revisar diversas acciones de implementaci\u00f3n que fortalezcan el aprendizaje de todos los estudiantes en contexto remoto usando Teams. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/implementacion-experiencias-remotas-aprendizaje.svg"
+  },
+  {
+    "Title": "Ense\u00f1anza y aprendizaje - Marco de Transformaci\u00f3n Educativa",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ensenanza-aprendizaje-marco-transformacion-educativa/?WT.mc_id=api_CatalogApi",
+    "Description": "En este curso, usted trabajar\u00e1 conceptos sobre la estructura de la transformaci\u00f3n educativa, con el objetivo de involucrar el aprendizaje de estudiantes sin instrucci\u00f3n para desarrollar habilidades para la fuerza laboral, crear sistemas de intervenci\u00f3n proactivos para estudiantes rezagados y repensar espacios de aprendizaje flexible guiados por las necesidades de cada estudiante, no por el espacio de un sal\u00f3n de clases. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/ensenanza-aprendizaje-marco-transformacion-educativa.svg"
+  },
+  {
+    "Title": "Aprendizaje h\u00edbrido en el aula de la escuela primaria",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aprendizaje-hibrido-en-el-aula-de-la-escuela-primaria/?WT.mc_id=api_CatalogApi",
+    "Description": "Este curso ampl\u00eda la introducci\u00f3n al curso de aprendizaje h\u00edbrido, con un enfoque espec\u00edfico en la creaci\u00f3n de una experiencia de aprendizaje din\u00e1mica para los estudiantes de la escuela primaria.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/aprendizaje-hibrido-en-el-aula-de-la-escuela-primaria.svg"
+  },
+  {
+    "Title": "Dise\u00f1o del aprendizaje en el siglo XXI: Curso 1 - Introducci\u00f3n 21CLD ",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/curso-1-introduccion-21cld/?WT.mc_id=api_CatalogApi",
+    "Description": "Una descripci\u00f3n general de las habilidades clave del siglo XXI; colaboraci\u00f3n, construcci\u00f3n de conocimiento, autorregulaci\u00f3n, resoluci\u00f3n de problemas e innovaci\u00f3n, tecnolog\u00edas de la informaci\u00f3n y las comunicaciones (TIC) para el aprendizaje y habilidades de comunicaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/curso-1-introduccion-21cld.svg"
+  },
+  {
+    "Title": "Minecraft aprenda a jugar: Colocando los primeros bloques",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-colocando-los-primeros-bloques/?WT.mc_id=api_CatalogApi",
+    "Description": "Minecraft: Edici\u00f3n Educativa apoya la ense\u00f1anza y el aprendizaje a trav\u00e9s de una interfaz basada en juegos donde el \u00fanico l\u00edmite es la imaginaci\u00f3n del estudiante.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/minecraft-colocando-los-primeros-bloques.svg"
+  },
+  {
+    "Title": " Dise\u00f1o del Aprendizaje en el Siglo XXI: Curso 4 - Construcci\u00f3n de conocimiento ",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/21cld-curso-4-construccion-conocimiento/?WT.mc_id=api_CatalogApi",
+    "Description": "Este curso le presenta la dimensi\u00f3n construcci\u00f3n del conocimiento para que los estudiantes puedan desarrollar y construir un conocimiento profundo que puedan aplicar en la pr\u00e1ctica. Para completar satisfactoriamente este curso, debe pasar la evaluaci\u00f3n respondiendo correctamente al menos el 80% de las preguntas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/21cld-curso-4-construccion-conocimiento.svg"
+  },
+  {
+    "Title": "Vislumbrando el camino. \u00bfC\u00f3mo es la escuela que so\u00f1amos? - Grupo Educativo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/como-es-escuela-que-sonamos/?WT.mc_id=api_CatalogApi",
+    "Description": "Los participantes elaboran un pre - diagn\u00f3stico considerando la perspectiva de todos los actores de sus comunidades educativas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/como-es-escuela-que-sonamos.svg"
+  },
+  {
+    "Title": "Errores productivos: Estrategia 2",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/errores-productivos-estrategia-2/?WT.mc_id=api_CatalogApi",
+    "Description": "Conoceremos la estrategia de aprendizaje \u201cAprender desde el error\u201d desde una perspectiva de Aprendizaje Profundo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/errores-productivos-estrategia-2.svg"
+  },
+  {
+    "Title": "El poder de office online y las herramientas de accesibilidad integradas. Webinars Ense\u00f1anza Moderna 2/6",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/office-online-herramientas-accesibilidad-integradas/?WT.mc_id=api_CatalogApi",
+    "Description": "Esta es la sesi\u00f3n 2/6 de la serie de Webinars denominada \u201cEnse\u00f1anza Moderna: Aprendizaje remoto, colaborativo y seguro con Microsoft Teams.\u201d En la misma veremos c\u00f3mo crear y gestionar de documentos de Office online. C\u00f3mo crear documentos desde OneDrive y el uso de las herramientas de accesibilidad integradas en Office online.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/office-online-herramientas-accesibilidad-integradas.svg"
+  },
+  {
+    "Title": "Dise\u00f1o del aprendizaje en el siglo XXI: Curso 6 - Resoluci\u00f3n de problemas e innovaci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/21cld-curso-6-resolucion-problemas-innovacion/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda c\u00f3mo proporcionar a sus estudiantes oportunidades para involucrarse en problemas del mundo real y para aplicar sus soluciones o ideas en la pr\u00e1ctica.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/21cld-curso-6-resolucion-problemas-innovacion.svg"
+  },
+  {
+    "Title": "Dise\u00f1o del aprendizaje en el siglo XXI: Curso 2 - Colaboraci\u00f3n ",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/21cld-curso-2-colaboracion/?WT.mc_id=api_CatalogApi",
+    "Description": "Dise\u00f1ar lecciones en las cuales los estudiantes puedan desarrollar habilidades de colaboraci\u00f3n. Se le presentar\u00e1n las dimensiones de la colaboraci\u00f3n y aprender\u00e1 cu\u00e1ndo las lecciones contienen estas dimensiones.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/21cld-curso-2-colaboracion.svg"
+  },
+  {
+    "Title": "Reunir a estudiantes y personal con reuniones de Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/reunir-estudiantes-personal-reuniones-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "En esto modulo descubriremos nuevas formas de crear y compartir reuniones y exploraremos los controles que los educadores necesitan mientras se re\u00fanen con los estudiantes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/reunir-estudiantes-personal-reuniones-teams.svg"
+  },
+  {
+    "Title": "Colaborar con compa\u00f1eros a trav\u00e9s de reuniones de Teams en vivo y OneNote",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/colaborar-con-teams-vivo-onenote/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Teams presenta dos tipos de equipos dise\u00f1ados espec\u00edficamente para la colaboraci\u00f3n entre pares: el equipo de PLC y los equipos de funcionarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/colaborar-con-teams-vivo-onenote.svg"
+  }
+]
