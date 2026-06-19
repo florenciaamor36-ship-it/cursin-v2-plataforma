@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Administraci\u00f3n del ciclo de vida de la aplicaci\u00f3n y la experiencia del usuario mediante Microsoft Intune",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-application-lifecycle-intune/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo administrar aplicaciones durante todo el ciclo de vida Microsoft Intune, incluida la implementaci\u00f3n, configuraci\u00f3n, protecci\u00f3n, supervisi\u00f3n, actualizaci\u00f3n y retirada.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Conocer el enfoque de Viva Glint para la interacci\u00f3n moderna",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/viva-glint-get-know-viva-glint-approach-modern-engagement/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se explica c\u00f3mo Viva Glint proporciona visibilidad inmediata de la experiencia total de los empleados con encuestas en toda la organizaci\u00f3n y acciones recomendadas para mejorar la participaci\u00f3n y los resultados empresariales.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Personalizaci\u00f3n de nuevo Outlook para Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/customize-new-outlook-windows/?WT.mc_id=api_CatalogApi",
+    "Description": "Personalice la configuraci\u00f3n, las notificaciones y el dise\u00f1o para crear un entorno que funcione como lo hace para ayudarle a mantenerse centrado y eficiente.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/email-calendaring-and-productivity-with-office-across-all-devices.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n del registro de dispositivos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-device-registration/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examina el proceso de restituci\u00f3n de dispositivos y se describe c\u00f3mo registrar e inscribir dispositivos en Active Directory.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/device-registration-implement.svg"
+  },
+  {
+    "Title": "Configuraci\u00f3n del control de cuentas de usuario",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-user-account-control/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se presenta c\u00f3mo funciona el control de cuentas de usuario y c\u00f3mo puede usar las caracter\u00edsticas de escritorio relacionadas con UAC para reducir los riesgos de seguridad.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/account-configure-user-control.svg"
+  },
+  {
+    "Title": "Realizar tareas administrativas b\u00e1sicas para los agentes de Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/perform-admin-tasks-microsoft-365-copilot-agents/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo gu\u00eda a los administradores a trav\u00e9s de la configuraci\u00f3n del acceso de usuario y los permisos de los agentes, la creaci\u00f3n, edici\u00f3n, prueba y publicaci\u00f3n de agentes de Copilot, la administraci\u00f3n de la aprobaci\u00f3n y la gobernanza del agente y la supervisi\u00f3n del ciclo de vida completo de los agentes mediante las herramientas de Microsoft 365 y Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Aplicaci\u00f3n de RBAC y delegaci\u00f3n de administraci\u00f3n en Microsoft Intune",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/apply-rbac-admin-delegation/?WT.mc_id=api_CatalogApi",
+    "Description": "Configure el control de acceso basado en rol, las etiquetas de \u00e1mbito, las asignaciones de roles y la auditor\u00eda para delegar Microsoft Intune administraci\u00f3n de forma segura en toda la organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Configuraci\u00f3n y estilo de componentes del Kit de herramientas de Microsoft Graph mediante atributos y CSS",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/msgraph-toolkit-customize-part-one/?WT.mc_id=api_CatalogApi",
+    "Description": "Los componentes del Kit de herramientas de Microsoft Graph son flexibles para la personalizaci\u00f3n. Puede cambiar el comportamiento de los componentes mediante atributos. Tambi\u00e9n puede personalizar el estilo de los componentes mediante el uso de propiedades personalizadas de CSS para que coincidan con la personalizaci\u00f3n de marca de la aplicaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/msgraph-toolkit-customize-part-one.svg"
+  },
+  {
+    "Title": "Publicaci\u00f3n de aplicaciones de Teams en Microsoft Teams Store",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-teams-publish-app-to-store/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, trataremos c\u00f3mo publicar la aplicaci\u00f3n Teams en microsoft Teams Store.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/teams-plan-deploy.svg"
+  },
+  {
+    "Title": "Empleo de la recuperaci\u00f3n de archivos en el cliente de Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/employ-file-recovery-windows-client/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, obtendr\u00e1 informaci\u00f3n sobre las herramientas de copia de seguridad y recuperaci\u00f3n de archivos de Windows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/windows-client-file-recovery.svg"
+  },
+  {
+    "Title": "Configuraci\u00f3n de perfiles de dispositivo y administraci\u00f3n de directivas mediante Microsoft Intune",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-device-profiles-intune/?WT.mc_id=api_CatalogApi",
+    "Description": "Configure y asigne directivas de cumplimiento y configuraci\u00f3n de dispositivos, y analice directiva de grupo migraciones mediante Microsoft Intune.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implementar perfiles de dispositivo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-device-profiles/?WT.mc_id=api_CatalogApi",
+    "Description": "Los alumnos aprender\u00e1n sobre los distintos tipos de perfiles de dispositivo y c\u00f3mo crearlos y administrarlos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/device-profile-implement.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de la administraci\u00f3n de vulnerabilidades de Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/audit-vulnerability-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo Microsoft 365 supervisa proactivamente los recursos del sistema de informaci\u00f3n en busca de vulnerabilidades, eval\u00faa los riesgos asociados a las vulnerabilidades detectadas y las corrige de manera oportuna.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-microsoft-365-vulnerability-management-security-monitoring.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n y configuraci\u00f3n de etiquetas de confidencialidad con Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-compliance-information-protect-information/?WT.mc_id=api_CatalogApi",
+    "Description": "Las etiquetas de confidencialidad de Microsoft Purview permiten clasificar y proteger datos confidenciales en toda la organizaci\u00f3n, incluidos en la nube y en los dispositivos. En este m\u00f3dulo se explica c\u00f3mo clasificar y proteger la informaci\u00f3n confidencial para garantizar su seguridad y cumplimiento.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/protect-information.svg"
+  },
+  {
+    "Title": "Proyecto de desaf\u00edo: compilaci\u00f3n de un agente declarativo para chatear con los documentos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-declarative-agent-challenge-chat-with-docs/?WT.mc_id=api_CatalogApi",
+    "Description": "Demostrar su capacidad para crear un agente declarativo para Microsoft 365 Copilot que pueda responder a preguntas mediante informaci\u00f3n de documentos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Protecci\u00f3n de puntos de conexi\u00f3n y supervisi\u00f3n de la seguridad con Microsoft Intune y Defender para punto de conexi\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/harden-endpoints-monitor-security-intune-defender-endpoint/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo implementar l\u00edneas base de seguridad, incorporar dispositivos a Microsoft Defender para punto de conexi\u00f3n, configurar reglas de reducci\u00f3n de la superficie expuesta a ataques y supervisar la posici\u00f3n de seguridad en toda la organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de la administraci\u00f3n de subprocesadores de Microsoft Online Services",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/audit-subprocessor-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo Los servicios en l\u00ednea de Microsoft adquieren, supervisan y administran subprocesadores para ayudar a proteger los datos frente al acceso no autorizado y el uso inadecuado.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-microsoft-365-subprocessor-management.svg"
+  },
+  {
+    "Title": "Mostrar los correos electr\u00f3nicos de un usuario en una aplicaci\u00f3n de JavaScript con Microsoft Graph",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/msgraph-show-user-emails/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a mostrar los correos electr\u00f3nicos de un usuario en una aplicaci\u00f3n de JavaScript con Microsoft Graph. Adem\u00e1s, aprenda a optimizar consultas de Microsoft Graph y avanzar p\u00e1ginas en grandes conjuntos de datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/graph-user-email.svg"
+  },
+  {
+    "Title": "Extensibilidad de Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-microsoft-365-copilot-extensibility/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examinan las tareas que los administradores deben realizar para administrar Microsoft 365 Copilot extensibilidad, como la administraci\u00f3n de agentes de Copilot y la creaci\u00f3n y supervisi\u00f3n de conectores.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-microsoft-365-copilot-extensibility.svg"
+  },
+  {
+    "Title": "Autenticaci\u00f3n del complemento de API para agentes declarativos con API protegidas",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-declarative-agent-api-plugin-auth/?WT.mc_id=api_CatalogApi",
+    "Description": "Al crear aplicaciones para el trabajo, normalmente se integra con API protegidas. Obtenga informaci\u00f3n sobre las dos formas comunes de proteger las API: clave de API y OAuth2, y c\u00f3mo integrarse con ellas al compilar un complemento de API para agentes declarativos que se ejecutan en Microsoft 365 Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Configurar la conectividad del cliente a Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-client-connectivity-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examinar\u00e1 c\u00f3mo se conectan los clientes a Microsoft 365. Adem\u00e1s, proporciona instrucciones sobre c\u00f3mo configurar la resoluci\u00f3n de nombres y los clientes de Outlook, y c\u00f3mo solucionar problemas de conectividad de cliente.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/configure-client-connectivity-microsoft-365.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a B\u00fasqueda de Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-search-intro/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo utilizar B\u00fasqueda de Microsoft, los diferentes tipos de resultados disponibles y obtenga una introducci\u00f3n a la configuraci\u00f3n de b\u00fasqueda e inteligencia.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/microsoft-search-intro.svg"
+  },
+  {
+    "Title": "Dise\u00f1ar un evento virtual exitoso con Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-design-successful-virtual-events/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a dise\u00f1ar un evento virtual exitoso mediante Microsoft 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/design-a-successful-virtual-event.svg"
+  },
+  {
+    "Title": "Cree el primer agente declarativo para Microsoft 365 Copilot mediante Visual Studio Code",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-declarative-agents-build-your-first/?WT.mc_id=api_CatalogApi",
+    "Description": "Implemente un agente declarativo con conocimientos personalizados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de escenarios de administraci\u00f3n de la nube de Surface",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-surface-cloud-management-scenarios/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre la administraci\u00f3n de dispositivos de Microsoft Surace, incluidas las solicitudes de soporte t\u00e9cnico, la configuraci\u00f3n dfci y UEFI, el centro de Intune Administraci\u00f3n y el portal de administraci\u00f3n de Surface.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "La importancia de la seguridad psicol\u00f3gica para los administradores",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/viva-glint-psychological-safety/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo define la seguridad psicol\u00f3gica, describe por qu\u00e9 es importante y proporciona instrucciones sobre c\u00f3mo reconocerla en los equipos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Capacite a sus empleados con Microsoft 365 Copilot: caso de uso de puestos ejecutivos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/empower-workforce-copilot-executives/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo permite a los alumnos realizar una serie de ejercicios de casos de uso que ampl\u00edan sus conocimientos de Microsoft 365 Copilot en escenarios empresariales relacionados con puestos ejecutivos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de agentes de Microsoft 365 Copilot creados previamente",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-prebuilt-microsoft-365-copilot-agents/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se presentan varios agentes precompilados en Microsoft 365 Copilot Chat y se explica cu\u00e1ndo se debe usar cada uno de ellos para la investigaci\u00f3n, el an\u00e1lisis, la escritura, la ideaci\u00f3n y el refinamiento r\u00e1pido.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Explorar el modelo de mantenimiento de Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-windows-servicing-model/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examina el m\u00f3dulo de servicio de cliente de Windows y se describen los m\u00e9todos disponibles para aplicar actualizaciones de Windows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/diagnostics-tools-explore-support.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la presentaci\u00f3n de eventos virtuales con Microsoft Teams y Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-introduction-deliver-virtual-events-using-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore las caracter\u00edsticas de Microsoft Teams y Microsoft 365 que admiten la producci\u00f3n de eventos virtuales accesibles e inclusivos. Este m\u00f3dulo es un buen punto de partida para cualquier persona implicada en la organizaci\u00f3n, producci\u00f3n, presentaci\u00f3n, moderaci\u00f3n o asistencia a eventos virtuales. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/introduction-to-delivering-virtual-events-using-microsoft-teams.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de la protecci\u00f3n y la seguridad de aplicaciones mediante Microsoft Intune",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-application-protection-intune/?WT.mc_id=api_CatalogApi",
+    "Description": "Planee, configure, asigne, supervise y solucione problemas Microsoft Intune administraci\u00f3n de aplicaciones m\u00f3viles (MAM) y directivas de protecci\u00f3n de aplicaciones para proteger los datos corporativos en BYOD y dispositivos corporativos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Optimizar Azure Virtual Desktop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-optimize-wvd/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a optimizar los costos de implementaci\u00f3n e infraestructura con la herramienta nativa de escalabilidad autom\u00e1tica de Azure Virtual Desktop. Obtenga informaci\u00f3n sobre c\u00f3mo configurar el escalado autom\u00e1tico para que las m\u00e1quinas virtuales del host de sesi\u00f3n solo se ejecuten cuando sea necesario.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/optimize-windows-virtual-desktop.svg"
+  },
+  {
+    "Title": "Mostrar los correos electr\u00f3nicos de un usuario en una aplicaci\u00f3n ASP.NET Core con Microsoft Graph",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/msgraph-dotnet-core-show-user-emails/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo mostrar los correos electr\u00f3nicos de un usuario en aplicaciones ASP.NET Core con Microsoft Graph. Adem\u00e1s, obtenga informaci\u00f3n sobre c\u00f3mo optimizar consultas de Microsoft Graph y cargar correo electr\u00f3nico en lotes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/graph-user-email.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de m\u00e9todos de implementaci\u00f3n din\u00e1mica",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-dynamic-deployment-methods/?WT.mc_id=api_CatalogApi",
+    "Description": "Use m\u00e9todos de aprovisionamiento din\u00e1micos como activaci\u00f3n de suscripciones, paquetes de aprovisionamiento y Microsoft Entra combinaci\u00f3n para volver a configurar un sistema operativo existente.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/implement-dynamic-deployment-methods.svg"
+  },
+  {
+    "Title": "Capacitar la acci\u00f3n para obtener mejores resultados con Viva Glint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/viva-glint-empower-action-better-results-viva-glint/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo le ayuda a comprender los Personas Los h\u00e1bitos de \u00e9xito, centr\u00e1ndose en c\u00f3mo tener conversaciones s\u00f3lidas, de alta calidad y continuas con su equipo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Correcci\u00f3n de amenazas mediante Microsoft Defender",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-threat-remediate/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo investigar y corregir amenazas mediante Microsoft Defender para Office 365. Explore las herramientas automatizadas, la evaluaci\u00f3n de suplantaci\u00f3n de identidad (phishing) y la simulaci\u00f3n de ataques.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/train-the-defenders.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de m\u00e9todos de protecci\u00f3n avanzada",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-advanced-protection-methods/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se exploran herramientas adicionales que se usan para proporcionar capas adicionales de seguridad dentro de una organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de la administraci\u00f3n de incidentes de seguridad de Microsoft Online Services",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/audit-incident-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo Microsoft Online Services investiga, administra y responde a problemas de seguridad para proteger a los clientes y al entorno de nube de Microsoft.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-microsoft-365-security-incident-management.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de Administraci\u00f3n de riesgos internos de Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-insider-risk-management/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examina c\u00f3mo Administraci\u00f3n de riesgos internos de Microsoft Purview ayuda a las organizaciones a minimizar los riesgos internos al permitirles detectar, investigar y actuar sobre actividades malintencionadas e involuntariamente. MS-102",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/implement-insider-risk-management.svg"
+  },
+  {
+    "Title": "Administrar los dispositivos que se utilizan en el centro educativo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/education-manage-devices/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo le introducir\u00e1 algunas de las herramientas a las que puede recurrir para implementar y administrar los dispositivos que se utilizan en el centro educativo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-devices-used-for-education.svg"
+  },
+  {
+    "Title": "Soluci\u00f3n de problemas de errores del controlador de dispositivo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/troubleshoot-device-driver-failures/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo se centra en el rol de los controladores de dispositivos y en la soluci\u00f3n de problemas relacionados con ellos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/troubleshooting-device-driver-failures.svg"
+  },
+  {
+    "Title": "Supervisi\u00f3n y optimizaci\u00f3n del rendimiento del punto de conexi\u00f3n mediante Microsoft Intune",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/monitor-optimize-endpoint-performance-intune/?WT.mc_id=api_CatalogApi",
+    "Description": "Supervise el rendimiento de los puntos de conexi\u00f3n e implemente la correcci\u00f3n proactiva mediante Microsoft Intune y an\u00e1lisis de puntos de conexi\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Validaci\u00f3n de aplicaciones de Teams extensible en Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-teams-extend-app-365/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, nos centramos en garantizar que las aplicaciones extensibles de Teams cumplan los requisitos de validaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/teams-plan-deploy.svg"
+  },
+  {
+    "Title": "Administrar la administraci\u00f3n y la delegaci\u00f3n de \u00e1mbito con Microsoft Intune e Intune for Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/education-manage-admin/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo administrar la administraci\u00f3n y la delegaci\u00f3n de \u00e1mbito con Microsoft Intune e Intune for Education.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-scoped-administration-delegation-microsoft-intune-education.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de una aplicaci\u00f3n de Microsoft Teams en Azure mediante el kit de herramientas de Teams para Visual Studio Code",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/teams-toolkit-vsc-deploy-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre los requisitos de infraestructura y c\u00f3mo configurarse para hospedar y publicar la aplicaci\u00f3n en Microsoft Teams mediante la extensi\u00f3n Kit de herramientas de Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Administrar Windows actualizaciones para dispositivos conectados a la nube mediante el SDK de PowerShell de Microsoft Graph",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-windows-updates-cloud-devices/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, aprender\u00e1 a usar el SDK de PowerShell de Microsoft Graph para interactuar con el servicio de implementaci\u00f3n de Windows Update para empresas, de modo que pueda ofrecer, programar y acelerar las actualizaciones de los dispositivos Windows 10 o posteriores conectados a la nube.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/windows-updates-cloud-connected-devices.svg"
+  },
+  {
+    "Title": "Desbloquear la productividad y liberar creatividad con el chat con inteligencia artificial",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/unlock-productivity-unleash-creativity-ai-powered-chat/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo funciona Microsoft Copilot Chat con datos conectados tanto al trabajo como a la web.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Preparaci\u00f3n para una implementaci\u00f3n correcta de los resultados de Viva Glint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/viva-glint-prepare-successful-results-rollout/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se describen los elementos clave para comprender los resultados de la encuesta en directo, as\u00ed como c\u00f3mo conceder acceso a los resultados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Microsoft Defender para Office 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/defender-office-365-introduction/?WT.mc_id=api_CatalogApi",
+    "Description": "Comprender c\u00f3mo funciona Microsoft Defender para Office 365 y c\u00f3mo puede usarlo para evitar, detectar, investigar y resolver ataques en todos los productos de Office 365, incluidos Exchange, Teams y OneDrive.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/m365-defender-introduction-office-365.svg"
+  },
+  {
+    "Title": "Configuraci\u00f3n de la conectividad de red inal\u00e1mbrica",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-wireless-network-connectivity/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se describen los diversos est\u00e1ndares inal\u00e1mbricos y la configuraci\u00f3n y compatibilidad de los clientes inal\u00e1mbricos de Windows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/network-configure-connectivity.svg"
+  },
+  {
+    "Title": "Emplear Copilot Chat como su asistente de inteligencia artificial",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/employ-copilot-assistant/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre Microsoft 365 Copilot Chat: una herramienta que aprovecha la inteligencia artificial generativa para mejorar la productividad y simplificar los flujos de trabajo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Aprender sobre el registro y la supervisi\u00f3n de la auditor\u00eda de Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/audit-logging-monitoring/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo utiliza Microsoft 365 el registro y la supervisi\u00f3n de auditor\u00eda exhaustivos para admitir la supervisi\u00f3n de seguridad, mantener la disponibilidad del servicio y cumplir los requisitos de cumplimiento.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-microsoft-audit-logging-monitoring.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de la protecci\u00f3n adaptable en Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-compliance-irm-adaptive-protection/?WT.mc_id=api_CatalogApi",
+    "Description": "Implemente la protecci\u00f3n adaptable en Microsoft Purview para aplicar din\u00e1micamente directivas de prevenci\u00f3n de p\u00e9rdida de datos, acceso condicional y administraci\u00f3n del ciclo de vida de datos en funci\u00f3n de los niveles de riesgo interno.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Proyecto de desaf\u00edo: compilaci\u00f3n de un agente declarativo para chatear con los datos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-declarative-agent-challenge-chat-with-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Demostrar la capacidad de crear un agente declarativo para Microsoft 365 Copilot que acceden a datos desde una API externa.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Explorar Microsoft Defender",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-microsoft-defender/?WT.mc_id=api_CatalogApi",
+    "Description": "En el m\u00f3dulo se explica c\u00f3mo se pueden usar Microsoft Defender para protegerse contra malware y reducir la exposici\u00f3n a ataques mediante un firewall.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/microsoft-defender-explore.svg"
+  },
+  {
+    "Title": "Planeamiento y optimizaci\u00f3n del rendimiento de red para los medios de Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/plan-optimize-network-performance-for-teams-phone-system/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Teams se basa en la conectividad de red y, para la voz, el v\u00eddeo y el uso compartido en tiempo real, el buen rendimiento de red es clave para una experiencia de usuario buena. En este m\u00f3dulo, repasaremos cu\u00e1les son los requisitos de red en tiempo real de Teams, c\u00f3mo puede planear y probar la red y c\u00f3mo puede dise\u00f1ar y configurar la red para optimizar el rendimiento de los medios en tiempo real de Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/2-plan-and-optimize-network-performance-for-teams-phone-system.svg"
+  },
+  {
+    "Title": "Explorar etiquetas de confidencialidad",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-sensitivity-labels-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo examina c\u00f3mo las etiquetas de confidencial de la soluci\u00f3n de Microsoft Information Protection le permiten clasificar y proteger los datos de la organizaci\u00f3n, a la vez que se asegura de que no se obstaculice la productividad de los usuarios y su capacidad de colaboraci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/explore-sensitivity-labels-microsoft-365.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de la PKI en la nube de Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-cloud-pki/?WT.mc_id=api_CatalogApi",
+    "Description": "Cree una jerarqu\u00eda de entidades de certificaci\u00f3n hospedadas en la nube en Microsoft Intune, automatice la emisi\u00f3n y renovaci\u00f3n de SCEP y supervise el estado del certificado en los dispositivos administrados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Configurar un entorno de desarrollo de SharePoint Framework",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sharepoint-spfx-get-started/?WT.mc_id=api_CatalogApi",
+    "Description": "Configure un entorno de desarrollo SharePoint Framework y compile el primer elemento web del lado cliente para SharePoint Online.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/sharepoint-spfx-get-started.svg"
+  },
+  {
+    "Title": "Explorar Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las capacidades de Microsoft Teams, incluidas las cargas de trabajo principales de Teams y la integraci\u00f3n con otros servicios y plataformas de Microsoft. Comprenda la arquitectura de Teams y las soluciones certificadas de Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/teams-explore.svg"
+  },
+  {
+    "Title": "Administrar el acceso, agregar puntos de entrada y revisar los comentarios de B\u00fasqueda de Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-search-manage-access-entry-points-feedback/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n general sobre las soluciones para administrar el acceso a archivos y sitios, agregar puntos de entrada de b\u00fasqueda y revisar los comentarios de los usuarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/microsoft-search-manage-access-entry-points-feedback.svg"
+  },
+  {
+    "Title": "Compartir los resultados de Viva Glint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/viva-glint-share-viva-glint-results/?WT.mc_id=api_CatalogApi",
+    "Description": "Dise\u00f1ado para todos los usuarios Viva Glint, este m\u00f3dulo le presenta los procedimientos recomendados para compartir y analizar los resultados de las encuestas con todos los niveles de la organizaci\u00f3n. Con el marco ACT de Viva Glint, los administradores y administradores pueden tener discusiones continuas y de calidad sobre los resultados de la encuesta.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Configurar la experiencia de Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-microsoft-365-experience/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo examina cada una de las tareas que una organizaci\u00f3n debe completar para configurar correctamente su experiencia de Microsoft 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/configure-microsoft-365-experience.svg"
+  },
+  {
+    "Title": "Configuraci\u00f3n y administraci\u00f3n de un programa de comentarios de Microsoft Viva Glint 360",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/viva-glint-configure-manage-viva-glint-360-feedback-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo le guiar\u00e1 a trav\u00e9s de un proceso de 16 pasos para ayudarle a configurar y administrar un programa de comentarios de Microsoft Viva Glint 360.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Los usuarios est\u00e1n teniendo problemas para iniciar sesi\u00f3n en Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/troubleshoot-issues-signing-into-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo solucionar problemas de autenticaci\u00f3n de cuentas, revisar los registros de inicio de sesi\u00f3n y solucionar problemas de acceso de miembros e invitados. Obtenga informaci\u00f3n sobre c\u00f3mo validar la configuraci\u00f3n de red y configurar las directivas de acceso condicional.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/troubleshoot-issues-signing-into-microsoft-teams.svg"
+  },
+  {
+    "Title": "Proyecto guiado: creaci\u00f3n y asignaci\u00f3n de directivas de Teams para satisfacer los requisitos empresariales en Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/guided-project-create-assign-teams-policies.introduction/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, practicar\u00e1 c\u00f3mo cumplir directivas empresariales espec\u00edficas mediante la creaci\u00f3n de directivas pertinentes para deshabilitar los GIF, habilitar la sala de espera para todos los usuarios externos y deshabilitar el control remoto de uso compartido de escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/teams-module.svg"
+  },
+  {
+    "Title": "Integraci\u00f3n de contenido externo con Microsoft 365 Copilot mediante conectores copilot creados con .NET",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-graph-connectors/?WT.mc_id=api_CatalogApi",
+    "Description": "Cree conectores de Copilot para importar contenido externo a Microsoft 365. Puede crear conectores copilot en cualquier plataforma y con cualquier lenguaje de programaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/copilot-graph-connectors.svg"
+  },
+  {
+    "Title": "Incorporar m\u00e1s datos a B\u00fasqueda de Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-search-connectors/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo Microsoft Graph y los conectores federados pueden ayudar a incorporar m\u00e1s datos de su organizaci\u00f3n a B\u00fasqueda de Microsoft. Use presentaciones verticales personalizadas, cl\u00fasteres de resultados y otras opciones personalizadas para mejorar la experiencia de b\u00fasqueda de los usuarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/microsoft-search-connectors.svg"
+  },
+  {
+    "Title": "Rol de un experto de OKR",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/role-of-champion/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga m\u00e1s informaci\u00f3n sobre su rol como experto de OKR, c\u00f3mo comunicarse eficazmente y qu\u00e9 recursos est\u00e1n disponibles para que usted y su equipo tengan \u00e9xito.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Administraci\u00f3n de desaf\u00edos de seguridad de datos de inteligencia artificial con Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/purview-ai-data-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Purview le ayuda a reforzar la seguridad de los datos en entornos de inteligencia artificial, proporcionando herramientas para controlar los desaf\u00edos de la tecnolog\u00eda de inteligencia artificial. Aprenda a proteger los datos y a adaptarse a los desaf\u00edos de seguridad en constante evoluci\u00f3n en la tecnolog\u00eda de inteligencia artificial.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de la administraci\u00f3n de identidades y acceso de Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/audit-identity-access-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo Microsoft 365 implementa el principio de Acceso permanente sin privilegios (ZSA) para proteger los entornos de producci\u00f3n y los datos de los clientes mediante Just-In-Time (JIT) y Just-Enough-Access (JEA).",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-microsoft-365-identity-access-management.svg"
+  },
+  {
+    "Title": "Avanzar en la posici\u00f3n de seguridad con Microsoft Intune de chip a nube",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-advance-organization-security-posture/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo avanzar en la posici\u00f3n de seguridad de su organizaci\u00f3n de chip a nube con Microsoft Intune.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Examen de la puntuaci\u00f3n segura de Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/examine-microsoft-secure-score/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examina c\u00f3mo Puntuaci\u00f3n segura de Microsoft ayuda a las organizaciones a comprender lo que han hecho para reducir el riesgo para sus datos y mostrarles lo que pueden hacer para reducir a\u00fan m\u00e1s ese riesgo. MS-102",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/examine-microsoft-secure-score.svg"
+  },
+  {
+    "Title": "Crear presentaciones eficaces con IA",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/present-copilot-microsoft-powerpoint/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo crear y mejorar sus presentaciones con Copilot en Microsoft PowerPoint.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de la arquitectura en la nube de Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/audit-architecture/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo la arquitectura de Microsoft 365 implementa caracter\u00edsticas de seguridad y privacidad para proteger a los clientes que usan servicios multiinquilino de Microsoft 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-microsoft-365-cloud-architecture.svg"
+  },
+  {
+    "Title": "Optimizar y ampliar Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/optimize-and-extend-microsoft-365-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, se explora las pr\u00e1cticas recomendadas integrales para Microsoft 365 Copilot, as\u00ed como los m\u00e9todos de extensi\u00f3n clave, lo que le garantizar\u00e1 aprovechar todo el potencial y la versatilidad de la funcionalidad de Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/optimize-and-extend-microsoft-365-copilot.svg"
+  },
+  {
+    "Title": "Ampl\u00ede y optimice Microsoft 365 Copilot en su organizaci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/extend-optimize-copilot-m365/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre la cuarta fase, Extender y optimizar, en el marco de habilitaci\u00f3n de usuarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implementar e inscribir dispositivos educativos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/education-deploy-devices/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo le presentar\u00e1 las diferentes opciones que puede usar para aprovisionar dispositivos nuevos y existentes para el inicio del curso escolar. Aprender\u00e1 a configurar equipos educativos y Windows Autopilot para dispositivos Windows y a la inscripci\u00f3n automatizada de dispositivos para dispositivos iOS.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/deploy-and-enroll-your-education-devices.svg"
+  },
+  {
+    "Title": "Actualizaci\u00f3n y migraci\u00f3n de clientes Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/upgrade-migrate-windows-clients/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examinan los aspectos b\u00e1sicos de la actualizaci\u00f3n y migraci\u00f3n de procesos para un \u00fanico dispositivo Windows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/windows-client-upgrade-migrate.svg"
+  },
+  {
+    "Title": "Administrar experiencias de colaboraci\u00f3n para chats y canales",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-collaboration-experiences-for-chat-channels/?WT.mc_id=api_CatalogApi",
+    "Description": "Administrar experiencias de colaboraci\u00f3n para chats y canales",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/collaboration-manage-experiences.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de la sincronizaci\u00f3n de identidades",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-identity-synchronization/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examina la sincronizaci\u00f3n de identidades mediante Microsoft Entra Connect Sync y se exploran las opciones de autenticaci\u00f3n y aprovisionamiento que se pueden usar y el funcionamiento interno de la sincronizaci\u00f3n de directorios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/explore-identity-synchronization.svg"
+  },
+  {
+    "Title": "Describir las opciones de precios, licencias y facturaci\u00f3n de Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/identify-licensing-options-available-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre los modelos de precios de los servicios en la nube de Microsoft y c\u00f3mo Microsoft 365 est\u00e1 disponible a trav\u00e9s de varias opciones de licencias y facturaci\u00f3n para satisfacer las necesidades de las personas y organizaciones.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/identify-licensing-options-available-in-microsoft-365.svg"
+  },
+  {
+    "Title": "Uso compartido y uso de agentes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-no-code-agents-sharepoint/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se explora c\u00f3mo los usuarios empresariales cotidianos pueden compartir y usar agentes en SharePoint y Microsoft 365 Copilot Chat.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Describir el acceso a las aplicaciones en confianza cero",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/zero-trust-applications/?WT.mc_id=api_CatalogApi",
+    "Description": "M\u00e1s informaci\u00f3n sobre como utilizar confianza cero para asegurar sus aplicaciones y proteger su organizaci\u00f3n y sus usuarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/describe-application-use-in-zero-trust.svg"
+  },
+  {
+    "Title": "Preparaci\u00f3n para Azure Virtual Desktop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-prepare-for-wvd/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a preparar Azure Virtual Desktop: una soluci\u00f3n de virtualizaci\u00f3n basada en la nube que se ejecuta en Microsoft Azure. Azure Virtual Desktop es un servicio escalable y el\u00e1stico que ofrece experiencias de escritorio y aplicaciones remotos, sin tener que administrar la infraestructura de servidor subyacente. Revise los requisitos previos y las herramientas que ofrece Microsoft para prepararse para aprovisionar su primer grupo de host de Azure Virtual Desktop.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/prepare-for-windows-virtual-desktop.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de directivas de cumplimiento de dispositivos.",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-device-compliance-policies/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se describe c\u00f3mo usar directivas de cumplimiento y acceso condicional para ayudar a proteger el acceso a los recursos de la organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/implement-device-compliance-policies.svg"
+  },
+  {
+    "Title": "Cree su primera acci\u00f3n para agentes declarativos con el complemento de API mediante Visual Studio Code",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-declarative-agent-action-api-plugin-vsc/?WT.mc_id=api_CatalogApi",
+    "Description": "Cree un agente declarativo para Microsoft 365 Copilot optimizado para un escenario espec\u00edfico. Lleve acciones al agente con complementos de API para acceder a datos externos en tiempo real.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Desarrollo de aptitudes de marketing con agentes de inteligencia artificial",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/agent-speed-skills-marketing/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo los agentes de inteligencia artificial de Microsoft 365 Copilot pueden mejorar las tareas de marketing, optimizar los flujos de trabajo y mejorar la toma de decisiones para los profesionales.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n del cumplimiento de retenci\u00f3n, eDiscovery y comunicaci\u00f3n en Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/purview-exercise-implement-retention-ediscovery-communication-compliance/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo le gu\u00eda por la implementaci\u00f3n del cumplimiento y la gobernanza de los datos mediante Microsoft Purview, lo que garantiza que su organizaci\u00f3n cumple los requisitos normativos y administra los datos de forma eficaz.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/protect-information.svg"
+  },
+  {
+    "Title": "Inscripci\u00f3n de dispositivos mediante microsoft endpoint Configuration Manager",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/enroll-devices-using-microsoft-endpoint-configuration-manager/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo presenta a los alumnos las opciones de implementaci\u00f3n de cliente y algunas de las opciones de administraci\u00f3n y supervisi\u00f3n de alto nivel que est\u00e1n disponibles mediante Configuration Manager.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/endpoint-configuration-enroll-devices.svg"
+  },
+  {
+    "Title": "An\u00e1lisis y visualizaci\u00f3n de datos con Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/analyze-visualize-data-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo usar Microsoft 365 Copilot para analizar y visualizar los datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Prevenci\u00f3n de ataques basados en ransomware y extorsi\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ransomware-prevent-attacks/?WT.mc_id=api_CatalogApi",
+    "Description": "La prevenci\u00f3n contra el ransomware es esencial porque este tipo de ataque puede provocar interrupciones importantes para usted o su empresa. En este m\u00f3dulo, obtendr\u00e1 informaci\u00f3n sobre los procedimientos recomendados para protegerse frente a ransomware y otros ataques basados en extorsi\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/prevent-ransomware-extortion-based-attacks.svg"
+  },
+  {
+    "Title": "Escalado de su trabajo mediante la creaci\u00f3n de agentes de inteligencia artificial",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/scale-work-creating-ai-agents/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se explora c\u00f3mo los usuarios empresariales sin experiencia t\u00e9cnica o de programaci\u00f3n pueden crear agentes de inteligencia artificial en Microsoft 365 Copilot Chat que aumentar\u00e1n su productividad y ampliar\u00e1n su impacto.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Evaluaci\u00f3n de m\u00e9todos de instalaci\u00f3n de cliente de Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/evaluate-windows-client-installation-methods/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, tambi\u00e9n obtendr\u00e1 informaci\u00f3n sobre los diferentes procesos y m\u00e9todos para instalar Windows 10 y versiones posteriores.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/windows-client-installation-methods.svg"
+  },
+  {
+    "Title": "Desarrollo de elementos Web con SharePoint Framework",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sharepoint-spfx-web-parts/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo crear elementos web del lado cliente con el SharePoint Framework, probarlos en SharePoint Hosted Workbench y usar la API de SharePoint Framework.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/sharepoint-spfx-web-parts.svg"
+  },
+  {
+    "Title": "SharePoint Embedded: informaci\u00f3n general & configuraci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sharepoint-embedded-setup/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo realizar los pasos de configuraci\u00f3n y configuraci\u00f3n necesarios para crear aplicaciones para SharePoint Embedded.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Examen de vectores de amenazas e infracciones de datos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/examine-threat-vectors-data-breaches/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examinan los tipos de vectores de amenazas y sus posibles resultados que las organizaciones deben tratar diariamente y c\u00f3mo los usuarios pueden permitir que los hackers accedan a los destinos mediante la ejecuci\u00f3n involuntaria de contenido malintencionado. MS-102",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/examine-threat-vectors-data-breaches.svg"
+  },
+  {
+    "Title": "Establecer una visi\u00f3n y una estrategia para el programa de Viva Glint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/viva-glint-set-vision-strategy/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo proporciona el marco para dise\u00f1ar reuniones para alinear a las partes interesadas en los desaf\u00edos principales de su organizaci\u00f3n y explica c\u00f3mo resolverlas con un programa de encuestas de Microsoft Viva Glint. La informaci\u00f3n recopilada informa de la estrategia y el dise\u00f1o del programa. Este m\u00f3dulo es el primer paso en el recorrido de alineaci\u00f3n de las partes interesadas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "SharePoint Embedded: creaci\u00f3n de aplicaciones",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sharepoint-embedded-create-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo crear una aplicaci\u00f3n web que muestre escenarios comunes y casos de uso que los desarrolladores pueden implementar en sus aplicaciones habilitadas para SharePoint Embedded.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Detectar y abordar los riesgos de comunicaci\u00f3n con Cumplimiento de comunicaciones de Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-compliance-insider-prepare-communication-compliance/?WT.mc_id=api_CatalogApi",
+    "Description": "El cumplimiento de comunicaciones de Microsoft Purview es una soluci\u00f3n que ayuda a las organizaciones a abordar las infracciones de directivas de c\u00f3digo de conducta en las comunicaciones de la compa\u00f1\u00eda, al tiempo que ayuda a las organizaciones en los sectores regulados a cumplir requisitos espec\u00edficos de cumplimiento de supervisi\u00f3n. El Cumplimiento de comunicaciones usa el aprendizaje autom\u00e1tico para detectar de forma inteligente las infracciones en los diferentes canales de comunicaci\u00f3n, como Microsoft Teams, Exchange Online o mensajes de Yammer.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/communication-compliance.svg"
+  }
+]
