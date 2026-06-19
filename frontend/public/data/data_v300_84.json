@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Secure AI in schools with Microsoft Security",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/secure-ai-schools-microsoft-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Guide education customers in securing AI data with Microsoft Security tools, focusing on data loss prevention, sensitivity labels, and Security Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/secure-ai-schools-microsoft-security.svg"
+  },
+  {
+    "Title": "Explore social emotional learning: Mindfulness in Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-social-emotional-learning-mindfulness-minecraft/?WT.mc_id=api_CatalogApi",
+    "Description": "Minecraft Education Mindful Knight World introduces the basics of mindfulness to help students understand the benefits and main concepts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-social-emotional-learning-mindfulness-minecraft.svg"
+  },
+  {
+    "Title": "Innovate learning with the 21CLD real-world problem solving and innovation dimension",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/innovate-learning-21cld/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore real-world problem solving for educators and the dimensions that must be present in such classroom activities to prepare learners with 21st century skills.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/innovate-learning-21cld.svg"
+  },
+  {
+    "Title": "Deploy Microsoft 365 for Education with the Microsoft Education Solution Guide (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/deploy-microsoft-education-solution-guide/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the guide\u2019s phases, sections, and delivery sequence, and then map them to your tenant\u2019s licensing to build a practical deployment plan for Microsoft 365 for Education. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Support reading fluency practice with Reading Progress",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/support-reading-fluency-practice-with-reading-progress/?WT.mc_id=api_CatalogApi",
+    "Description": "Reading Progress in Microsoft Teams helps learners build reading fluency while allowing educators to easily track progress and save time for active instruction.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/support-reading-fluency-practice-with-reading-progress.svg"
+  },
+  {
+    "Title": "Create authentic assessments with Microsoft Forms",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-authentic-assessments-microsoft-forms/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators use Microsoft Forms for surveys, quizzes, and polls in the classroom to increase student engagement and save time.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-authentic-assessments-microsoft-forms.svg"
+  },
+  {
+    "Title": "Develop critical thinking skills with the 21CLD knowledge construction dimension",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/develop-critical-thinking-skills-with-21cld/?WT.mc_id=api_CatalogApi",
+    "Description": "Introduce educators to the dimension of knowledge construction which helps learners build deep knowledge that they can transfer and apply in practice.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/develop-critical-thinking-skills-with-21cld.svg"
+  },
+  {
+    "Title": "Foundations of a modern public sector security operations center",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/foundations-modern-public-sector-security-operations-center/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn the importance of modernizing security operations centers (SOC) in public sector organizations and the steps involved in SOC modernization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Get started with OneNote for education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-onenote/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators use OneNote to organize information and content and to support research, collaboration, note taking, journaling, and reflection.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-onenote.svg"
+  },
+  {
+    "Title": "Equip and support learners with AI tools from Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/equip-support-learners-ai-tools-microsoft/?WT.mc_id=api_CatalogApi",
+    "Description": "Help learners discover, interact, and create with AI and generative AI tools like Copilot including responsible use of AI and prompt engineering.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/equip-support-learners-ai-tools-microsoft.svg"
+  },
+  {
+    "Title": "Develop systems with organizational leadership",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/develop-systems-with-organizational-leadership/?WT.mc_id=api_CatalogApi",
+    "Description": "School leaders use Microsoft 365 Education tools to promote a safe, efficient, and effective learning environment.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/develop-systems-with-organizational-leadership.svg"
+  },
+  {
+    "Title": "Engage learners through games with MakeCode Arcade",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/engage-learners-through-games-with-makecode-arcade/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn the benefits of game-based learning and how games are used in Microsoft MakeCode Arcade to provide meaningful instruction to develop computer science concepts and skills.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/engage-learners-through-games-with-makecode-arcade.svg"
+  },
+  {
+    "Title": "Develop understanding with the Study and Learn Agent in the Microsoft 365 Copilot app",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/develop-understanding-study-learn-agent-copilot-app/?WT.mc_id=api_CatalogApi",
+    "Description": "The Study and Learn Agent guides learners through inquiry-based understanding, practice, and study to build deeper, independent understanding and thinking skills.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Increase educator adoption of Reflect",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/increase-educator-adoption-reflect/?WT.mc_id=api_CatalogApi",
+    "Description": "Teach education customers to provide opportunities for students to reflect on learning so teachers can modify teaching according to students\u2019 needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Get ready for AI in education with Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-ready-ai-education-microsoft/?WT.mc_id=api_CatalogApi",
+    "Description": "Equip your institution for AI with secure data management, AI readiness, and empowering educators for personalized learning.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/get-ready-ai-education-microsoft.svg"
+  },
+  {
+    "Title": "Explore mission-driven AI examples for nonprofits",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-mission-driven-ai-examples-nonprofits/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore AI examples in nonprofits and discover how organizations use AI to support mission-driven work. Learn best practices today.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Work with your IT team and the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-with-it-team-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Work with your IT team to secure devices, manage technical support, and ensure device sanitation for your Minecraft Student Ambassadors. Part of a learning path.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-with-it-team-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Support building mathematics skills with Math Progress",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/support-building-mathematics-skills-math-progress/?WT.mc_id=api_CatalogApi",
+    "Description": "Math Progress in Microsoft Teams helps learners build math skills while helping educators track progress and save time for active instruction.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/support-building-mathematics-skills-math-progress.svg"
+  },
+  {
+    "Title": "Set up the Teams Assignments LTI\u00ae app in learning management systems",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-teams-assignments-lti-app-learning-management-systems/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up the Teams Assignment LTI app within the learning management systems Canvas and Schoology Learning.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Introduce coding in Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduce-coding-minecraft-education-edition/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how educators may use block-based coding in Minecraft Education to introduce programming to their learners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduce-coding-minecraft-education-edition.svg"
+  },
+  {
+    "Title": "School Data Sync for IT Admins (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/school-data-sync-it-admins/?WT.mc_id=api_CatalogApi",
+    "Description": "IT Admins learn how to implement School Data Sync for education customers. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Transform education with strategic leadership",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/transform-education-strategic-leadership/?WT.mc_id=api_CatalogApi",
+    "Description": "Increase leadership capacity to support growth and opportunity with a shared and distributive leadership approach for the system and the school level.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/transform-education-strategic-leadership.svg"
+  },
+  {
+    "Title": "Increase educator adoption of Education Insights",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/increase-educator-adoption-insights/?WT.mc_id=api_CatalogApi",
+    "Description": "This module teaches education partners how to help customers proactively track student experiences with digestible visualizations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Begin Python coding in Minecraft with MakeCode",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/begin-python-coding-minecraft-makecode-azure-notebooks/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators use the basics of Python, a text-based programming language, in Minecraft Education to build out coding knowledge to facilitate Python coding in the classroom",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/begin-python-coding-minecraft-makecode-azure-notebooks.svg"
+  },
+  {
+    "Title": "Empower every student with an inclusive classroom",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/empower-every-student-with-inclusive-classroom/?WT.mc_id=api_CatalogApi",
+    "Description": "Empower students to utilize tools to unlock their full potential by addressing a diversity of needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/empower-every-student-with-inclusive-classroom.svg"
+  },
+  {
+    "Title": "Meet your ambassadors in the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/meet-ambassadors-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "With thoughtful planning and engaging activities Minecraft Student Ambassadors stay connected and grow as leaders.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/meet-ambassadors-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Enhance school communication and collaboration in Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/enhance-school-communication-collaboration-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Unlock the power of Microsoft Teams for administrators, educators, and learners. Learn to collaborate, customize, and organize effectively in Microsoft Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/enhance-school-communication-collaboration-microsoft-teams.svg"
+  },
+  {
+    "Title": "Transition to and prepare for fundamentals-level security, compliance, and identity course",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/transition-prepare-fundamentals-level-security-compliance-identity/?WT.mc_id=api_CatalogApi",
+    "Description": "Understand the basics of cybersecurity to prepare for the fundamentals-level security, compliance, and identity course and prevent malicious attacks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/transition-prepare-fundamentals-level-security-compliance-identity.svg"
+  },
+  {
+    "Title": "Introduction to Learning Accelerators",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-learning-accelerators/?WT.mc_id=api_CatalogApi",
+    "Description": "An overview of Learning Accelerators for education partners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Design and deliver interactive lessons with Microsoft Learning Zone",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/design-deliver-interactive-lessons-microsoft-learning-zone/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to use Microsoft Learning Zone to create and manage interactive lessons and improve student engagement using embedded activities and immediate feedback.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Countdown to successful family-teacher conferences",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/countdown-successful-family-teacher-conferences/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators gain an understanding of using Microsoft tools to plan and carry out a successful parent conference centered around the student.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/countdown-successful-family-teacher-conferences.svg"
+  },
+  {
+    "Title": "Recruit students to the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/recruit-students-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Recruit a diverse range of students to ensure the success of your Minecraft Student Ambassador program. Module 3 in a learning path.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/recruit-students-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Build cybersecurity resilience in K-12 classrooms with Microsoft tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-cybersecurity-resilience-k-12-classrooms-microsoft-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "Use CISA's findings to boost school cybersecurity and classroom cyber culture. This module equips classroom educators with strategies for effective cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/build-cybersecurity-resilience-k-12-classrooms-microsoft-tools.svg"
+  },
+  {
+    "Title": "Plan your year in the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/plan-your-year/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to plan for Minecraft Student Ambassador events, build leadership opportunities, and ensure smooth logistics for each aspect of your program.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/plan-your-year.svg"
+  },
+  {
+    "Title": "Minecraft 101: Craft a game-based learning classroom",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/craft-game-based-learning-classroom/?WT.mc_id=api_CatalogApi",
+    "Description": "Understand teaching and learning with games with Minecraft Education. Gain skills to integrate Minecraft into teaching and enhance lessons.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/craft-game-based-learning-classroom.svg"
+  },
+  {
+    "Title": "OneNote Class Notebook: A teacher's all-in-one notebook for students",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/onenote-class-notebook-teacher-all-in-one-notebook/?WT.mc_id=api_CatalogApi",
+    "Description": "Teachers use OneNote Class Notebook to prepare instructional material and collaborate with students in accessible ways.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/onenote-class-notebook-teacher-all-in-one-notebook.svg"
+  },
+  {
+    "Title": "Dyslexia and technology, in partnership with Made By Dyslexia",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dyslexia-technology/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators and parents learn about the challenges learners with dyslexia face and explore technology tools to support learners with dyslexia.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dyslexia-technology.svg"
+  },
+  {
+    "Title": "Accessibility: Build the foundation for inclusive learning ",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/accessibility-build-foundation-inclusive-learning/?WT.mc_id=api_CatalogApi",
+    "Description": "Explores accessibility through several foundational concepts and learn to create an inclusive learning environment.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/accessibility-build-foundation-inclusive-learning.svg"
+  },
+  {
+    "Title": "Dyslexia Teaching: Part 2, In partnership with Made By Dyslexia",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dyslexia-teaching-part-2/?WT.mc_id=api_CatalogApi",
+    "Description": "Our Dyslexia Teaching training allows you to deepen your understanding of dyslexia. Part 2 shows you next-level strategies and solutions for reading, spelling, and writing.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/dyslexia-teaching-part-2.svg"
+  },
+  {
+    "Title": "Enhance teaching and learning with Microsoft 365 Copilot Chat",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/enhance-teaching-learning-microsoft-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators leverage Microsoft 365 Copilot Chat with practical strategies, prompt design tips, and responsible AI practices.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/enhance-teaching-learning-bing-chat.svg"
+  },
+  {
+    "Title": "Boost K-12 school cybersecurity leadership with Microsoft tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/boost-school-cybersecurity-leadership-microsoft-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "Use CISA's findings to boost school cybersecurity, safeguarding staff and students. This module equips leaders with strategies for effective cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/boost-school-cybersecurity-leadership-microsoft-tools.svg"
+  },
+  {
+    "Title": "Build a cybersecurity career with SOC best practices",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-cybersecurity-career-soc-best-practices/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore cybersecurity careers in security operations centers. Learn about key SOC roles, required skills, and best practices to start your path in cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Prompt with purpose, in partnership with ISTE+ASCD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/prompt-with-purpose/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn to move from improvising prompts in the moment to using a repeatable blueprint to reach for every time.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Host a head-to-head challenge in Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/host-head-to-head-challenge-minecraft-esports/?WT.mc_id=api_CatalogApi",
+    "Description": "Encourage quick thinking, adaptability, and problem-solving in your classroom with head-to-head challenges in Minecraft esports.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Computational thinking and its importance in education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/computational-thinking-importance-education/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators explore computational thinking in education, considering decomposition, pattern recognition, abstraction, and algorithmic thinking for cross-curricular teaching.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/computational-thinking-importance-education.svg"
+  },
+  {
+    "Title": "Implement Microsoft Copilot in your school (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-microsoft-copilot-school-partner-success-series/?WT.mc_id=api_CatalogApi",
+    "Description": "Education systems integrators learn to enable free Copilot Chat and licensed Microsoft 365 Copilot, while ensuring security, compliance, and responsible AI use in schools.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Embed 21st century skills with 21st century learning design",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/embed-21st-century-skills-21st-century-learning-design/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators implement 21st century skills and learning into classes using 21CLD for lesson design.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/embed-21st-century-skills-21st-century-learning-design.svg"
+  },
+  {
+    "Title": "Apply Information Barriers in education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/apply-information-barriers-education/?WT.mc_id=api_CatalogApi",
+    "Description": "This module teaches education partners to configure Microsoft Purview Information Barriers (IB) for unique education needs. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Support learning environments with instructional leadership",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/support-learn-environments-instructional-leadership/?WT.mc_id=api_CatalogApi",
+    "Description": "Instructional leaders use Microsoft 365 to support learning environments with data analysis, differentiated learning, and educator feedback.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/support-learn-environments-instructional-leadership.svg"
+  },
+  {
+    "Title": "Embark on your AI journey with free AI tools from Microsoft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/embark-ai-journey-free-ai-tools-microsoft-education/?WT.mc_id=api_CatalogApi",
+    "Description": "This module is designed to introduce educators to the powerful AI tools that Microsoft offers to educators and learners for free.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/embark-ai-journey-free-ai-tools-microsoft-education.svg"
+  },
+  {
+    "Title": "Bring social emotional learning to your classroom with Reflect and eTwinz",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/become-reflective-educator-reflect-etwinz/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover Reflect with the eTwinz-Get started, embed Reflect in your lesson plans, support student well-being, and become a truly reflective educator.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Leverage data for action with Microsoft Education Insights",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/leverage-data-for-action-microsoft-insights/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn the features of Microsoft Education Insights and how to leverage the tools to identify trends and inform decision making to best support students.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/leverage-data-for-action-microsoft-insights.svg"
+  },
+  {
+    "Title": "Build secure agents for public sector services",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-secure-agents-public-sector-services/?WT.mc_id=api_CatalogApi",
+    "Description": "Public sector organizations use agentic AI, Copilot, and Azure AI Foundry to automate complex workflows, improve citizen service delivery, and govern AI responsibly.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Work remotely with the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-remotely-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Host multiplayer games, work collaboratively, and keep your Minecraft Student Ambassadors program running smoothly in remote or hybrid settings.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-remotely-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Connect educators and learners with Canvas and Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/connect-faculty-learners-canvas-microsoft-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Explores the advantages of using the Canvas learning management system (LMS) with Microsoft 365 apps, including the newly available Microsoft Reflect.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/connect-faculty-learners-canvas-microsoft-365.svg"
+  },
+  {
+    "Title": "Enhance public sector services with generative AI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/enhance-public-sector-services-generative-ai/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover the potential of generative AI for transforming public sector organizations and responsible AI practices for the public sector.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Apply responsible AI creation principles in the classroom, developed in partnership with ISTE+ASCD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/apply-responsible-ai-creation-principles-classroom/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to model responsible AI practice, protect learners and communities, and make thoughtful decisions about when and how to use AI.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Create instructional materials with Teach in Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-instructional-materials-teach-microsoft-365-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Teach in Microsoft 365 Copilot App centralizes AI-powered tools to help educators plan instruction, assess learning, and manage class artifacts in Microsoft 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Implement Microsoft Teams for Education in your school (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-microsoft-teams-education-school/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to install, configure, and deploy Microsoft Teams for Education in a school environment as a systems integrator. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Introduction to Visual Studio Code for Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/visual-studio-code-education-introduction/?WT.mc_id=api_CatalogApi",
+    "Description": "Evaluate whether Visual Studio Code for Education is the right tool to introduce your students to coding.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/visual-studio-code-education-introduction.svg"
+  },
+  {
+    "Title": "Establish partnerships and funding for the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/establish-partnerships-funding-msa-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Build partnerships and explore ways to secure funding to support the Minecraft Student Ambassador program at your school.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/establish-partnerships-funding-msa-program.svg"
+  },
+  {
+    "Title": "Prepare to teach AP Computer Science Principles with Microsoft MakeCode Arcade",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/prepare-teach-ap-computer-science-principles-microsoft-makecode-arcade/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the College Board's AP Computer Science Principles course and explore the Microsoft MakeCode Arcade curriculum.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Analyze cybersecurity incidents with Security Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/analyze-cybersecurity-incidents-security-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Practice responding to real-world SOC scenarios using Security Copilot and Microsoft security tools that detect, investigate, and mitigate cybersecurity threats.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Increase educator adoption of Reading Progress and Reading Coach",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/increase-educator-adoption-reading-progress-coach/?WT.mc_id=api_CatalogApi",
+    "Description": "Education partners can increase adoption of Reading Progress and Coach in education customers.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Get started with Microsoft Teams for Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-microsoft-teams-education/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Teams in educational settings is a hub for content and the centerpiece for collaboration. Learn about the structure and components of a team.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-microsoft-teams-education.svg"
+  },
+  {
+    "Title": "Power the classroom with SharePoint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/power-classroom-sharepoint/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how Microsoft SharePoint enhances productivity, efficiency, and communication in education. Learn to create webpages, lists, and optimize libraries to power your classroom.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/power-classroom-sharepoint.svg"
+  },
+  {
+    "Title": "OneNote Staff Notebook: Tools for staff collaboration",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/onenote-staff-notebook/?WT.mc_id=api_CatalogApi",
+    "Description": "Collaborate with OneNote Staff Notebooks, a personal workspace for staff and teachers, a content library for shared information, and a collaboration space.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/onenote-staff-notebook.svg"
+  },
+  {
+    "Title": "Introduce AI and data science in STEM education with FarmBeats for Students",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduce-ai-data-science-stem-farmbeats-students/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators teach AI and data science with FarmBeats for Students by solving real-world agricultural challenges in partnership with National FFA Organization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/introduce-ai-data-science-stem-farmbeats-students.svg"
+  },
+  {
+    "Title": "Facilitate a Minecraft Hour of AI experience",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/facilitate-minecraft-hour-ai-experience/?WT.mc_id=api_CatalogApi",
+    "Description": "Provide high-quality AI literacy and computer science instruction for students through a successful experience with Hour of AI in Minecraft Education.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/facilitate-minecraft-hour-ai-experience.svg"
+  },
+  {
+    "Title": "Increase educator adoption of search tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/increase-educator-adoption-search-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces Microsoft Search Coach and Search Progress for education partners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Minecraft Trainer Academy: Train educators to teach with Minecraft Education in the classroom",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/minecraft-trainer-academy-minecraft-education-classroom/?WT.mc_id=api_CatalogApi",
+    "Description": "The Minecraft Education Trainer Academy walks educators through best practices for preparing and facilitating a Minecraft Education training for their organization, provides the training materials, and inspires with ideas to create a training environment that empowers all to use Minecraft Education.\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/minecraft-trainer-academy-minecraft-education-classroom.svg"
+  },
+  {
+    "Title": "Support social and emotional learning with Microsoft tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/support-social-emotional-learning/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn practical ways to introduce social and emotional learning using Microsoft tools such as Minecraft to augment and enhance learning.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/support-social-emotional-learning.svg"
+  },
+  {
+    "Title": "Increase productivity with Office, OneNote, and Microsoft Edge browser in Windows 11",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/increase-productivity-office-onenote-edge-browser-windows-11/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how educators transitioning to Microsoft 365 from other platforms increase productivity with Microsoft tools.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/increase-productivity-office-onenote-edge-windows.svg"
+  },
+  {
+    "Title": "Deploy and manage Agent 365 in education (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/deploy-manage-agent-365-education/?WT.mc_id=api_CatalogApi",
+    "Description": "Education system administrators can deploy, configure, and manage AI agents in Microsoft 365 using Agent 365, the control plane for agents. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Organize content, create assignments, and assess learners' understanding in Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/organize-content-create-assignments-assess-learners-understanding-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Create and organize content in Classwork, manage assignments, simplify assessments, give timely feedback, and track academic and SEL trends within Class Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/organize-content-create-assignments-assess-learners-understanding-teams.svg"
+  },
+  {
+    "Title": "Develop learner executive function with the 21CLD self-regulation dimension",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/develop-learner-executive-function/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn about the concept of self-regulation and to design learning activities to help learners develop it.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/develop-learner-executive-function.svg"
+  },
+  {
+    "Title": "Build challenges in Minecraft esports",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-challenges-minecraft-esports/?WT.mc_id=api_CatalogApi",
+    "Description": "Esports in Minecraft Education using Build Challenges supports classroom goals.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Teach AP Computer Science Principles with the Microsoft MakeCode curriculum",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/teach-ap-computer-science-principles-makecode/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn about the curriculum framework of the AP Computer Science Principles course and how the Microsoft MakeCode curriculum meets the course's curricular goals.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/teach-ap-computer-science-principles-makecode.svg"
+  },
+  {
+    "Title": "Empower educators to explore the potential of artificial intelligence",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/empower-educators-explore-potential-artificial-intelligence/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn to use AI, generative AI, and Microsoft tools to personalize learning, automate tasks, and provide insights for education.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/empower-educators-explore-potential-artificial-intelligence.svg"
+  },
+  {
+    "Title": "Build community with Teams and OneNote",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-community-teams-onenote/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explores how educators transitioning to Microsoft 365 from other platforms can use Teams and OneNote, two comprehensive programs that offer diverse options and a variety of features.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/build-community-teams-onenote.svg"
+  },
+  {
+    "Title": "Build social and emotional skills in your classroom community with Reflect",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-sel-skills-with-reflect/?WT.mc_id=api_CatalogApi",
+    "Description": "Students need the words to express and address emotions. Educators must build a safe place for social and emotional wellbeing in the classroom.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/build-sel-skills-with-reflect.svg"
+  },
+  {
+    "Title": "Use Power Automate to increase productivity",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-power-automate-increase-productivity/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators gain a greater understanding of what Power Automate is and explore what Power Automate can do. See how Power Automate can benefit educators simplify everyday tasks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-power-automate-increase-productivity.svg"
+  },
+  {
+    "Title": "Secure K-12 school IT practices and systems with Microsoft tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/secure-k-12-school-it-practices-systems-microsoft-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "K-12 IT professionals implement CISA-recommended cybersecurity practices to manage risks, maintain security protocols, and detect and respond to incidents.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/secure-k-12-school-it-practices-systems-microsoft-tools.svg"
+  },
+  {
+    "Title": "Minecraft Connections: Integrate across the curriculum",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/minecraft-connections-integrate-across-curriculum/?WT.mc_id=api_CatalogApi",
+    "Description": "Use Minecraft lesson plans and worlds to blend Minecraft Education into your content for an impactful experience in the classroom.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Explore cybersecurity careers with Minecraft Education-Cyber Defender: Tower Defense",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/cybersecurity-careers-minecraft-education-cyber-defender/?WT.mc_id=api_CatalogApi",
+    "Description": "Introduce cybersecurity through Minecraft Education to learn about the benefits and setbacks of defense strategies, and the basics of cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Discover Power Apps for Educators and reclaim your time 101",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/discover-power-apps-educators-reclaim-time/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn how to use Power Apps by creating apps for themselves that help save time and create administrative efficiencies.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/discover-power-apps-educators-reclaim-time.svg"
+  },
+  {
+    "Title": "Collaborate with colleagues with staff and PLC teams in Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/collaborate-colleagues-staff-plc-teams-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Staff teams and PLC teams in Microsoft Teams facilitate collaboration between professional colleagues and incorporate file sharing and organization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/collaborate-colleagues-staff-plc-teams-microsoft-teams.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/fsharp-first-steps/?WT.mc_id=api_CatalogApi",
+    "Description": "F# is an open-source, cross-platform programming language that makes it easy to write succinct, performant, robust, and practical code. It's a general-purpose language that enables you to create many different types of applications like Web API, Desktop, IoT, Gaming and more.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/fsharp-first-steps-path.svg"
+  },
+  {
+    "Title": "Math Progress",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/windows-11-pro-accreditation-2026/?WT.mc_id=api_CatalogApi",
+    "Description": "This Learning Path introduces Windows 11 Pro as a secure, high-performance platform designed to support AI-enabled work. Learners will explore how Windows can provide a flexible canvas for AI experiences, built-in security and management, resilient device fundamentals, and seamless integration with the Microsoft Cloud. The Learning Path covers how Windows 11 Pro supports intelligent workflows with AI and agents, simplifies IT management with security by default, and delivers reliable performance for mission-critical operations. By completing this Learning Path, learners will understand how they can use Windows 11 Pro to adopt AI while maintaining strong security, resiliency, and operational efficiency.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/windows-11-pro-accreditation-2026.svg"
+  },
+  {
+    "Title": "Module assessment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/purview-implement-insider-risk-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Implement Microsoft Purview Insider Risk Management to detect, investigate, and respond to internal risks while protecting data, ensuring compliance, and maintaining employee trust.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Explore continuous delivery with GitHub Actions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/observe-troubleshoot-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to instrument distributed applications with OpenTelemetry and analyze telemetry data with Azure Monitor to observe and troubleshoot AI solutions on Azure.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Module assessment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/migrate-application-workloads-data-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Migrate application workloads and data to Azure",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/migrate-application-workloads-data-azure.svg"
+  },
+  {
+    "Title": "Support organizational success",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/implement-windows-server-high-availability/?WT.mc_id=api_CatalogApi",
+    "Description": "Implement Windows Server high availability",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/implement-windows-server-high-availability.svg"
+  },
+  {
+    "Title": "Design and implement Azure load balancer using the Azure portal",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/sc-200-perform-threat-hunting-azure-sentinel/?WT.mc_id=api_CatalogApi",
+    "Description": "Perform threat hunting in Microsoft Sentinel",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/perform-threat-hunting-in-azure-sentinel.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/explore-endpoint-management/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path explains the concepts of supporting the desktop through its entire lifecycle. Students will also be introduced to Microsoft Entra ID and learn the similarities and differences between Microsoft Entra ID and Active Directory DS and how to synchronize between the two.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-endpoint-management.svg"
+  },
+  {
+    "Title": "Plan for Microsoft Entra integration",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/implement-security-through-pipeline-using-devops/?WT.mc_id=api_CatalogApi",
+    "Description": "Implement security through a pipeline using Azure DevOps. (AZ-2001)",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/implement-security-through-pipeline-using-devops.svg"
+  },
+  {
+    "Title": "Implement extension methods for a class",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/sc-200-create-detections-perform-investigations-azure-sentinel/?WT.mc_id=api_CatalogApi",
+    "Description": "Create detections and perform investigations using Microsoft Sentinel",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/azure-sentinel-detection.svg"
+  },
+  {
+    "Title": "Exercise - Create the CI workflow on GitHub",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/understand-data-concepts/?WT.mc_id=api_CatalogApi",
+    "Description": "Data is key to most business operations and services and an understanding of data is essential in many roles. This learning path covers data concepts, data analytics, and data roles, services, and products.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/understand-data-concepts.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/surface-for-business-accreditation-2025/?WT.mc_id=api_CatalogApi",
+    "Description": "This Learning Path introduces Surface for Business solutions and how they help organizations thrive. Learn about the latest Surface for Business devices, how to choose the right models for different roles, modernizing confidently after Windows 10 end of support, and planning and managing deployment. This path is deal for IT decision makers, IT administrators, and business leaders guiding device strategy and rollout.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/surface-for-business-accreditation-2025.svg"
+  },
+  {
+    "Title": "Exercise - Configure disposition review for contract retention",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/manage-endpoint-security/?WT.mc_id=api_CatalogApi",
+    "Description": "In this learning path, students will learn about data protection and protecting endpoints against threats. This path will also cover the key capabilities of Microsoft Defender solutions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-endpoint-security.svg"
+  }
+]
