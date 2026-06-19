@@ -32,6 +32,10 @@ const Home = () => {
       await fetchChunk(2);
       await fetchChunk(3);
       await fetchChunk(4);
+      await fetchChunk(5);
+      await fetchChunk(6);
+      await fetchChunk(7);
+      await fetchChunk(8);
       setTimeout(() => setLoading(false), 800);
     };
     init();
