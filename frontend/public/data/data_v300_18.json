@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Introducci\u00f3n a Copilot en Microsoft Fabric",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduction-to-copilot-fabric/?WT.mc_id=api_CatalogApi",
+    "Description": "Introducci\u00f3n a Copilot en Microsoft Fabric.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Descubra las directrices de Microsoft para el desarrollo de inteligencia artificial conversacional responsable",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/responsible-conversational-ai/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las directrices de Microsoft para el desarrollo de inteligencia artificial conversacional responsable, como bots de chat y sistemas controlados por voz.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/responsible-conversational-ai.svg"
+  },
+  {
+    "Title": "Almacenar y aplicar operaciones sobre datos de lista en F#",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/fsharp-lists/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo trata las colecciones de F# y se centra espec\u00edficamente en las listas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/fsharp-lists.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n del razonamiento en varias fases en Azure Databricks",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/multistage-reasoning-azure-databricks/?WT.mc_id=api_CatalogApi",
+    "Description": "Implementaci\u00f3n del razonamiento en varias fases en Azure Databricks",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/azure-databricks.svg"
+  },
+  {
+    "Title": "Configuraci\u00f3n y administraci\u00f3n de Azure Database for PostgreSQL",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-manage-postgresql/?WT.mc_id=api_CatalogApi",
+    "Description": "Azure Database for PostgreSQL administra eficazmente grandes cantidades de datos y sus estructuras a trav\u00e9s de cat\u00e1logos y vistas del sistema. En este m\u00f3dulo se explora c\u00f3mo optimizar el rendimiento de la base de datos mediante el acceso y la configuraci\u00f3n de metadatos, la comprensi\u00f3n del rol del proceso de vac\u00edo para mantener el estado de la base de datos y la administraci\u00f3n de la configuraci\u00f3n del servidor. Presentamos t\u00e9cnicas pr\u00e1cticas para mejorar la administraci\u00f3n de bases de datos de PostgreSQL, \u00fatiles en entornos que requieren un s\u00f3lido control de datos y caracter\u00edsticas de seguridad.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de los servicios de bases de datos relacionales en Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-provision-deploy-relational-database-offerings-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Este contenido forma parte de Exploraci\u00f3n de los servicios de bases de datos relacionales en Azure.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/explore-provision-deploy-relational-database-offerings-azure.svg"
+  },
+  {
+    "Title": "Procedimientos recomendados de accesibilidad para juegos y plataformas",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/games-and-platforms1/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre los principios b\u00e1sicos de procedimientos recomendados de accesibilidad que puede usar para guiar el desarrollo de juegos y plataformas. Aprenda tambi\u00e9n a usar las Directrices de accesibilidad de Xbox, un recurso en l\u00ednea gratuito para desarrolladores que proporciona una lista completa de los procedimientos recomendados organizados por elementos y caracter\u00edsticas espec\u00edficos del juego.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/games-and-platforms.svg"
+  },
+  {
+    "Title": "Crear sitios de SharePoint accesibles",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-accessible-sharepoint-sites/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre los procedimientos recomendados, las ventajas y los principios de creaci\u00f3n de contenido accesible para aquellos que usan los sitios de SharePoint.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de Administraci\u00f3n de direcciones IP (IPAM)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-ip-address-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Implementaci\u00f3n de Administraci\u00f3n de direcciones IP (IPAM)",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/implement-ip-address-management.svg"
+  },
+  {
+    "Title": "Proteger los datos en tr\u00e1nsito y en reposo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/protect-data-transit-rest/?WT.mc_id=api_CatalogApi",
+    "Description": "Proteger los datos en tr\u00e1nsito y en reposo",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/protect-data-in-transit-and-at-rest.svg"
+  },
+  {
+    "Title": "Crear paneles en tiempo real con Microsoft Fabric",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-real-time-dashboards-microsoft-fabric/?WT.mc_id=api_CatalogApi",
+    "Description": "Panel en tiempo real es una funcionalidad de Microsoft Fabric que puede usar para crear visualizaciones de datos interactivas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/create-real-time-dashboards-microsoft-fabric.svg"
+  },
+  {
+    "Title": "Preparaci\u00f3n de la migraci\u00f3n de recursos de VMware a Azure mediante la implementaci\u00f3n de Azure VMware Solution",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/deploy-azure-vmware-solution/?WT.mc_id=api_CatalogApi",
+    "Description": "Prepare la migraci\u00f3n de recursos de VMware a Azure mediante la implementaci\u00f3n de un recurso de Azure VMware Solution. Despu\u00e9s, conecte el entorno de VMware a Azure VMware Solution.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/deploy-azure-vmware-solution.svg"
+  },
+  {
+    "Title": "Uso de Eventstream en Microsoft Fabric",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-event-streams-microsoft-fabric/?WT.mc_id=api_CatalogApi",
+    "Description": "Eventstream en Real-Time Intelligence (RTI) permite ingerir, transformar y enrutar datos en tiempo real.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/explore-event-streams-in-microsoft-fabric.svg"
+  },
+  {
+    "Title": "Uso de KQL para crear instrucciones de varias tablas",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-multi-table-statements-kusto-query-language/?WT.mc_id=api_CatalogApi",
+    "Description": "Uso de KQL para crear instrucciones de varias tablas",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-multi-table-statements-in-kql.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n de aplicaciones .NET MAUI multip\u00e1gina con pesta\u00f1as y navegaci\u00f3n flotante",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-multi-page-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "Use el shell de .NET MAUI para crear aplicaciones multip\u00e1gina con pesta\u00f1as y navegaci\u00f3n flotante.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/create-multi-page-apps.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de la comunicaci\u00f3n de cliente-servidor en PostgreSQL",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/understand-client-server-communication-postgresql/?WT.mc_id=api_CatalogApi",
+    "Description": "PostgreSQL es un sistema de servidor cliente, que permite a muchos clientes conectarse a un servidor central. En este m\u00f3dulo aprender\u00e1 c\u00f3mo PostgreSQL administra las conexiones de los clientes y examina algunas herramientas comunes de cliente de PostgreSQL.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-client-server-communication-postgresql.svg"
+  },
+  {
+    "Title": "Proteger objetos de cat\u00e1logo de Unity",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/secure-unity-catalog-objects/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a implementar una seguridad completa para objetos de Cat\u00e1logo de Unity en Azure Databricks, como el control de acceso, los permisos espec\u00edficos, la administraci\u00f3n de credenciales y las estrategias de autenticaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/azure-databricks.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n de un nuevo proyecto de .NET y trabajo con dependencias",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dotnet-dependencies/?WT.mc_id=api_CatalogApi",
+    "Description": "Cree un proyecto de .NET y aprenda a agregar paquetes y administrar las dependencias de paquetes en el proyecto. Use la CLI de .NET Core y el registro nuGet para agregar bibliotecas y herramientas a las aplicaciones de C# a trav\u00e9s de Visual Studio Code.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/dotnet-dependencies.svg"
+  },
+  {
+    "Title": "Mejora de la productividad del vendedor de SAP con Microsoft Teams y Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/improve-sap-seller-productivity-microsoft-teams-power-platform/?WT.mc_id=api_CatalogApi",
+    "Description": "Integre aplicaciones de SAP con las aplicaciones Microsoft 365. Habilite la productividad y la colaboraci\u00f3n en la aplicaci\u00f3n \u00abSAP Sales and Service Core\u00bb de Teams para admitir las ventas mediante la creaci\u00f3n de flujos de Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/improve-sap-seller-productivity-microsoft-teams-power-platform.svg"
+  },
+  {
+    "Title": "Planear la implementaci\u00f3n de actualizaciones para clientes de Windows y aplicaciones de Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/plan-windows/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, aprender\u00e1 a planear las actualizaciones de los clientes y las aplicaciones de toda la organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/plan-windows.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de Azure Automation con DevOps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-azure-automation-devops/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a implementar Azure Automation con DevOps mediante runbooks, webhooks y flujos de trabajo de PowerShell. Comprenda las cuentas de automatizaci\u00f3n, los recursos compartidos, la integraci\u00f3n del control de c\u00f3digo fuente y la administraci\u00f3n h\u00edbrida para las operaciones automatizadas en la nube.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/4-explore-azure-automation-with-devops.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de la superposici\u00f3n cu\u00e1ntica con Q#",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-superposition/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre el concepto de superposici\u00f3n en la computaci\u00f3n cu\u00e1ntica, c\u00f3mo representar estados de superposici\u00f3n para un solo c\u00fabit con la esfera Bloch y c\u00f3mo crear y analizar estados de superposici\u00f3n con Q#.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/quantum/explore-superposition.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de versiones de valor controlado e inicio oscuro",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-canary-releases-dark-launching/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las estrategias de versiones de valor controlado, la configuraci\u00f3n de Azure Traffic Manager y las t\u00e9cnicas de inicio oscuro para implementaciones de entrega progresiva y control de riesgos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/6-implement-canary-releases-and-dark-launching.svg"
+  },
+  {
+    "Title": "Acceso seguro para la identidad del agente de Microsoft Entra",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/secure-access-entra-agent-identity/?WT.mc_id=api_CatalogApi",
+    "Description": "Proteja las identidades de los agentes de IA aplicando directivas de acceso condicional a trav\u00e9s de la identidad de Agente de Microsoft Entra. Asigne los flujos de autenticaci\u00f3n, configure pol\u00edticas de CA espec\u00edficas para los agentes y controle el acceso de los agentes y los eventos del ciclo de vida para reducir los riesgos relacionados con la identidad.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Protecci\u00f3n de aplicaciones de inteligencia artificial empresariales y basadas en explorador con Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/purview-ai-secure-enterprise-other/?WT.mc_id=api_CatalogApi",
+    "Description": "Protecci\u00f3n de aplicaciones de inteligencia artificial empresariales y basadas en explorador con Microsoft Purview",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de Azure Event Grid",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/azure-event-grid/?WT.mc_id=api_CatalogApi",
+    "Description": "Exploraci\u00f3n de Azure Event Grid",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/1-explore-azure-event-grid.svg"
+  },
+  {
+    "Title": "Traducci\u00f3n de texto y voz con Microsoft Foundry Tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/translate-text-speech/?WT.mc_id=api_CatalogApi",
+    "Description": "Traducci\u00f3n de texto y voz mediante Azure Translator y Azure Speech in Foundry Tools",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Base de datos SQL de Microsoft Fabric",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-sql-database-microsoft-fabric/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo funciona la Base de datos SQL de Microsoft Fabric, los conceptos clave y ejemplos pr\u00e1cticos para ayudar a que los usuarios utilicen la Base de datos SQL de forma eficaz como parte de sus soluciones de an\u00e1lisis.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/1-prepare-to-maintain-databases-on-azure.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n y administraci\u00f3n de objetos de Active Directory",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-manage-active-directory-objects/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo se centra en las tareas asociadas a la administraci\u00f3n de objetos de Active Directory y controladores de dominio de servicios de dominio de AD.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/entra-module.svg"
+  },
+  {
+    "Title": "Administraci\u00f3n de Acciones de GitHub en la empresa",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-github-actions-enterprise/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo administrar Acciones de GitHub en la empresa.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/github/manage-github-actions-enterprise.svg"
+  },
+  {
+    "Title": "Trabajo con datos en Microsoft Sentinel mediante el lenguaje de consulta Kusto",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-with-data-kusto-query-language/?WT.mc_id=api_CatalogApi",
+    "Description": "Trabajo con datos en Microsoft Sentinel mediante el lenguaje de consulta Kusto",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/work-with-data-in-kql.svg"
+  },
+  {
+    "Title": "Automatizaci\u00f3n de la implementaci\u00f3n de bases de datos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-automatic-deployment-azure-sql-database/?WT.mc_id=api_CatalogApi",
+    "Description": "Automatizaci\u00f3n de la implementaci\u00f3n de bases de datos",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/configure-automatic-deployment-for-azure-sql-database.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a GitHub Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduction-to-github-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "GitHub Copilot es un asistente de codificaci\u00f3n con tecnolog\u00eda de inteligencia artificial que le ayuda a escribir, comprender, refactorizar y mantener c\u00f3digo directamente desde el editor y la interfaz de chat.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Aplicaci\u00f3n de conceptos de almacenamiento a contenedores de Windows que se ejecutan en Azure Kubernetes Service (AKS) y AKS Hybrid",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/apply-storage-concepts-to-windows-containers/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre los conceptos de almacenamiento que le ayudan a resolver problemas reales con contenedores de Windows que se ejecutan en Azure Kubernetes Service (AKS) y AKS Hybrid.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Ejecuci\u00f3n de un script de entrenamiento como un trabajo de comando en Azure Machine Learning",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/run-training-script-command-job-azure-machine-learning/?WT.mc_id=api_CatalogApi",
+    "Description": "Ejecuci\u00f3n de un trabajo de comando con el SDK de Python de Azure Machine Learning v2.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/run-training-script-command-job-azure-machine-learning.svg"
+  },
+  {
+    "Title": "Proyecto guiado: adoptar la IA responsable",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/embrace-responsible-ai/?WT.mc_id=api_CatalogApi",
+    "Description": "Vaya m\u00e1s all\u00e1 de la teor\u00eda y aprenda a implementar el marco de inteligencia artificial responsable en un entorno de aprendizaje. Obtenga informaci\u00f3n sobre ejemplos reales y ejercicios interactivos. Este m\u00f3dulo est\u00e1 dise\u00f1ado para ayudar a integrar sistemas de inteligencia artificial en varios entornos de trabajo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/embrace-responsible-ai.svg"
+  },
+  {
+    "Title": "Uso de un trabajo de Azure Machine Learning para automatizaci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-azure-machine-learn-job-for-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "MLOps, automatizaci\u00f3n, operaciones de aprendizaje autom\u00e1tico",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/use-azure-machine-learn-job-for-automation.svg"
+  },
+  {
+    "Title": "Preparaci\u00f3n para implementar actualizaciones para Windows cliente y aplicaciones de Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/prepare-windows/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, revisar\u00e1 las tareas recomendadas y los resultados necesarios para preparar la organizaci\u00f3n para una actualizaci\u00f3n de Windows 11.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/prepare-windows.svg"
+  },
+  {
+    "Title": "Mejora de la productividad de las reuniones con Copilot en Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-meeting-productivity/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo Copilot en Microsoft Teams transforma las reuniones en res\u00famenes interactivos y buscables que ayudan a los equipos a mantenerse informados y alineados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/copilot-meeting-productivity.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de la recuperaci\u00f3n ante desastres para cargas de trabajo de SAP en Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-disaster-recovery-for-sap-workloads-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se explora la compatibilidad con la recuperaci\u00f3n ante desastres de Azure para cargas de trabajo de SAP, incluidas las implementaciones dentro de una y varias regiones de Azure, la implementaci\u00f3n de aplicaciones SAP NetWeaver de varios niveles en Azure y los servicios de Azure, como Active Directory y DNS. Prep\u00e1rese para el examen AZ-120: Planning and Administering Microsoft Azure for SAP Workloads.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/2-implement-disaster-recovery-for-sap-workloads-in-azure.svg"
+  },
+  {
+    "Title": "Dise\u00f1o de la estrategia general de inteligencia artificial para soluciones empresariales",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/design-overall-ai-strategy-business-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a dise\u00f1ar una estrategia de inteligencia artificial empresarial mediante la Cloud Adoption Framework de Azure. Alinee el ciclo de vida del agente de IA con los objetivos empresariales para la excelencia operativa.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Adopci\u00f3n de FinOps en Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/adopt-finops-on-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a implementar FinOps en Azure.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Organizar un lakehouse de Fabric mediante un dise\u00f1o de arquitectura de medall\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-medallion-architecture/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore el potencial del dise\u00f1o de arquitectura de medall\u00f3n en Microsoft Fabric. Organiza y transforma tus datos en las capas Bronze, Silver y Gold de un lakehouse para optimizar el an\u00e1lisis.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Comprender el impacto empresarial de Copilot+ PCs",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/business-impact-copilot-pc/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo Copilot+ PC son compatibles con organizaciones modernas con inteligencia artificial integrada, servicios conectados a la nube y las funcionalidades de Windows 11 Pro. Explore c\u00f3mo los flujos de trabajo con tecnolog\u00eda de inteligencia artificial, la seguridad, la gobernanza y las caracter\u00edsticas de productividad ayudan a las empresas a mejorar la flexibilidad, la colaboraci\u00f3n y la eficacia operativa.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/business-impact-copilot-pc.svg"
+  },
+  {
+    "Title": "Enfoque del diagrama de flujo de datos con el foco del modelo de amenazas adecuado",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/?WT.mc_id=api_CatalogApi",
+    "Description": "El modelado de amenazas es una t\u00e9cnica eficaz para ayudarle a identificar amenazas y maneras de reducir o eliminar riesgos. Comenzamos por centrarnos en lo que hay que proteger o de qui\u00e9n necesita protecci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de la administraci\u00f3n de recursos de Microsoft Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-microsoft-azure-resources-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Realice tareas b\u00e1sicas de administraci\u00f3n de recursos para los recursos de Azure, incluidos los procesos, el almacenamiento y las redes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de la infraestructura como administraci\u00f3n de c\u00f3digo y configuraci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-infrastructure-code-configuration-management/?WT.mc_id=api_CatalogApi",
+    "Description": "M\u00e1s informaci\u00f3n sobre los conceptos b\u00e1sicos de infraestructura como c\u00f3digo (IaC), las estrategias de implementaci\u00f3n del entorno, los enfoques de administraci\u00f3n de configuraci\u00f3n y los principios de configuraci\u00f3n idempotentes para las operaciones automatizadas de infraestructura.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/1-explore-infrastructure-as-code-and-configuration-management.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Azure Cloud Shell",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/intro-to-azure-cloud-shell/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, aprender\u00e1 qu\u00e9 hace Azure Cloud Shell, c\u00f3mo funciona y cu\u00e1ndo debe elegir usar Azure Cloud Shell como soluci\u00f3n para satisfacer las necesidades de su organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/introduction-to-azure-cloud-shell.svg"
+  },
+  {
+    "Title": "Uso de Slurm para HPC en Azure CycleCloud",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-slurm-hpc-azure-cyclecloud/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar el programador de trabajos de Slurm con Azure CycleCloud.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de las soluciones de cumplimiento de datos de Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-purview-risk-compliance-governance/?WT.mc_id=api_CatalogApi",
+    "Description": "Descripci\u00f3n de las soluciones de cumplimiento de datos de Microsoft Purview.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Optimizaci\u00f3n del rendimiento de las consultas para Azure Cosmos DB para NoSQL",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/optimize-query-performance-azure-cosmos-db/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a optimizar el rendimiento de las consultas y a reducir los costos de las cargas de trabajo de Azure Cosmos DB para noSQL mediante la configuraci\u00f3n de \u00edndices y la selecci\u00f3n de niveles de coherencia.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Supervisi\u00f3n de la protecci\u00f3n de cargas de trabajo en Azure Backup",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/monitor-protection-of-workloads-in-azure-backup/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a supervisar las cargas de trabajo protegidas con Azure Backup mediante Azure Monitor.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/accelerate-migration-journey.svg"
+  },
+  {
+    "Title": "Descubra t\u00e9rminos y significados comunes para SAP en Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/discover-common-terms-meanings/?WT.mc_id=api_CatalogApi",
+    "Description": "Se le presentan algunos de los t\u00e9rminos comunes que se usar\u00e1n para trabajar con cargas de trabajo de SAP en Azure. Prep\u00e1rese para el examen AZ-120: Planning and Administering Microsoft Azure for SAP Workloads.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/2-discover-common-terms-and-meanings.svg"
+  },
+  {
+    "Title": "Evaluaci\u00f3n de los costos y ventajas de las soluciones de inteligencia artificial",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/evaluate-costs-benefits-ai-powered-business-solution/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a evaluar los costos y las ventajas de las soluciones de inteligencia artificial. Desarrolle an\u00e1lisis de ROI, eval\u00fae el TCO y decida crear, comprar o ampliar componentes de inteligencia artificial.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Serie Arquitecto de soluciones: explorar Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/architect-power-virtual-agents/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar Microsoft Copilot Studio en las soluciones.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/architect-power-virtual-agents.svg"
+  },
+  {
+    "Title": "Comenzar con la clasificaci\u00f3n de categor\u00edas de AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ai-builder-category-classification/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo utilizar la clasificaci\u00f3n de categor\u00edas de AI Builder para etiquetar texto con etiquetas de categor\u00edas, como correos electr\u00f3nicos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/ai-builder-category-classification.svg"
+  },
+  {
+    "Title": "Creaci\u00f3n de agentes inteligentes en Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-studio-knowledge/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo crear agentes inteligentes mediante la adici\u00f3n de or\u00edgenes de conocimiento para proporcionar respuestas contextuales y relevantes en Microsoft Copilot Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/copilot-module.svg"
+  },
+  {
+    "Title": "Crear el primer flujo de escritorio - Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-first-desktop-flow-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Siga los pasos para crear su primer flujo de escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/create-first-desktop-flow-online-workshop.svg"
+  },
+  {
+    "Title": "Descubrir y utilizar las API web con Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/discover-web-apis-power-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "Desarrolle un conector personalizado con un documento de OpenAPI o Azure API Management para enviar datos a API web y recibirlos de estas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/discover-web-apis-power-apps.svg"
+  },
+  {
+    "Title": "Delegaci\u00f3n de tareas de agente mediante agentes secundarios en Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/delegate-agent-tasks-child-agents-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprende a estructurar agentes complejos de Copilot Studio usando agentes infantiles. Cree subagentes enfocados, configure c\u00f3mo reciben tareas y devuelven resultados, y controle cu\u00e1ndo se invocan para desarrollar soluciones de agentes organizadas y escalables.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Inform\u00e1tica confidencial de Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sovereignty-confidential-computing/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre la computaci\u00f3n confidencial de Azure.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Conceptos de Microsoft Sustainability Manager",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-cloud-sustainability/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore las caracter\u00edsticas de Microsoft Sustainability Manager, lo que permite una grabaci\u00f3n, generaci\u00f3n de informes y reducci\u00f3n eficientes de las emisiones y el impacto en los residuos en Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/work-cloud-sustainability.svg"
+  },
+  {
+    "Title": "Procesar documentos personalizados con AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-with-form-processing/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore los aspectos b\u00e1sicos del procesamiento de documentos de AI Builder, las ventajas que aporta para su organizaci\u00f3n y su integraci\u00f3n con Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-with-form-processing.svg"
+  },
+  {
+    "Title": "Crear un flujo de Microsoft Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-microsoft-power-automate-flow/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, vemos c\u00f3mo afrontar el reto de automatizar eficazmente los flujos de trabajo y c\u00f3mo se puede usar Microsoft Power Automate para ello. Exploramos el proceso de creaci\u00f3n de flujos de nube, lo que incluye c\u00f3mo iniciarlos con desencadenadores. Tambi\u00e9n hablamos sobre c\u00f3mo usar herramientas con tecnolog\u00eda de IA, como Copilot, para la creaci\u00f3n de flujos y la resoluci\u00f3n de problemas, y vemos c\u00f3mo garantizar la fiabilidad mediante pruebas y monitorizaci\u00f3n. Adem\u00e1s, vemos la colaboraci\u00f3n a trav\u00e9s del uso compartido de flujos y hablamos de caracter\u00edsticas avanzadas, como \\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Dise\u00f1o de conversaciones del agente mediante temas",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-studio-topics/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se presentan temas, una conversaci\u00f3n entre un usuario y un agente y c\u00f3mo crearlos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/copilot-studio-topics.svg"
+  },
+  {
+    "Title": "Ingerir datos DICOM en soluciones de datos para la asistencia sanitaria en Microsoft Fabric",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-dicom-ingestion/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre la funcionalidad de transformaci\u00f3n DICOM en soluciones de datos sanitarios en Microsoft Fabric.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/healthcare-dicom-ingestion.svg"
+  },
+  {
+    "Title": "Dise\u00f1o de soluciones multiagente en Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/design-multi-agent-solutions-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a planear y dise\u00f1ar soluciones multiagente en Microsoft Copilot Studio. Eval\u00fae cu\u00e1ndo los enfoques multiagente son adecuados, dise\u00f1e soluciones mediante agentes secundarios o agentes conectados y seleccione la opci\u00f3n de conexi\u00f3n adecuada y el patr\u00f3n de coordinaci\u00f3n para su escenario.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Conectarse a otros datos en la aplicaci\u00f3n de lienzo de Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/connect-to-other-data-in-powerapps-canvas-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a conectarse con otros datos en una aplicaci\u00f3n de lienzo de Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/connect-other-data.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Power Apps Component Framework",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-power-apps-component-framework/?WT.mc_id=api_CatalogApi",
+    "Description": "Explorar Microsoft Power Apps Component Framework y su arquitectura, junto con t\u00e9cnicas de herramientas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-power-apps-component-framework.svg"
+  },
+  {
+    "Title": "Describir la administraci\u00f3n y gobernanza en Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-microsoft-power-platform-administration-governance/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, abordamos la creaci\u00f3n de soluciones seguras, eficientes y conformes mediante Microsoft Power Platform. Vemos que caracter\u00edsticas como un modelo de seguridad s\u00f3lido, los entornos estructurados y la administraci\u00f3n centralizada ayudan a los usuarios a crear soluciones innovadoras. Los recursos de cumplimiento y los procedimientos de administraci\u00f3n del ciclo de vida de las aplicaciones (ALM) tambi\u00e9n respaldan el control y la gobernanza durante todo el proceso. PL-900",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Serie Arquitecto de soluciones: planifique la administraci\u00f3n del ciclo de vida de las aplicaciones para Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/application-lifecycle-management-architect/?WT.mc_id=api_CatalogApi",
+    "Description": "Los arquitectos de soluciones para Microsoft Power Platform necesitan definir la estrategia del entorno y la administraci\u00f3n del ciclo de vida de las aplicaciones (ALM) para transportar el trabajo desde el desarrollo hasta la prueba y la producci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/application-lifecycle-management-architect.svg"
+  },
+  {
+    "Title": "Automatizaci\u00f3n de Excel en Power Automate para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-excel-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar Power Automate para escritorio con el fin de abrir, leer y gestionar archivos de Excel con diversas acciones de Microsoft Excel.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-excel-automation.svg"
+  },
+  {
+    "Title": "Configurar un modelo sem\u00e1ntico",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-semantic-model-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "Los modelos sem\u00e1nticos organizan los datos complejos en una estructura intuitiva, lo que mejora la visualizaci\u00f3n de los datos y permite generar informes eficientes y detallados, a fin de tomar mejores decisiones. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Describir el valor empresarial de los servicios de Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-business-value-microsoft-power-platform-services/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo se centra en los desaf\u00edos a los que se enfrentan las organizaciones para crear soluciones eficientes, automatizar los flujos de trabajo y analizar datos, y en c\u00f3mo aborda Microsoft Power Platform estas necesidades con su conjunto de herramientas con poco c\u00f3digo. Hemos visto las partes principales de la plataforma, como Power Apps, para la creaci\u00f3n de aplicaciones personalizadas, Power Automate, para la automatizaci\u00f3n de flujos de trabajo, Power BI, para el an\u00e1lisis y la visualizaci\u00f3n de datos y Power Pages, para la creaci\u00f3n de sitios web. Tambi\u00e9n ha obtenido informaci\u00f3n sobre herramientas de soporte, como Dataverse, para administrar datos, Power Fx, para escribir f\u00f3rmulas y Copilot, para recibir asistencia basada en IA. PL-900",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Integrar con Microsoft Teams para obtener aprobaciones - Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/integrate-teams-approval-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore la automatizaci\u00f3n en el procesamiento de facturas con integraci\u00f3n de Teams, mecanismos de aprobaci\u00f3n humana y notificaciones basadas en Outlook.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/integrate-teams-approval-online-workshop.svg"
+  },
+  {
+    "Title": "Exporte datos desde Dataverse y use Microsoft Excel para editar registros.",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/export-dataverse-excel/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a exportar y editar datos de tablas de Microsoft Dataverse usando archivos de Excel y descubra los conceptos de seguridad.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/export-dataverse-excel.svg"
+  },
+  {
+    "Title": "Obtenga consejos y trucos para impartir el curso PL-100: Creador de aplicaciones de Microsoft Power Platform.",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga consejos y trucos sobre c\u00f3mo prepararse para su primera sesi\u00f3n de formaci\u00f3n, qu\u00e9 laboratorios usar o cu\u00e1ndo y c\u00f3mo introducir temas t\u00e9cnicos; tambi\u00e9n tendr\u00e1 acceso a otros recursos y materiales.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.svg"
+  },
+  {
+    "Title": "Utilizar variables de entrada y salida - Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-input-output-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar variables de entrada y salida para la entrada autom\u00e1tica de facturas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/use-input-output-online-workshop.svg"
+  },
+  {
+    "Title": "Configurar un agente de Microsoft Copilot Studio para que use la voz",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pva-voice/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, hablaremos sobre c\u00f3mo configurar un agente de Microsoft Copilot Studio para que use la voz.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/pva-voice.svg"
+  },
+  {
+    "Title": "Fundamentar agentes con conocimientos empresariales usando conectores y Azure AI Search en Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ground-agents-enterprise-knowledge-connectors-azure-ai-search-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a basar las respuestas del agente de Copilot Studio en el conocimiento empresarial conect\u00e1ndose a conectores de Copilot, conectores de Power Platform como fuentes de conocimiento en tiempo real e \u00edndices de vectores de Azure AI Search. Distinguir los enfoques de conocimiento basados en \u00edndice y en tiempo real y configurar la autenticaci\u00f3n para publicar agentes basados en el conocimiento.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Describa la experiencia del supervisor de Dynamics 365 Contact Center",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-dynamics-365-contact-center-supervisor-experience/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo Dynamics 365 Contact Center capacita a los supervisores con supervisi\u00f3n, an\u00e1lisis y previsi\u00f3n en tiempo real para optimizar las operaciones y la calidad del servicio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Obtenga consejos y trucos para impartir el curso PL-200: Consultor funcional de Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga consejos y trucos sobre c\u00f3mo prepararse para su primera sesi\u00f3n de formaci\u00f3n, qu\u00e9 laboratorios usar o cu\u00e1ndo y c\u00f3mo introducir temas t\u00e9cnicos; tambi\u00e9n tendr\u00e1 acceso a otros recursos y materiales.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-tips-tricks-teaching-microsoft-power-platform-functional-consultant.svg"
+  },
+  {
+    "Title": "Correo electr\u00f3nico con Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/email-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "Automatice las acciones de correo electr\u00f3nico en Power Automate con SharePoint como origen de datos, lo que incluye el env\u00edo de correos electr\u00f3nicos, la captura de metadatos y el almacenamiento de contenido de correo electr\u00f3nico en SharePoint.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/email-power-automate.svg"
+  },
+  {
+    "Title": "Administrar modelos sem\u00e1nticos en Power BI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-datasets-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "Los modelos sem\u00e1nticos son la base para el desarrollo de informes en Power BI. La administraci\u00f3n eficiente garantiza la conectividad de los datos y mejora el rendimiento y la precisi\u00f3n de los informes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-datasets-in-power-bi.svg"
+  },
+  {
+    "Title": "Configuraci\u00f3n del espacio de trabajo de Power Pages: Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-pages-workspace-setup-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "M\u00e1s informaci\u00f3n sobre la configuraci\u00f3n del espacio de trabajo en Power Pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/power-pages-workspace-setup-online-workshop.svg"
+  },
+  {
+    "Title": "Reconocer texto con AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-with-ai-builder-text-recognition/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre el reconocimiento de texto de AI Builder y c\u00f3mo usarlo con otros productos de Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/get-started-with-text-recognition.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la aplicaci\u00f3n Power Automate Process Mining para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/process-mining-desktop-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a empezar a utilizar la aplicaci\u00f3n de escritorio Power Automate Process Mining.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/process-mining-desktop-app.svg"
+  },
+  {
+    "Title": "Integre una aplicaci\u00f3n de Power Apps con Power Automate - Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/integrate-power-apps-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Siga los pasos para integrar una aplicaci\u00f3n de Power Apps en Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/integrate-power-apps-online-workshop.svg"
+  },
+  {
+    "Title": "Implementar y perfeccionar su aplicaci\u00f3n como un profesional",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/deploy-refine-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a implementar su aplicaci\u00f3n desde Power Apps y luego use los comentarios para refinarla.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/deploy-refine-app.svg"
+  },
+  {
+    "Title": "Componentes de datos en el espacio de trabajo de Power Pages: Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-pages-workspace-data-components-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a configurar su sitio seg\u00fan el caso de uso de Contoso Coffee, lo que incluye la creaci\u00f3n de p\u00e1ginas web y listas y la modificaci\u00f3n de permisos de tablas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/power-pages-workspace-data-components-online-workshop.svg"
+  },
+  {
+    "Title": "Utilizar AI Builder en Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ai-builder-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "Conozca los aspectos b\u00e1sicos del uso de AI Builder en Microsoft Power Automate y c\u00f3mo este puede beneficiar a su organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/ai-builder-power-automate.svg"
+  },
+  {
+    "Title": "Generaci\u00f3n de respuestas de agentes con tecnolog\u00eda de inteligencia artificial mediante respuestas generativas en Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/generate-ai-powered-responses-generative-answers-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo configurar respuestas basadas en inteligencia artificial en temas de agente de Microsoft Copilot Studio. En este m\u00f3dulo se trata el nodo generativo de respuestas, la conexi\u00f3n de fuentes de conocimiento personalizadas, el uso de instrucciones personalizadas para dar forma a la salida de IA, y la creaci\u00f3n de prompts personalizados con la selecci\u00f3n de modelos del cat\u00e1logo de modelos de Microsoft Foundry.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Crear flujos de Power Automate para el agente: Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-flows-chatbot-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear flujos de Power Automate para su agente de Microsoft Copilot Studio a fin de automatizar m\u00e1s la atenci\u00f3n al cliente.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/build-flows-chatbot-online-workshop.svg"
+  },
+  {
+    "Title": "Escribir datos en una aplicaci\u00f3n de lienzo de Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/write-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprender a escribir datos en una aplicaci\u00f3n de lienzo de Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/write-data.svg"
+  },
+  {
+    "Title": "Crear conectores personalizados de OpenAPI para Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/custom-connectors-open-api/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga m\u00e1s informaci\u00f3n sobre los conectores personalizados de OpenAPI para Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/custom-connectors-open-api.svg"
+  },
+  {
+    "Title": "Crear el primer agente en Microsoft Copilot Studio: Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-virtual-agents-create-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear su primer agente en Microsoft Copilot Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/power-virtual-agents-create-online-workshop.svg"
+  },
+  {
+    "Title": "Habilidades de consultor funcional",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/functional-consultant-skills/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda sobre el rol de consultor funcional y las habilidades clave necesarias para tener \u00e9xito en este rol en un proyecto de Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/functional-consultant-skills.svg"
+  },
+  {
+    "Title": "Describir las capacidades de Microsoft Power Pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-capabilities-microsoft-power-pages/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, exploramos c\u00f3mo aborda Power Pages diversos desaf\u00edos comerciales mediante la creaci\u00f3n de portales seguros y f\u00e1ciles de usar. Examinamos c\u00f3mo se integra a la perfecci\u00f3n con Microsoft Dataverse y otras herramientas de Power Platform a fin de fomentar un ecosistema conectado para el intercambio de datos y la toma de decisiones. Adem\u00e1s, analizamos c\u00f3mo faculta Power Pages a las organizaciones a fin de crear soluciones personalizadas para diversos casos de uso. Los casos de uso incluyen portales de autoservicio para clientes, sitios de colaboraci\u00f3n de partners y plataformas de empleados. PL-900",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Automatizaci\u00f3n web en Power Automate para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-web/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo trata sobre las acciones de automatizaci\u00f3n de navegadores en Power Automate para escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-web.svg"
+  },
+  {
+    "Title": "Administraci\u00f3n de cambios en el entorno en Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-environmental-changes/?WT.mc_id=api_CatalogApi",
+    "Description": "Conozca los procedimientos recomendados para comunicar los cambios en directivas de prevenci\u00f3n de p\u00e9rdida de datos (DLP).",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-environmental-changes.svg"
+  }
+]
