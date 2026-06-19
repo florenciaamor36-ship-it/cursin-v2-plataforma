@@ -7,15 +7,13 @@ const Home = () => {
   const [allCourses, setAllCourses] = useState([]);
   const [loading, setLoading] = useState(true);
   const [visibleCount, setVisibleCount] = useState(100);
-  const [chunkIndex, setChunkIndex] = useState(1);
-  const [hasMoreChunks, setHasMoreChunks] = useState(true);
 
   const categories = ['Todo', 'Español', 'Universidad', 'Plataforma', 'País', 'Provincia', 'Idiomas', 'Carrera', 'Acelerados', 'Certificado', 'IA', 'Programación', 'Marketing'];
 
   const fetchChunk = async (index) => {
     try {
-      const response = await fetch(`data/data_chunk_${index}.json`);
-      if (!response.ok) { return; }
+      const response = await fetch(`data/data_v6_${index}.json`);
+      if (!response.ok) return;
       const data = await response.json();
       setAllCourses(prev => {
         const newOnes = data.filter(newItem => !prev.some(oldItem => (oldItem.Link || oldItem.link) === (newItem.Link || newItem.link)));
@@ -26,10 +24,10 @@ const Home = () => {
 
   useEffect(() => {
     const init = async () => {
-      // Cargamos los primeros 15 chunks secuencialmente para asegurar volumen de datos inicial
-      const chunks = Array.from({ length: 15 }, (_, i) => i + 1);
-      for (const i of chunks) {
+      // Cargamos los 30 chunks de forma secuencial pero eficiente
+      for (let i = 1; i <= 30; i++) {
         await fetchChunk(i);
+        if (i === 5) setLoading(false); // Mostramos los primeros resultados rápido
       }
       setLoading(false);
     };
@@ -51,10 +49,6 @@ const Home = () => {
 
   const displayedCourses = filteredCourses.slice(0, visibleCount);
 
-  const handleLoadMore = () => {
-    setVisibleCount(prev => prev + 100);
-  };
-
   if (loading && allCourses.length === 0) return (
     <div className="min-h-screen bg-black flex items-center justify-center">
       <div className="text-yellow-600 font-mono text-xs uppercase animate-pulse text-center tracking-[0.5em]">Sincronizando 27,000 Archivos Globales...</div>
@@ -65,7 +59,7 @@ const Home = () => {
     <div className="min-h-screen bg-black text-white font-sans selection:bg-yellow-600 selection:text-black overflow-x-hidden">
       <div className="container mx-auto px-6 pt-12 pb-12 md:pt-24 md:pb-24 text-left border-b border-white/5">
         <div className="inline-flex items-center gap-4 mb-8">
-          <div className="bg-yellow-600 text-black px-3 py-1 text-[10px] font-black tracking-widest uppercase tracking-tighter">LCA Massive Protocol v6.0</div>
+          <div className="bg-yellow-600 text-black px-3 py-1 text-[10px] font-black tracking-widest uppercase">LCA Massive Protocol v6.1</div>
           <div className="text-zinc-600 font-mono text-[8px] uppercase tracking-[0.5em] animate-pulse">Database: 27,000+ Courses</div>
         </div>
         <h1 className="text-6xl md:text-9xl font-black tracking-tighter leading-none mb-10 text-white uppercase break-all md:break-normal">CURSIN<span className="text-yellow-600">.</span>PRO</h1>
@@ -91,7 +85,7 @@ const Home = () => {
         <Courses coursesData={displayedCourses} />
         {visibleCount < filteredCourses.length && (
           <div className="flex justify-center mt-24">
-            <button onClick={handleLoadMore} className="px-12 py-5 border border-yellow-600 text-yellow-600 font-black uppercase tracking-widest hover:bg-yellow-600 hover:text-black transition-all text-xs"> 
+            <button onClick={() => setVisibleCount(prev => prev + 200)} className="px-12 py-5 border border-yellow-600 text-yellow-600 font-black uppercase tracking-widest hover:bg-yellow-600 hover:text-black transition-all text-xs"> 
               Cargar más resultados
             </button>
           </div>
