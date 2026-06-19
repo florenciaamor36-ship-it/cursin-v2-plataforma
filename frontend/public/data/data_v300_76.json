@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Set up an additional reporting currency in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/additional-reporting-currency-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to analyze your business in another currency? If so, complete this module and find out how you can set up another reporting currency to display general ledger results in a currency other than the local one.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/additional-reporting-currency-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Describe reporting and integration capabilities in Dynamics 365 finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-report-integration/?WT.mc_id=api_CatalogApi",
+    "Description": "Understand reporting and integration features for finance and operations apps with Power BI, Microsoft 365, and business events to enhance data analysis",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Describe expense tracking, asset control, and budgeting processes in Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-expense-management-fixed-asset-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore expense reporting, fixed asset management, budgeting, and project financials in Dynamics 365 Finance to enhance financial operations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Set up main assets and asset components in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-main-assets-components/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to find out how to group several fixed assets? This module shows you how to set up main assets and assign other fixed assets as components.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-main-assets-components.svg"
+  },
+  {
+    "Title": "Work with XMLports in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-with-xmlports/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to define and use XMLports in AL, understand different nodes and properties, and apply them in AL code.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-with-xmlports.svg"
+  },
+  {
+    "Title": "Work with entitlements and permission sets in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-entitlements-permission-sets/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about entitlements and permission sets and how to extend them in Microsoft Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-entitlements-permission-sets.svg"
+  },
+  {
+    "Title": "Set up project posting groups in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-job-posting-groups/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to set up mapping between projects and the chart of accounts? This module demonstrates how to set up project posting groups with G/L accounts for WIP, project costs, and more.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-job-posting-groups.svg"
+  },
+  {
+    "Title": "Configure chat and digital channels in Dynamics 365 Contact Center",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/configure-chat-digital-channels-contact-center/?WT.mc_id=api_CatalogApi",
+    "Description": "Meet your customers where they are. Learn to configure WhatsApp, SMS, live chat, and custom channels in Dynamics 365 Contact Center \u2014 all routing into a single unified workspace.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-chat-digital-channels-contact-center.svg"
+  },
+  {
+    "Title": "Add reports to Tell Me and substitute a report in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/add-reports-tell-me/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to learn how to add reports to Tell Me and substitute a report in Microsoft Dynamics 365 Business Central? In this module, you'll learn how to add reports to Tell Me and how to substitute a report.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/add-reports-tell-me.svg"
+  },
+  {
+    "Title": "Warehouse management mobile device configuration using Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/warehouse-mobile-configuration-supply-chain-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to configure warehouse management for mobile devices using Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/warehouse-mobile-configuration-supply-chain-management.svg"
+  },
+  {
+    "Title": "Get started with invoicing in Dynamics 365 Project Operations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-invoicing-project-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Dynamics 365 Project Operations for resource/non-stocked based scenarios offers comprehensive capabilities that are tailored to fit the needs of project managers and Accounts receivable clerk/project accountants.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-invoicing-project-operations.svg"
+  },
+  {
+    "Title": "Use branching and merging with Git for Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-branch-merge-git/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to work with different branches in Git to separate your development code from the code in production? In this module we'll discuss how you can work with branches in Git and merge your modifications.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-branch-merge-git.svg"
+  },
+  {
+    "Title": "Cutover strategy for Dynamics 365 solutions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/cutover-strategy-dynamics-365/?WT.mc_id=api_CatalogApi",
+    "Description": "This module will help ensure that a good approach is in place for the planning, incremental readiness, testing, and implementation of the cutover.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/cutover-strategy-dynamics-365.svg"
+  },
+  {
+    "Title": "Create custom procedures in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-custom-functions/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to create custom procedures in AL? This module focuses on explaining how you can create new procedures. Additionally, it describes the difference between local and global procedures, the difference between local and global variables, and how you can pass variables to a procedure.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-custom-functions.svg"
+  },
+  {
+    "Title": "Create cost accounting reports in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/cost-accounting-reports-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to know how to create cost accounting reports? If so, then follow this module to get an overview of the cost accounting reporting options in Dynamics 365 Business Central. This module starts with explaining cost budgets and then demonstrates how to create cost accounting account schedules.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/cost-accounting-reports-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Time entries and modern approvals infrastructure in Dynamics 365 Project Operations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/time-entries-modern-approvals/?WT.mc_id=api_CatalogApi",
+    "Description": "This module describes how to create, edit, import, and recall time entries, and it explores the various customizations that you can apply.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/time-entries-modern-approvals.svg"
+  },
+  {
+    "Title": "Configure knowledge management in Dynamics 365 Customer Service and Contact Center",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/creating-and-designing-knowledge-management-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to configure knowledge management in Dynamics 365 Customer Service and Contact Center. Set up knowledge tables and settings, author and publish articles with AI assistance, configure internal search, and connect external knowledge sources.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-and-design-knowledge-management-solutions.svg"
+  },
+  {
+    "Title": "Set up Service order dispatching in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-service-order-dispatching/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up service order dispatching in Dynamics 365 Supply Chain Management",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Get started with Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "Dynamics 365 Supply Chain Management empowers employees and organizations with the ability to obtain a unified view of inventory, warehouse, manufacturing, service, and logistics with predictive analytics.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-supply-chain-management-in-dynamics-365-finance-ops.svg"
+  },
+  {
+    "Title": "Identify functional table types and characteristics in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/identify-table-types/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to learn about table types in Business Central? In this module, you'll learn about the different functional table types and their specific characteristics, such as special fields, properties, and linked pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/identify-table-types.svg"
+  },
+  {
+    "Title": "Load/export data and create data views in Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/load-export-data-create-data-views/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to view, load, and export data in Dataverse tables.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/load-export-data-create-data-views.svg"
+  },
+  {
+    "Title": "Describe expense management, fixed asset management, and budgeting in Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-expense-management-fixed-asset-management/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you explore cash and bank management. You discover the core functionality of expense management and learn how to manage fixed assets. And finally, you review the budgeting capabilities of Finance.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dynamics-expense-management-budgeting.svg"
+  },
+  {
+    "Title": "Administer and configure Dynamics 365 Sales Professional",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/administer-configure-d365-sales-professional/?WT.mc_id=api_CatalogApi",
+    "Description": "Connect with SharePoint, import data, manage users, and work with other activities in Dynamics 365 Sales Professional.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/administer-configure-d365-sales-professional.svg"
+  },
+  {
+    "Title": "Set up general journal templates in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/general-journal-templates-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "With general journals, users can enter data in general ledger accounts and other accounts, such as customer, vendor, and bank accounts. This module will focus on how to set up general journal templates and batches.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/general-journal-templates-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Work with maintenance budgets in Asset Management for Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/maintenance-budget-asset-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Maintenance budgets provide a place for organizations to forecast expected costs for preventive maintenance on assets.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/maintenance-budget-asset-management.svg"
+  },
+  {
+    "Title": "Configure bookable resources in Dynamics 365 Field Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/configure-bookable-resources-urs-dynamics-field-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to configure Field Service resources.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/defining-bookable-resources-in-microsoft-dynamics-365-for-field-service.svg"
+  },
+  {
+    "Title": "Configure AI agents and Copilot in Dynamics 365 Contact Center",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/ai-copilot-contact-center/?WT.mc_id=api_CatalogApi",
+    "Description": "Transform your contact center with AI. Configure the Customer Assist, Quality Assurance, and Service Operations agents \u2014 then arm every service representative with Copilot features that surface the right answer at the right moment.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Work with accounts payable invoice matching in Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-invoice-matching-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to work with accounts payable invoice matching in Dynamics 365 Finance.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/work-invoice-matching-finance.svg"
+  },
+  {
+    "Title": "Manage outbound serial and lot numbers in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-outbound-serial-lot-numbers/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to assign serial or lot numbers to items on outbound orders like sales orders? This module discusses how you can select serial numbers and lot numbers on outbound orders.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-outbound-serial-lot-numbers.svg"
+  },
+  {
+    "Title": "Set up email in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-email/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up accounts, compose and send email messages, attach documents, assign scenarios, send sales documents, and check the outbox and sent emails in Microsoft Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-email.svg"
+  },
+  {
+    "Title": "Work with capacity planning in Asset Management for Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/capacity-plan-asset-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Capacity planning helps your organization estimate the capacity of your asset load. This is important because it helps you plan for maintenance, identify work orders assigned to your assets, whether scheduled or unscheduled. This module reviews how to calculate capacity loads for your assets as well as forecasting item consumption for your assets over a period of time.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/capacity-plan-asset-mgmt-dyn365-supply-chain-mgmt.svg"
+  },
+  {
+    "Title": "Using IoT Central with Connected Field Service for Dynamics 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/using-iot-central-with-connected-field-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the integration of IoT Central with Dynamics 365 Field Service using Connected Field Service add-on in this module.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/using-iot-central-with-connected-field-service.svg"
+  },
+  {
+    "Title": "Set up basic warehouse tasks in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-basic-warehouse-tasks/?WT.mc_id=api_CatalogApi",
+    "Description": "Other than the more advanced warehouse management systems, you can also set up basic warehousing in Microsoft Dynamics 365 Business Central. This module explains how to set up locations with bins and enable inventory put-aways and picks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-basic-warehouse-tasks.svg"
+  },
+  {
+    "Title": "Describe Dynamics 365 finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-finance-operations-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Dynamics 365 finance and operations apps to manage finances, supply chains, and optimize business processes effectively.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Work with extensions for finance and operations apps and Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/extensions-finance-operations-power-platform/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the finance and operations apps and Microsoft Dataverse capabilities, including dual-write and virtual entities.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/extensions-finance-operations-power-platform.svg"
+  },
+  {
+    "Title": "Process service in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/process-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Efficient service processing is critical for providing exceptional customer service and maximizing revenue. This module describes how to optimize your service processing workflow in Dynamics 365 Business Central, which can lead to streamlined service operations and improved customer satisfaction.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/process-service.svg"
+  },
+  {
+    "Title": "Assemble to stock in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/assemble-to-stock-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Assembly items that typically are not customizable and that companies want to keep in stock are set up with the Assemble-to-Stock assembly policy. This module explains how to create assembly orders manually and how to replenish assembly items by calculating a plan.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/assemble-to-stock-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Introduction to test automation in Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-test-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how to write test code in AL using Test Codeunits and run standard Business Central tests.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduction-test-automation.svg"
+  },
+  {
+    "Title": "Integrate finance and operations apps with Microsoft Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/integrate-azure-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Finance and operations apps are integrated with Microsoft Azure to help power many of its built-in capabilities, such as search and intelligence. This module will focus on custom cloud integrations that you can build that are unique to your own project integration needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/integrate-azure-dynamics-365-finance-operations.svg"
+  },
+  {
+    "Title": "Get started with source control in finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-source-control-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces the concepts and practices for using source control in finance and operations apps. It covers fundamental source control tasks, such as checking in and checking out code, creating branches, and managing versions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-source-control-finance-operations.svg"
+  },
+  {
+    "Title": "Set up assembly items in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-assembly-items-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to know how to set up assembly items in Business Central? This module provides information to set up assembly items. It explains how to create an assembly bill of materials and how to assign the assembly policy.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-assembly-items-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Get help and learn more about finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-help-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "This module describes how to get help and find out more about finance and operations apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-help-with-d365-f-and-o.svg"
+  },
+  {
+    "Title": "Manage multilanguage development in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-multilanguage-development/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to learn how to manage multiple languages in an AL extension? If so, this module explains how to create and use translation files.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-multilanguage-development.svg"
+  },
+  {
+    "Title": "Set up project planning lines in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-job-planning-lines/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to know how to plan resources and items for a project? If so, this module explains how to create project planning lines and how to budget a project.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-job-planning-lines.svg"
+  },
+  {
+    "Title": "Create purchase documents in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-purchase-documents-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to configure Purchases and Payables setup and create purchase documents like quotes, blanket orders, and invoices in Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-purchase-documents-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Configure the projects setup in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/configure-jobs-setup/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to set up project management in Business Central? This module explains how to configure the projects setup with the default WIP method book, and the default project posting group.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-jobs-setup.svg"
+  },
+  {
+    "Title": "Application lifecycle management for Dynamics 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/application-lifecycle-management-dynamics-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the application of Application lifecycle management (ALM) in Dynamics 365 projects, learn participation in ALM processes, and understand different environments.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/application-lifecycle-management-dynamics-365.svg"
+  },
+  {
+    "Title": "Work with the API in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-with-api/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to work with the API in Dynamics Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-with-api.svg"
+  },
+  {
+    "Title": "Receive and put away inventory items in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/receive-put-away-items/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to learn how to receive and put away items in the warehouse? This module shows how you can post the receipt and put away simultaneously with the inventory put-away document or how you can process them separately with warehouse documents.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/receive-put-away-items.svg"
+  },
+  {
+    "Title": "Set up and work in the finance and operations apps developer environment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/finance-operations-developer-environment/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use performance tools and Lifecycle Services environment monitoring tools to enhance your validation and testing experience in finance and operations apps. These tools help identify performance issues, monitor environment health, validate app functionality, and conduct stress testing. By optimizing resource usage and addressing performance bottlenecks, you can improve app reliability and enhance the overall user experience. Insights from these tools help you make data-driven decisions so that you can maintain high performance standards and ensure smooth app operation in finance and operations apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/finance-operations-developer-environment.svg"
+  },
+  {
+    "Title": "Set up maintenance requests in Asset Management for Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/setup-maintenance-asset-management/?WT.mc_id=api_CatalogApi",
+    "Description": "For your organization to use the Maintenance components of Asset Management for Dynamics 365 Supply Chain Management, you must first set up the framework. This module will show you how to configure maintenance requests and request types, lifecycle states, and establish maintenance worker responsibilities.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/setup-maintenance-asset-management.svg"
+  },
+  {
+    "Title": "Analyze list data using data analysis mode in Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/analyze-list-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to analyze list data by using data analysis mode in Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/analyze-list-data.svg"
+  },
+  {
+    "Title": "Manage your organization with Dynamics 365 Human Resources",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-organization/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use organizational hierarchies, alerts, electronic signatures, and document management. Additionally, learn how to set up email settings and time zones.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-organization.svg"
+  },
+  {
+    "Title": "Get started with B2B e-commerce in Dynamics 365 Commerce",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-business-to-business-commerce/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces the concepts, information, and processes for the e-commerce site that relates to the business-to-business processes in Dynamics 365 Commerce.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-business-to-business-commerce.svg"
+  },
+  {
+    "Title": "Work with class extensions in finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/class-extensions-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "This module provides the tools and information that you need to effectively use class extensions in finance and operations apps. It shows you how to enhance and extend the functionality of classes without altering their original source code. Additionally, the module covers key concepts, such as method wrapping and the chain of command, allowing for controlled, layered customization of system behavior.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/class-extensions-finance-operations.svg"
+  },
+  {
+    "Title": "Manage sales price lists in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sales-price-lists/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use sales price lists in Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/sales-price-lists.svg"
+  },
+  {
+    "Title": "Create and manage environments in Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-manage-environments/?WT.mc_id=api_CatalogApi",
+    "Description": "An environment is a space to store, manage, and share your organization's business data that is stored within an instance of a Dataverse database. You can set up one or many environments, depending on the needs of your organization. This module explores these environments and how you can use them with instances of Dataverse databases.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-manage-environments.svg"
+  },
+  {
+    "Title": "Set up Field Service integration with Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-field-service-integration/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about some of the basic requirements to integrate Dynamics 365 Business Central with Dynamics 365 Field Service.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/set-up-field-service-integration.svg"
+  },
+  {
+    "Title": "Production costing for discrete manufacturing in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/production-costing-discrete-manufacturing/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about production costing for discrete manufacturing in Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/production-costing-discrete-manufacturing.svg"
+  },
+  {
+    "Title": "Perform fit gap analysis",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/fit-gap-analysis/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/fit-gap-analysis.svg"
+  },
+  {
+    "Title": "Administer Dynamics 365 Business Central online",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/admin-online-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to administer your Business Central environment and tenants, from joining the Cloud Solution Provider program to configuring monitoring.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/admin-online-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Review the security model for your Dynamics 365 solutions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/fast-track-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Engage with customers to assess the effectiveness of their security strategy and provide guidance for improvement.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/fast-track-security.svg"
+  },
+  {
+    "Title": "Plan and implement legal entities in finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/plan-implement-legal-entities-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "A legal entity is an organization that is identified through registration with a legal authority. Legal entities can enter into contracts and are required to prepare statements that report on their performance. You must plan and configure your organization and create legal entities as one of the first steps of implementing finance and operations apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/plan-implement-legal-entities-in-dynamics-365-finance-ops.svg"
+  },
+  {
+    "Title": "Intercompany accounting in Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/intercompany-accounting-dyn365-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to set up and use intercompany accounting for centralized processes, posting journals between different legal entities efficiently.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/intercompany-accounting-in-dynamics-365-finance-ops.svg"
+  },
+  {
+    "Title": "Identify and configure batch attributes for process manufacturing in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/identify-configure-batch-attributes-process-manufacturing-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "This module provides information about how to configure batch attributes in Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/identify-and-configure-batch-attributes-for-process-manufacturing-in-dyn-365-for-finance-ops.svg"
+  },
+  {
+    "Title": "Configure manufacturing execution in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/configure-manufacturing-execution/?WT.mc_id=api_CatalogApi",
+    "Description": "Configuring manufacturing execution is crucial because it streamlines production processes, enhances visibility into real-time operations, improves efficiency, reduces downtime, and ensures accurate tracking of materials and work orders. This leads to better decision-making, optimized resource use, and improved product quality, ultimately driving greater overall performance in manufacturing operations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-manufacturing-execution.svg"
+  },
+  {
+    "Title": "Manage leads and scoring in Customer Insights - Journeys",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-leads-scoring/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the capabilities in Customer Insights - Journeys that can help you grow your pipeline while ensuring that qualified leads receive attention from your sales teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/manage-leads-scoring.svg"
+  },
+  {
+    "Title": "Create and define calculation or rollup columns in Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-define-calculation-rollup-fields/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to use rollup or calculation columns? This module shows you how to build calculations or rollups that are defined and triggered within the data in Dataverse, regardless of the app that accesses that data set.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-define-calculation-rollup-fields.svg"
+  },
+  {
+    "Title": "Introduction to implementing Dynamics 365 Contact Center",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/intro-implement-dynamics-365-contact-center/?WT.mc_id=api_CatalogApi",
+    "Description": "Get ready to implement Dynamics 365 Contact Center with confidence. Discover what makes this platform AI-first, how its composable architecture replaces fragmented point solutions, and how to match the right deployment model to any customer environment. Walk away knowing how to evaluate cost, navigate compliance, and make the case for a modern contact center.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/intro-implement-dynamics-365-contact-center.svg"
+  },
+  {
+    "Title": "Work with service order dispatching in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-service-order-dispatching/?WT.mc_id=api_CatalogApi",
+    "Description": "Working with service order dispatching in Dynamics 365 Supply Chain Management is crucial for efficiently managing and assigning service tasks to field technicians. It ensures timely delivery of services, optimizes resource allocation, and improves customer satisfaction by meeting service level agreements. Additionally, it enhances operational efficiency by streamlining the scheduling and tracking of service orders.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-service-order-dispatching.svg"
+  },
+  {
+    "Title": "Build extended data types and enumerations for finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-edt-enums-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Extended data types (EDTs) and base enumerations (enums) are data types that are created and managed in the development environment. Base enums represent a list of literals, while EDTs are reusable data types that have a specific definition. The Application Object Tree (AOT) in finance and operations apps contains many existing EDTs and base enums that can be extended for use in your project, or you can create new data types. This module will focus on creating new data types.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/build-edt-enums-dynamics-365-finance-operations.svg"
+  },
+  {
+    "Title": "Get started with Dynamics 365 Customer Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-dynamics-365-for-customer-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Customer service is a key aspect of any customer relationship management strategy. Microsoft Dynamics 365 Customer Service has many features that organizations can use to manage the services they provide to customers.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-dynamics-365-for-customer-service.svg"
+  },
+  {
+    "Title": "Prepare for an easy application upgrade experience in Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/easy-application-upgrade/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to learn about how to build efficient installation and upgrade procedures? There are essential techniques you should learn to build good and user-friendly applications.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/easy-application-upgrade.svg"
+  },
+  {
+    "Title": "Set up zones and bins in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/set-up-zones-bins/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to know how to set up zones and bins in Microsoft Dynamics 365 Business Central? This module explains how to set up zones with default warehouse parameters and use them to set up bins.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-zones-bins.svg"
+  },
+  {
+    "Title": "Work with Trade master data in Microsoft Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/trade-master-data-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the master data that is important when you work with Trade in Business Central. This module also provides an overview of items, customers, and vendors.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/trade-master-data-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Introduction to integrating Dynamics 365 Sales with Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/integrate-sales-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about integrating Dynamics 365 Sales with Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/integrate-sales-business-central.svg"
+  },
+  {
+    "Title": "Manage transportation management in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/configure-transportation-management-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "Efficiently manage inbound and outbound orders with vendor and routing solutions using Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-work-with-transportation-management-in-dynamics-365-finance-ops.svg"
+  },
+  {
+    "Title": "Get started with cost accounting in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/cost-accounting-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to use cost accounting in your company? This module can help you get started with cost accounting in Business Central. This module compares cost accounting with general ledger accounting, describes the typical cost accounting workflow, and explains the cost accounting setup.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/cost-accounting-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Navigate finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/navigate-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how to navigate finance and operations apps efficiently, enhance productivity with workspaces, use filters, search effectively, compare views, and switch between view/edit modes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/navigating-in-f-and-o.svg"
+  },
+  {
+    "Title": "Work with tools and best practices to integrate finance and operations apps with Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/tools-finance-operations-power-platform/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about monitoring, troubleshooting, and performance tools for finance and operations apps and dual-write function in Microsoft Dataverse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/tools-finance-operations-power-platform.svg"
+  },
+  {
+    "Title": "Create a data migration strategy for Dynamics 365 solutions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/data-migration/?WT.mc_id=api_CatalogApi",
+    "Description": "The overall goal of the Success by Design framework is to ensure a successful customer outcome for each implementation. The Data migration strategy workshop is designed to help ensure that the approach to data migration is heading for success.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/data-migration.svg"
+  },
+  {
+    "Title": "Understand the process of bringing an app to AppSource in Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/bring-app-appsource/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to know about technical and marketing AppSource validation procedures? In this module, you'll learn what is required from a technical and marketing point of view for your application to be validated for AppSource.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/bring-app-appsource.svg"
+  },
+  {
+    "Title": "Guided project - Create and manage journeys with Dynamics 365 Customer Insights",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/guided-project-create-manage-journeys-dynamics-365-customer-insights/?WT.mc_id=api_CatalogApi",
+    "Description": "This guided project will validate your skills in configuring Dynamics 365 Customer Insights - Journeys to meet the business requirements of an organization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Work with service items in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/business-central-work-service-items/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to work with service items in Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/business-central-work-service-items.svg"
+  },
+  {
+    "Title": "Debug and deploy your extension in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/debug-deploy-extension/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how to debug with Visual Studio Code and deploy your extension using RAD feature in Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/debug-deploy-extension.svg"
+  },
+  {
+    "Title": "Get started with Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-financial-management-dyn365-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how Dynamics 365 Finance empowers business users to stay in control of finances and manage funds with accurate information for financial planning and forecasting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-financial-management-in-dynamics-365-finance-ops.svg"
+  },
+  {
+    "Title": "Configure forecasts in Dynamics 365 Sales",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sales-forecasts/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to configure forecasts in Dynamics 365 Sales.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/sales-forecasts.svg"
+  },
+  {
+    "Title": "Create a relationship between tables in Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-relationship-between-cds-entities/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to create relationships between tables? This module will show how and why you can separate data into tables and how to relate between tables to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between tables in Dataverse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-relationship-between-cds-entities.svg"
+  },
+  {
+    "Title": "Manage a discrete product BOM and route for versioned products in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-discrete-bom-route-versioned-products-supply-chain-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create a new engineering product, include the BOM and routes, and handle changes to the product.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-discrete-bom-route-versioned-products-supply-chain-management.svg"
+  },
+  {
+    "Title": "Work with analytics and reporting in finance and operations apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-analytics-reporting-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Empower business users to make important decisions by using analytics and reporting in finance and operations apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-with-analytics-reporting-in-dynamics-365-finance-ops.svg"
+  },
+  {
+    "Title": "Introduction to Microsoft Power Platform and Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to use Microsoft Power Platform with Business Central? This module focuses on the business value and product capabilities of Microsoft Power Platform when you use it with Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduction-power-platform-business-central.svg"
+  },
+  {
+    "Title": "Send notifications in Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/send-notifications/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how to create, send, and enhance user interactions through notifications in this comprehensive guide in Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/send-notifications.svg"
+  },
+  {
+    "Title": "Implement cost management in Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-cost-management/?WT.mc_id=api_CatalogApi",
+    "Description": "This module equips finance professionals with the essential skills to configure, manage, and optimize cost accounting processes within an enterprise finance system, enhancing accuracy and strategic decision-making.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/implement-cost-management.svg"
+  },
+  {
+    "Title": "Manage finance and operations apps implementations by using Lifecycle Services",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-lifecycle-services-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Lifecycle Services helps you host finance and operations apps environments. It provides repeatable processes to support consistent success with each delivery. Lifecycle Services is available to customers and partners as part of their support plans.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-lcs-dynamics-365-finance-operations.svg"
+  },
+  {
+    "Title": "Work with functional locations in Asset Management for Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/work-functional-locations-assets-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Functional locations in Asset Management for Dynamics 365 Supply Chain Management provides your organization the ability to define and track where your assets are located. The benefit of functional locations not only provides traceability, but improves the reporting relationship to work orders, condition and fault assessments, and production stop registrations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-functional-locations-assets-dyn365-supply-chain-mgmt.svg"
+  },
+  {
+    "Title": "Determine the implementation approach for your Dynamics 365 project",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/determine-implementation-approach-dynamics-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the importance of adopting an implementation methodology for successful Dynamics 365 projects, including common types and approaches.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/determine-implementation-approach-dynamics-365.svg"
+  },
+  {
+    "Title": "Create sales sequences with Sales Insights",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sales-sequence/?WT.mc_id=api_CatalogApi",
+    "Description": "Salespeople engage with multiple customers every single day. They're responsible to qualify leads, nurture opportunities and to do so they need to be laser focused and act effectively in a timely manner. Sales organizations continuously invest in ongoing training and coaching so that salespeople are familiar with best practices and operate according to the business processes recommended in their organization. Sequences help sellers align to these processes by following a predefined set of consecutive actions reflecting their sales organization best practices. In this module, you learn how to create and manage sequences for your organization. The following tutorials help you get started with creating a basic sequence, connecting it to a record, modifying it, and so forth.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/sales-sequence.svg"
+  },
+  {
+    "Title": "Work with fixed asset deprecation and disposal in Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/fixed-asset-deprecation-disposal-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to manage fixed assets by tracking depreciation, disposal, and valuation for financial transparency in Dynamics 365 Finance.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/fixed-asset-deprecation-disposal-finance.svg"
+  },
+  {
+    "Title": "Enhance service representative productivity and personalization in Customer Service Hub",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/agent-productivity/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to configure historical information and communication tools to help your service representatives be more productive.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/agent-productivity.svg"
+  },
+  {
+    "Title": "Describe sales account management in Dynamics 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-sales-account-management-dynamics-365/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces you to sales account management capabilities in Dynamics 365, including Customer Insights \u2013 Data, Copilot in Sales, and the Sales Research Agent.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/describe-sales-account-management-dynamics-365.svg"
+  }
+]
