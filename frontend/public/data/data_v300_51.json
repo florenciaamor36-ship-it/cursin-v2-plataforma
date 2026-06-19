@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Introduction to Microsoft Surface Laptop for Business (8th Edition)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-surface-laptop-8th-edition/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn about the new features and capabilities of the Microsoft Surface Laptop for Business (8th Edition), how it works, and when to use it. ",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduction-surface-laptop-8th-edition-badge.svg"
+  },
+  {
+    "Title": "Manage Microsoft Defender for Cloud Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-microsoft-defender-cloud-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "This module covers Microsoft Defender for Cloud Apps, focusing on securing sensitive data, its relevance in dynamic work settings, and effective utilization for improved security posture.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/microsoft-defender-module.svg"
+  },
+  {
+    "Title": "Introduction to Microsoft Surface Laptop for Business, 13-inch (1st Edition)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-surface-laptop-13-1st-edition/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn about the Microsoft Surface Laptop for Business, 13-inch (1st Edition), its features, how it works, and when to use it.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduction-to-surface-laptop-13-1st-edition-badge.svg"
+  },
+  {
+    "Title": "Design a model deployment solution",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/design-model-deployment-solution/?WT.mc_id=api_CatalogApi",
+    "Description": "Design a model deployment solution with Azure Machine Learning Python SDK v2",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/design-model-deployment-solution.svg"
+  },
+  {
+    "Title": "Work smarter with Copilot across your Microsoft 365 apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/copilot-office-applications/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn how to use Microsoft 365 Copilot in Word, PowerPoint, Excel, Outlook, and OneNote to work smarter and more efficiently.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/copilot-office-applications-badge.svg"
+  },
+  {
+    "Title": "Implement and manage hybrid identity",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/?WT.mc_id=api_CatalogApi",
+    "Description": "Creating a hybrid-identity solution to use your on-premises active directory can be challenging. Explore how to implement a secure hybrid-identity solution.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/implement-and-manage-hybrid-identity.svg"
+  },
+  {
+    "Title": "Optimize vector search in Azure Database for PostgreSQL",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/optimize-vector-search-azure-database-postgresql/?WT.mc_id=api_CatalogApi",
+    "Description": "Tune pgvector configuration, select vector indexes, design efficient data layouts, and scale Azure Database for PostgreSQL for high-performance AI workloads.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Explore DevOps Continuous Security and Continuous Operations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-devops-continuous-security-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore two capabilities in the DevOps taxonomy, Continuous Security and Continuous Operations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-devops-continuous-security-operations.svg"
+  },
+  {
+    "Title": "Getting started with Surface Management Portal",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/getting-started-surface-management-portal/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, learn how to get started with Surface Management Portal, including prerequisites for access, required roles and permissions, and how to verify access to the portal for managing your Surface devices effectively.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/getting-started-surface-management-portal-badge.svg"
+  },
+  {
+    "Title": "Manage the semantic model development lifecycle",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-semantic-model-lifecycle/?WT.mc_id=api_CatalogApi",
+    "Description": "Manage semantic models through their full development lifecycle. Create reusable assets, version-control with Git, inspect and validate with the XMLA endpoint and SemPy, deploy through pipelines, and maintain with monitoring and impact analysis.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Search Azure Cosmos DB for NoSQL data with Azure Cognitive Search",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/search-azure-cosmos-db-sql-api-data-azure-cognitive-search/?WT.mc_id=api_CatalogApi",
+    "Description": "Index Azure Cosmos DB for NoSQL data with Azure Cognitive Search.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/azure-cosmos-db-sql-api-cognitive-search.svg"
+  },
+  {
+    "Title": "Filtering data: The WHERE clause and subqueries",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/azure-databases/postgresql/basic-sql-where-clause-subqueries/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to filter data in PostgreSQL using the WHERE clause, logical operators, pattern matching, and subqueries for advanced query control.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Understand the MySQL storage engine",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/understand-mysql-storage-engine/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about MySQL\u2019s pluggable storage engine model, and learn about common storage engines, and those supported by Azure Database for MySQL.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/understand-mysql-storage-engine.svg"
+  },
+  {
+    "Title": "Understand data security posture management in Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/purview-data-security-posture-management-understand/?WT.mc_id=api_CatalogApi",
+    "Description": "Understand data security posture management in Microsoft Purview.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Design solutions for securing server and client endpoints",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/design-solutions-securing-server-client-endpoints/?WT.mc_id=api_CatalogApi",
+    "Description": "You learn how to analyze the security requirements for different types of endpoints including servers, clients, IoT, OT, mobile, and embedded devices. These requirements take into account different platforms and operating systems and set standards for endpoint protection, hardening, and configuration.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/design-solutions-for-securing-server-and-client-endpoints.svg"
+  },
+  {
+    "Title": "Challenge Project - Design a mission-critical web application",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/azure-mission-critical/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to apply key principles in your workload to achieve a highly reliable design with health monitoring checks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Migrate Cassandra workloads to Cosmos DB",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/migrate-cassandra-workloads-cosmos-db/?WT.mc_id=api_CatalogApi",
+    "Description": "Migrate Cassandra workloads to Cosmos DB",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/migrate-cassandra-workloads-to-cosmos-db.svg"
+  },
+  {
+    "Title": "Designing Agent Architecture and SDLC Integration",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/design-agent-architecture-integration/?WT.mc_id=api_CatalogApi",
+    "Description": "Illustration showing how agentic systems use GitHub workflows such as branches, pull requests, checks, and repository rules to safely build and maintain software.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introduction to Windows 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-windows-365/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you\u2019ll explore what Windows 365 is, how it delivers cloud\u2011based Windows desktops, and how to decide if it\u2019s the right solution for your organization\u2019s workforce needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduction-windows-365.svg"
+  },
+  {
+    "Title": "Manage your cloud security posture management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-cloud-security-posture-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Manage your cloud security posture management",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-cloud-security-posture-management.svg"
+  },
+  {
+    "Title": "Develop an AI agent with Microsoft Agent Framework",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-with-semantic-kernel/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to start building agents with Microsoft Agent Framework",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Streamline nonprofit program management with Microsoft Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/streamline-nonprofit-program-management-with-microsoft-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "This module is aligned to program management and administrative task roles. Learn how AI tools such as Copilot can help to manage everyday tasks to increase efficiency, automate time-consuming tasks, and give time back to your team.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Migrate a MongoDB database to Azure Cosmos DB",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/migrate-mongodb-database-to-azure-cosmos-db/?WT.mc_id=api_CatalogApi",
+    "Description": "Online and offline migration option to Azure Cosmos DB API for MongoDB.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/migrate-mongodb-database-to-azure-cosmos-db.svg"
+  },
+  {
+    "Title": "Startup fundamentals",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/fundamentals/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the fundamentals and core business concepts of startups. Learn about factors that can lead to success and failure.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introduction to Secure DevOps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn DevSecOps principles to integrate security throughout your development lifecycle. Understand common vulnerabilities like SQL injection, implement continuous security validation in pipelines, conduct threat modeling, and use tools like GitHub CodeQL for automated security analysis.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/1-understand-security-in-the-pipeline.svg"
+  },
+  {
+    "Title": "Use the Azure Cosmos DB for NoSQL SDK",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-azure-cosmos-db-sql-api-sdk/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the Azure Cosmos DB libraries, and then download the libraries to use in a .NET, Python, or JavaScript (Node.JS) application.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/azure-cosmos-db-use.svg"
+  },
+  {
+    "Title": "Introduction to Azure Backup",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/intro-to-azure-backup/?WT.mc_id=api_CatalogApi",
+    "Description": "Evaluate whether Azure Backup is appropriate to use for your backup needs and describe how the features of Azure Backup work to provide backup solutions for your needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/intro-to-azure-backup.svg"
+  },
+  {
+    "Title": "Manage execution flow in F#",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/fsharp-conditional/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to manage execution flow in your programs by using `if...elif...else` and loop constructs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/fsharp-conditionals.svg"
+  },
+  {
+    "Title": "Optimize semantic model performance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/optimize-semantic-model-performance/?WT.mc_id=api_CatalogApi",
+    "Description": "Diagnose and fix semantic model and report performance issues. Use Performance analyzer to identify bottlenecks, optimize DAX calculations, reduce cardinality, and implement aggregations to improve query speed.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Choose the correct data type in your C# code",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/csharp-choose-data-type/?WT.mc_id=api_CatalogApi",
+    "Description": "Choose the correct data type for your code from several basic types used in C#.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/csharp-choose-data-type.svg"
+  },
+  {
+    "Title": "Integrate custom tools into your agent",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to build an agent with custom tools using the Microsoft Foundry Agent Service.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Explore and analyze data with Python",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/?WT.mc_id=api_CatalogApi",
+    "Description": "Data exploration and analysis is at the core of data science. Data scientists require skills in programming languages like Python to explore, visualize, and manipulate data.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-and-analyze-data-with-python.svg"
+  },
+  {
+    "Title": "Advanced testing with pytest",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/python-advanced-pytest/?WT.mc_id=api_CatalogApi",
+    "Description": "Take advantage of the advanced features of pytest, a popular test framework used to write and run tests in Python.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Manage repository changes by using pull requests on GitHub",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-changes-pull-requests-github/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to manage changes to your repository source by using pull requests.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/github/manage-changes-pull-requests-github.svg"
+  },
+  {
+    "Title": "Generate inventory and compliance reports",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/inventory-complinace-reports/?WT.mc_id=api_CatalogApi",
+    "Description": "This module describes how to use Microsoft Endpoint Manager and Power BI to create compliance and custom reports.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implement scale and high availability with Windows Server VM",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-scale-high-availability-windows-server-virtual-machine/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to implement scaling for virtual machine scale sets and load-balanced VMs. Also learn how to implement Azure Site Recovery.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/implement-scale-and-high-availability-with-windows-server-vm.svg"
+  },
+  {
+    "Title": "Get started with SQL Server 2025",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-to-sql-server/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about SQL Server 2025's new capabilities including AI integration, analytics improvements, developer features, and performance enhancements.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/sqlserver/introduction-to-sql-server-2025.svg"
+  },
+  {
+    "Title": "Explore performance-based database design",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-performance-based-design/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore performance-based database design",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-performance-based-design.svg"
+  },
+  {
+    "Title": "Describe monitoring tools in Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Describe monitoring tools in Azure",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/describe-monitoring-tools-azure.svg"
+  },
+  {
+    "Title": "Customize layout in .NET MAUI XAML pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/?WT.mc_id=api_CatalogApi",
+    "Description": "Create consistent user interfaces across different devices by using StackLayout and Grid.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/customize-xaml-pages-layout.svg"
+  },
+  {
+    "Title": "Upload your project by using GitHub best practices",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/upload-project-github/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to upload your existing project to GitHub.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/github/upload-project-github.svg"
+  },
+  {
+    "Title": "How Copilot+ PCs support modern business users",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/copilot-pc-business-users/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you learn how Copilot+ PCs support modern business users with on-device AI, built-in security, and capabilities that improve productivity across common work scenarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/copilot-pc-business-users.svg"
+  },
+  {
+    "Title": "Extract data with Azure Document Intelligence",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/extract-data-with-document-intelligence/?WT.mc_id=api_CatalogApi",
+    "Description": "Azure Document Intelligence uses OCR and deep learning to extract text, key-value pairs, tables, and structured data from documents. Learn how to use prebuilt models, train custom models, and build document processing solutions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/extract-data-with-document-intelligence.svg"
+  },
+  {
+    "Title": "Create a Log Analytics workspace",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-log-analytics-workspace-microsoft-defender-cloud/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to create a Log Analytics workspace within the Azure portal, enabling robust data collection and analysis for Microsoft Defender for Cloud to enhance your security posture.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-log-analytics-workspace-microsoft-defender-cloud.svg"
+  },
+  {
+    "Title": "Specify requirements for securing SaaS, PaaS, and IaaS services",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/specify-requirements-securing-saas-paas-iaas-services/?WT.mc_id=api_CatalogApi",
+    "Description": "You learn how to analyze security requirements for different cloud offerings (SaaS, PaaS, and IaaS), IoT workloads, web workloads, containers, and AI workloads.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/specify-requirements-secure-saas-paas-iaas-services.svg"
+  },
+  {
+    "Title": "Create stored procedures and user-defined functions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-stored-procedures-table-valued-functions/?WT.mc_id=api_CatalogApi",
+    "Description": "This content is a part of Create stored procedures and user-defined functions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-stored-procedures-table-functions.svg"
+  },
+  {
+    "Title": "Object detection on Edge devices with Live Video Analytics using YOLO model",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/object-detection-iot-edge-live-video-analytics/?WT.mc_id=api_CatalogApi",
+    "Description": "This module reviews a historical object detection architecture that used Live Video Analytics on IoT Edge and the archived Vision on Edge sample.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/student-evangelism/object-detection-iot-edge-live-video-analytics.svg"
+  },
+  {
+    "Title": "Design a health model for your mission-critical workload",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/design-health-model-mission-critical-workload/?WT.mc_id=api_CatalogApi",
+    "Description": "Improve your observability practices by defining a health model for mission-critical applications. A health model helps you quickly identify and troubleshoot issues that might affect the health of your mission-critical solution.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "The Microsoft and SAP partnership",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/microsoft-sap-partnership/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you learn about the key aspects of the Microsoft and SAP partnership, including cloud migration, AI integration, Copilot for Microsoft Viva Learning, and SAP SuccessFactors.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Manage AD DS domain controllers and FSMO roles",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-active-directory-domain-services-flexible-single-master-operation-roles/?WT.mc_id=api_CatalogApi",
+    "Description": "Manage AD DS domain controllers and FSMO roles",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-ad-ds-domain-controllers-and-fsmo-roles.svg"
+  },
+  {
+    "Title": "Challenge project - Create a mini-game",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game/?WT.mc_id=api_CatalogApi",
+    "Description": "Use methods with parameters and return values to develop the features of a console mini-game.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/challenge-project-create-mini-game.svg"
+  },
+  {
+    "Title": "Understand how Microsoft Purview Unified Catalog unifies your data estate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/purview-unified-catalog-understand/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how Microsoft Purview Unified Catalog helps organizations overcome fragmented data estates by centralizing assets, adding business context, and applying consistent governance so teams can trust and use data with confidence.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Format alphanumeric data for presentation in C#",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/csharp-format-strings/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore basic methods in C# to format alphanumeric data.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/csharp-format-strings.svg"
+  },
+  {
+    "Title": "Explore Azure for SAP storage",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-azure-storage/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explores the use of Azure he storage component to design scalable, performant, and resilient SAP deployments in Azure. Prepare for Exam AZ-120 Planning and Administering Microsoft Azure for SAP Workloads.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/3-explore-azure-storage.svg"
+  },
+  {
+    "Title": "Foundations of Agentic AI in GitHub",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/foundations-agentic-ai/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how agentic AI changes the developer role from only writing code to guiding, reviewing, and validating systems that can take action across the SDLC. Understand GitHub's role as the system of record and control plane for safe, traceable agent workflows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Learn inclusive marketing principles",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/inclusive-marketing/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to embody diversity and inclusivity across marketing engines",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Manage Active Directory Domain Services using PowerShell cmdlets",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-active-directory-domain-services-use-powershell-cmdlets/?WT.mc_id=api_CatalogApi",
+    "Description": "This module covers the cmdlets that are used to administer Active Directory Domain Services.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-active-directory-domain-services-use-powershell-cmdlets.svg"
+  },
+  {
+    "Title": "Introduction to Azure Load Balancer",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/intro-to-azure-load-balancer/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explains what Azure Load Balancer does, how it works, and when you should choose to use Load Balancer as a solution to meet your organization's needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Manage secrets in Java applications - Zero Trust and Zero Secrets",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-secrets-java-applications-zero-trust/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you learn about managing secrets in your Java applications on Azure. You'll explore best practices like Zero Trust and Zero Secrets, and see how to apply them to a hands-on Java project using Azure Key Vault.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-secrets-java-applications-zero-trust.svg"
+  },
+  {
+    "Title": "Understand Microsoft Purview Insider Risk Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/purview-explore-insider-risk-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Understand Microsoft Purview Insider Risk Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implement Tools to Track Usage and Flow",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-tools-track-usage-flow/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to implement continuous monitoring tools to track application usage and flow. Explore Azure Monitor, Log Analytics, Kusto Query Language (KQL), and Application Insights for comprehensive telemetry, performance monitoring, and user behavior analysis.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/1-implement-tools-to-track-usage-and-flow.svg"
+  },
+  {
+    "Title": "Implement Windows Server DNS",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-windows-server-dns/?WT.mc_id=api_CatalogApi",
+    "Description": "Implement Windows Server DNS",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/implement-windows-server-dns.svg"
+  },
+  {
+    "Title": "Integrate data with Azure Data Factory",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/data-integration-azure-data-factory/?WT.mc_id=api_CatalogApi",
+    "Description": "Integrate data with Azure Data Factory",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/integrate-data-azure-data-factory.svg"
+  },
+  {
+    "Title": "Accelerate nonprofit funding solutions with Microsoft Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/accelerate-nonprofit-funding-solutions-microsoft-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Save time, improve quality, and increase impact in your funding activities. Copilot can also help you learn new skills, discover new opportunities, and enhance your creativity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Work smarter and streamline workflows with Security Copilot in the Surface Management Portal",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/surface-management-portal/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn more about this integration and how it helps IT teams work smarter with streamlined deployment and AI enhancements.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Make data available in Azure Machine Learning",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/make-data-available-azure-machine-learning/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about how to connect to data from the Azure Machine Learning workspace. You're introduced to datastores and data assets.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/make-data-available-azure-machine-learning.svg"
+  },
+  {
+    "Title": "Identify technical debt",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/identify-technical-debt/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to find and manage technical debt in your code, use code quality tools, and plan effective code reviews.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/6-identify-technical-debt.svg"
+  },
+  {
+    "Title": "Enforce VM security configuration with Azure Machine Configuration",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/enforce-vm-security-machine-configuration/?WT.mc_id=api_CatalogApi",
+    "Description": "Audit and enforce OS security configuration on Azure virtual machines and Arc-enabled servers using Azure Machine Configuration. Apply built-in Windows and Linux security baseline policies, configure audit and enforce modes, and author custom machine configurations for organization-specific requirements.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Automate Azure Virtual Desktop management tasks",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/automate-azure-virtual-desktop-management-tasks/?WT.mc_id=api_CatalogApi",
+    "Description": "Automate Azure Virtual Desktop management tasks",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/2-automate-azure-virtual-desktop-management-tasks.svg"
+  },
+  {
+    "Title": "Describe Azure compute services",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/?WT.mc_id=api_CatalogApi",
+    "Description": "Introduction to Azure compute services (virtual machines, containers, Azure Functions), application hosting options, and AI/ML and IoT/Edge service categories.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/describe-azure-compute-networking-services.svg"
+  },
+  {
+    "Title": "Define a Microsoft AI strategy to create business value in nonprofit",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-create-business-value-nonprofit/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover AI use cases and scenarios for nonprofit organizations. Get familiar with Microsoft AI tools and services for nonprofit. Learn from real success stories.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Cloud-powered experiences on Windows 11 Pro",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/cloud-powered-experiences-windows-11-pro/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you\u2019ll learn how Windows 11 Pro uses hybrid execution models to balance responsiveness and capability, and how cloud-powered experiences like Copilot and AI agents support complex workflows within the Windows interface.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/cloud-powered-experiences-windows-11-pro.svg"
+  },
+  {
+    "Title": "Describe cloud computing",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/?WT.mc_id=api_CatalogApi",
+    "Description": "Introduction to concepts surrounding cloud computing. Mostly platform agnostic, focused instead on general concepts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/describe-cloud-compute.svg"
+  },
+  {
+    "Title": "Migrate Windows Server roles",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/migrate-windows-server-roles/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to install and use the Windows Server Migration Tools cmdlets to migrate commonly used server roles from earlier versions of Windows Server.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/5-migrate-windows-server-roles.svg"
+  },
+  {
+    "Title": "Explore core data concepts",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/?WT.mc_id=api_CatalogApi",
+    "Description": "This content is a part of Explore core data concepts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-core-data-concepts.svg"
+  },
+  {
+    "Title": "Design enterprise-scale agent communication with A2A in Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/aaai-design-enterprise-agent-communication-a2a/?WT.mc_id=api_CatalogApi",
+    "Description": "Design enterprise-scale agent communication architectures using the A2A protocol in Azure. Implement agent discovery registries with capability-based routing, design shared state management across distributed agent networks, configure context isolation for multitenant deployments, and build conflict detection and resolution mechanisms.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Evaluate generative AI performance in Microsoft Foundry portal",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/evaluate-models-azure-ai-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Evaluating copilots is essential to ensure your generative AI applications meet user needs, provide accurate responses, and continuously improve over time. Discover how to assess and optimize the performance of your generative AI applications using the tools and features available in the Azure AI Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Enhance nonprofit volunteer management with Microsoft Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/enhance-nonprofit-volunteer-management-microsoft-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "This module demonstrates how to use Copilot to manage volunteers within your nonprofit organization. Learners review several prompts used for generating volunteer recruitment, training, and recognition materials, and then they practice using and generating their own prompts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Execute mobile application management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/execute-mobile-application-management/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces Mobile Application Management (MAM). Students will learn about considerations for implementing MAM and will be introduced to the management of MAM using Intune and Configuration Manager.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/execute-mobile-application-management.svg"
+  },
+  {
+    "Title": "Manage and implement authentication methods in Microsoft Entra ID",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-implement-authentication-methods/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to plan, deploy, and manage secure authentication in Microsoft Entra ID. This module covers authentication methods, MFA with Conditional Access, passwordless options, and self-service password reset.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introduction to Azure Network Watcher",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/intro-to-azure-network-watcher/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explains what Azure Network Watcher does, how it works, and when you should choose to use Network Watcher as a solution to meet your organization's needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Explore Git hooks",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/explore-git-hooks/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create Git hooks that automatically check code quality, scan for security issues, and help teams follow coding rules.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/4-explore-git-hooks.svg"
+  },
+  {
+    "Title": "Plan and prepare to develop AI solutions on Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Azure offers multiple services that enable developers to build amazing AI-powered solutions. Proper planning and preparation involves identifying the services you'll use and creating an optimal working environment for your development team.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introduction to AI agent orchestration patterns",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/agent-orchestration-patterns/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the fundamental orchestration patterns for multi-agent architectures.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Design a data storage solution for non-relational data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Azure Architect's design and recommend non-relational data storage solutions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/data-storage-solution-non-relation-data.svg"
+  },
+  {
+    "Title": "Send and pass data as output from the pipeline",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/send-pass-data-output-from-pipeline/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explains how to send pipeline data to files and in various output formats.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/send-pass-data-output-from-pipeline.svg"
+  },
+  {
+    "Title": "Understand Microsoft Fabric IQ fundamentals",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/understand-fabric-iq-fundamentals/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn the fundamentals of Microsoft Fabric IQ, including how ontologies create a shared business vocabulary, the components that make up the Fabric IQ ecosystem, and how ontology modeling differs from traditional data modeling approaches.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Consume an Azure Cosmos DB for NoSQL change feed using the SDK",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/consume-azure-cosmos-db-sql-api-change-feed-use-sdk/?WT.mc_id=api_CatalogApi",
+    "Description": "Process change feed events using the change feed processor in the Azure Cosmos DB for NoSQL .NET SDK.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/azure-cosmos-db-sql-api-consume-sdk.svg"
+  },
+  {
+    "Title": "Track model training with MLflow in jobs",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/train-models-training-mlflow-jobs/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to track model training with MLflow in jobs when running scripts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/track-model-training-with-mlflow-in-jobs.svg"
+  },
+  {
+    "Title": "Strategic Platform Road Mapping",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/strategic-platform-road-mapping/?WT.mc_id=api_CatalogApi",
+    "Description": "This module covers the principles of strategic platform road mapping, including aligning platform initiatives with business objectives, preparing for technological advancements, and fostering innovation. Learners will understand how to develop actionable roadmaps that guide the platform\u2019s evolution, ensuring it remains efficient, reliable, and capable of evolving with future innovations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Migrate SQL Server workloads to Azure SQL Database",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/migrate-sql-workloads-azure-sql-databases/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn the essentials of Azure SQL Database deployment and migration. Explore its benefits, exclusive features, and migration options while optimizing performance and application connections for a smooth transition to the cloud.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/migrate-sql-workloads-to-azure-sql-databases.svg"
+  },
+  {
+    "Title": "Introduction to AI Landing Zones",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/intro-ai-landing-zones/?WT.mc_id=api_CatalogApi",
+    "Description": "Introduction to using Azure landing zones with AI workloads",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introduction to Copilot Spaces",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-copilot-spaces/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use GitHub Copilot Spaces to get context-aware, reliable answers, configure custom instructions, and optimize interactions for repositories, issues, and pull requests.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Get started with Microsoft Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to get started with Microsoft Copilot, understand its main functions and benefits, and explore strategies for effective interaction. This module covers GPT model fundamentals, setup, and tips for engaging conversations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Scale responsible AI governance with Azure AI Content Safety and Microsoft Foundry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/aaai-scale-responsible-ai-governance-multi-agent/?WT.mc_id=api_CatalogApi",
+    "Description": "Scale responsible AI governance to enterprise multi-agent systems using Azure AI Content Safety and Microsoft Foundry. Design systematic fairness and bias monitoring for agent decision chains, implement transparency and explainability mechanisms, configure privacy protection, and establish audit trail frameworks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introduction to Microsoft Surface Pro 13-inch (Intel)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/introduction-to-surface-pro-13-intel/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Microsoft Surface Pro 13-inch for Business (Intel), a Copilot+ PC designed for business professionals focused on productivity, security, and versatility.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduction-to-surface-pro-13-intel.svg"
+  },
+  {
+    "Title": "Foundations of Platform Engineering",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/foundations-platform-engineering/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces the core concepts and importance of platform engineering. It explores how platform engineering enhances developer productivity, accelerates time to value, and supports digital transformation. Learners will understand the strategic value of platform engineering as the foundation for both technical success and alignment with broader business goals.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Choose a deployment scenario for HoloLens device management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/choose-deployment-strategy-hololens/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to choose a deployment scenario for managing HoloLens devices.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/choose-deployment-strategy-hololens.svg"
+  },
+  {
+    "Title": "Understand the key cost drivers of AI agents",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/ai-agent-cost-structure/?WT.mc_id=api_CatalogApi",
+    "Description": "Developing and deploying AI agents can unlock transformative capabilities for businesses, but it requires careful planning and budgeting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/adopt-ai-agent-best-practice.svg"
+  },
+  {
+    "Title": "Automatic function calling",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/automatic-function-calling/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how you can automatically invoke functions using the Semantic Kernel SDK.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  }
+]
