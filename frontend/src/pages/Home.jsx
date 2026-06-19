@@ -21,13 +21,25 @@ const Home = () => {
 
   useEffect(() => {
     const init = async () => {
-      console.log("LCA PROTOCOL V8.0 - LOADING DATA");
+      console.log("LCA PROTOCOL V9.0 - SYNCING GLOBAL DATABASE");
       const totalChunks = 90;
       const batchSize = 10;
       for (let i = 0; i < totalChunks; i += batchSize) {
         const promises = [];
         for (let j = 1; j <= batchSize; j++) {
-          if (i + j <= totalChunks) promises.push(fetchChunk(i + j));
+          const chunkIndex = i + j;
+          if (chunkIndex <= totalChunks) {
+            // Manejo especial para bloques fragmentados (45a, 45b, etc)
+            if (chunkIndex === 45) {
+              promises.push(fetchChunk('45a'));
+              promises.push(fetchChunk('45b'));
+            } else if (chunkIndex === 46) {
+              promises.push(fetchChunk('46a'));
+              promises.push(fetchChunk('46b'));
+            } else {
+              promises.push(fetchChunk(chunkIndex));
+            }
+          }
         }
         const results = await Promise.all(promises);
         const flattened = results.flat();
@@ -52,12 +64,16 @@ const Home = () => {
       const title = (course.Title || course.title || '').toLowerCase();
       const desc = (course.Description || course.description || course.CourseOverview || '').toLowerCase();
       const provider = (course.Provider || course.provider || '').toLowerCase();
+      const categoryField = (course.Category || course.category || '').toLowerCase();
       
       const matchesSearch = title.includes(search) || desc.includes(search) || provider.includes(search);
       if (!matchesSearch) return false;
       
       if (cat === 'todo') return true;
-      return title.includes(cat) || desc.includes(cat) || provider.includes(cat) || (course.Category || '').toLowerCase().includes(cat);
+      if (cat === 'español') return title.includes('español') || desc.includes('español') || categoryField.includes('español');
+      if (cat === 'ia') return title.includes('ia') || title.includes('ai') || title.includes('artificial') || desc.includes('ia') || categoryField.includes('ia');
+      
+      return title.includes(cat) || desc.includes(cat) || provider.includes(cat) || categoryField.includes(cat);
     });
   }, [searchQuery, selectedCategory, allCourses]);
 
@@ -130,7 +146,7 @@ const Home = () => {
       {/* Header */}
       <div className="container mx-auto px-6 pt-12 pb-12 border-b border-white/5">
         <div className="flex justify-between items-start mb-8">
-           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest">LCA Massive Protocol v8.0</div>
+           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest">LCA Massive Protocol v9.0</div>
            <div className="text-zinc-700 font-mono text-[9px] uppercase tracking-widest">Base: {allCourses.length}</div>
         </div>
         <h1 className="text-7xl md:text-[12rem] font-black tracking-tighter leading-none mb-8 uppercase">CURSIN<span className="text-yellow-600">.</span></h1>
@@ -162,7 +178,15 @@ const Home = () => {
 
         {/* Grid */}
         <div className="py-12">
-           <Courses coursesData={displayedCourses} />
+           {filteredCourses.length > 0 ? (
+             <Courses coursesData={displayedCourses} />
+           ) : (
+             <div className="py-24 text-center">
+                <div className="text-zinc-800 text-6xl mb-6">¯\_(ツ)_/¯</div>
+                <h3 className="text-2xl font-black uppercase text-zinc-500">No encontramos cursos para esa búsqueda</h3>
+                <p className="text-zinc-700 mt-4 font-mono text-[10px] uppercase tracking-widest">Probá con otras palabras clave o categorías</p>
+             </div>
+           )}
         </div>
 
         {/* Bottom Pagination */}
