@@ -13,7 +13,7 @@ const Home = () => {
   // Fetch a chunk of courses
   const fetchChunk = async (index) => {
     try {
-      const response = await fetch();
+      const response = await fetch(`/data/courses_${index}.json`);
       if (!response.ok) {
         setHasMoreChunks(false);
         return;
@@ -50,11 +50,9 @@ const Home = () => {
   const displayedCourses = filteredCourses.slice(0, visibleCount);
 
   const handleLoadMore = async () => {
-    // If we have more courses in current loaded state, just show them
     if (visibleCount + 100 <= filteredCourses.length) {
       setVisibleCount(prev => prev + 100);
     } else if (hasMoreChunks) {
-      // Otherwise fetch next chunk
       setLoading(true);
       await fetchChunk(chunkIndex);
       setVisibleCount(prev => prev + 100);
@@ -72,7 +70,6 @@ const Home = () => {
 
   return (
     <div className="min-h-screen bg-black text-white font-sans selection:bg-yellow-600 selection:text-black">
-      {/* Header / Hero */}
       <div className="relative border-b border-white/5">
         <div className="container mx-auto px-6 py-24 relative z-10">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-12">
@@ -95,7 +92,11 @@ const Home = () => {
                     <button 
                       key={cat}
                       onClick={() => setSelectedCategory(cat)}
-                      className={}
+                      className={`px-4 py-2 text-[10px] font-bold uppercase tracking-widest transition-all ${
+                        selectedCategory === cat 
+                        ? 'bg-white text-black shadow-lg shadow-white/10' 
+                        : 'bg-zinc-900 text-zinc-500 border border-white/5 hover:border-white/20'
+                      }`}
                     >
                       {cat}
                     </button>
@@ -106,7 +107,6 @@ const Home = () => {
         </div>
       </div>
 
-      {/* Search Section */}
       <div className="bg-zinc-950 sticky top-0 z-50 border-b border-white/5 backdrop-blur-xl bg-black/80">
         <div className="container mx-auto px-6 py-8">
           <div className="relative group">
@@ -124,7 +124,6 @@ const Home = () => {
         </div>
       </div>
 
-      {/* Main Grid */}
       <div className="container mx-auto px-6 py-24">
         <div className="flex items-center justify-between mb-20">
            <div className="flex items-center gap-6">
