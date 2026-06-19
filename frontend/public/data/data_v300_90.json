@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Exercise: Use SQLite asynchronously",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/healthcare-in-a-day/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use Microsoft for Healthcare.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/healthcare-in-a-day.svg"
+  },
+  {
+    "Title": "Configure FSLogix Office Containers",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/extend-user-experience-client-scripting-command-bar-customization/?WT.mc_id=api_CatalogApi",
+    "Description": "Extend the user experience with client scripting and command bar customization",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Layer 2 - The subprocess layer",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/validate-power-platform-functional-consultant-skills/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path prepares you to complete the Microsoft Power Platform Functional Consultant challenge project and validate your skills. You should have already completed the following modules as part of the PL-200: Microsoft Power Platform Functional Consultant course. If you haven't, it's recommended that you take some time to complete these modules before beginning the challenge project.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/validate-power-platform-functional-consultant-skills.svg"
+  },
+  {
+    "Title": "Module assessment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/powerscribe-one-resident-radiologist-workflow-foundations/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn core PowerScribe One workflows for resident radiologists, including cloud speech dictation, report creation, and clinical documentation quality tools.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/powerscribe-one-resident-radiologist-workflow-foundations.svg"
+  },
+  {
+    "Title": "Choose an endpoint and SDK",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/pad-build-expertise/?WT.mc_id=api_CatalogApi",
+    "Description": "Build expertise with using advanced actions in Power Automate desktop app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/pad-build-expertise.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-power-pages/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to work with Power Pages websites.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/work-power-pages.svg"
+  },
+  {
+    "Title": "Examine cloud-native apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/create-manage-model-driven-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "In this learning path, you practice building model-driven apps by using Microsoft Power Apps. The skills validated include creating Dataverse tables, modifying forms and views, and configuring a model-driven app. The scenario in this experience represents real-world challenges faced by individuals with business-specific expertise who build model-driven apps. PL-7003",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-manage-model-driven-apps.svg"
+  },
+  {
+    "Title": "Module assessment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-sustainability/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-sustainability.svg"
+  },
+  {
+    "Title": "Choose Windows 11 Enterprise for advanced security and scale",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/dragon-copilot-for-nurse-champions/?WT.mc_id=api_CatalogApi",
+    "Description": "Prepares nurse champions to understand their role, support peers, and drive safe, consistent adoption of Dragon Copilot (nurses).",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/dragon-copilot-for-nurse-champions.svg"
+  },
+  {
+    "Title": "Secure and monitor Continuous Integration and Continuous Deployment (CI/CD)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/solution-architect-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how a solution architect designs solutions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/solution-architect-design.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/copilot-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create solutions for Power Platform with AI and Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/copilot-solutions.svg"
+  },
+  {
+    "Title": "Exercise: Resolve virtual machine connection",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/dragon-copilot-physicians-practical-application-exercises/?WT.mc_id=api_CatalogApi",
+    "Description": "This program gives Dragon Copilot users a set of practical application exercises to use as they get up to speed on Dragon Copilot (physicians).",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/dragon-copilot-physicians-practical-application-exercises.svg"
+  },
+  {
+    "Title": "Examples of implementing PR governance with templates, checks, CODEOWNERS, rules, and environment gates",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/extend-power-pages/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to extend Power Pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/extend-power-pages.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/explore-healthcare-data-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to deploy and use healthcare data solutions in Microsoft Fabric.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/explore-healthcare-data-solutions.svg"
+  },
+  {
+    "Title": "Module assessment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/connect-share-cloud-flow-desktop-flows-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "Connect and share cloud flow to desktop flows in Power Automate for desktop",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Configure SQL granular permissions using T-SQL",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/dragon-copilot-for-nurse-leaders/?WT.mc_id=api_CatalogApi",
+    "Description": "Prepares nurse leaders to drive Dragon Copilot adoption by setting expectations, reinforcing key behaviors, and supporting safe, consistent use across teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/dragon-copilot-for-nurse-leaders.svg"
+  },
+  {
+    "Title": "Summary and resources",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/powerscribe-one-editor-workflow-foundations/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn core PowerScribe One workflows for editors, including worklists, dictated report editing, structured fields, and report finalization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/powerscribe-one-editor-workflow-foundations.svg"
+  },
+  {
+    "Title": "Use loops to iterate over statements",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/create-manage-automated-processes-by-using-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "In this learning path, you practice creating and managing automated processes by using Power Automate. PL-7002",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-and-manage-automated-processes-by-using-power-automate.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/build-optimize-cloud-flows-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "Build and optimize cloud flows in Power Automate",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Submit confirmed POs to SAP",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/basic-application-lifecycle-management-microsoft-power-platform/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create and manage solutions, understand solution layering, and explore version control for solutions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Exercise - Understand return type syntax",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/build-basic-code-components-power-apps-component-framework/?WT.mc_id=api_CatalogApi",
+    "Description": "Build basic code components with the Power Apps Component Framework",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Exercise - Risk and safety metrics",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/design-agent-conversations-responses-topics-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to design and configure agent conversations and responses using topics in Microsoft Copilot Studio. This learning path covers foundational topic authoring, delivering rich Adaptive Card responses, integrating topics with tools and agent flows, and generating AI-powered answers using generative answers nodes and custom prompts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Exercise - Convert an event handler to a command",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/process-mining-process-owner/?WT.mc_id=api_CatalogApi",
+    "Description": "Process mining in Power Automate can help organizations discover inefficiencies in their processes and enable them to gain a deeper understanding of what goes on within each process from start to finish.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/process-mining-process-owner.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/introduction-process-advisor/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to work with process mining in Power Automate",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduction-process-advisor.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/volunteer-management-nonprofit/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to manage and engage with volunteers with Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/volunteer-management-nonprofit.svg"
+  },
+  {
+    "Title": "Understand the Fabric admin model",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-sustainability-copilots/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up Sustainability agents in Copilot Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-sustainability-copilots.svg"
+  },
+  {
+    "Title": "Exercise - Configure static and adaptive retention policies in Microsoft Purview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/extend-sustainability/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to extend Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/extend-sustainability.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/ui-controls-canvas-app-powerapps/?WT.mc_id=api_CatalogApi",
+    "Description": "The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/ui-controls-canvas-app-powerapps.svg"
+  },
+  {
+    "Title": "Examine what is included in Microsoft Learn for Educators",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/integrate-agents-enterprise-systems-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to integrate Copilot Studio agents with enterprise systems. This learning path covers evaluating integration patterns, configuring connectors and REST API tools, grounding agents with enterprise knowledge sources, and connecting agents to external systems via MCP.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Knowledge check",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/automate-business-processes-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "Wire your Power Platform solutions with intelligent automation and generative AI capabilities. Create event-driven cloud flows, connect automation directly to your Dataverse data model, build approval flows that route decisions to the right people \u2014 then extend your solutions further by generating natural language responses from your own business data with AI Builder grounded prompts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Explore the best practices for AZ-500 Microsoft Azure Security Technologies Module 2",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/powerscribe-one-advanced-autotext-for-providers/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn advanced AutoText workflows in PowerScribe One for efficient reporting and documentation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/powerscribe-one-advanced-autotext-for-providers.svg"
+  },
+  {
+    "Title": "Understand just-in-time VM access",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/dax-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "Enable deeper insights in Power BI by using Data Analysis Expressions (DAX) to add calculations that support dynamic analysis and advanced reporting in your semantic models.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-dax-power-bi-desktop.svg"
+  },
+  {
+    "Title": "Exercise - Register and Set Up Azure NetApp Files",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/templates-error-handling-expressions-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path covers how to use your Power Automate skills to master error handling and expressions. Learn best practices for identifying and resolving flow failures efficiently using the flow actions and built-in error reports. Then, take your automation to the next level by leveraging expressions to manipulate and optimize your data. PL-200",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Exercise - Configure AI-assisted tools for database development",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/share-collaborate-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to effectively collaborate with others while working in Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/share-collaborate.svg"
+  },
+  {
+    "Title": "Evaluate data storage requirements",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/demonstrate-capabilities-power-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path introduces learners to Power apps. This includes a general discussion of capabilities and then specific focus on canvas apps and model-driven apps. PL-900",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/robotic-process-automation-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create robotic process automation flows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/robotic-process-automation-online-workshop.svg"
+  },
+  {
+    "Title": "View metrics and evaluate models",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/process-mining-data-wrangler/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about process mining with Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/process-mining-data-wrangler.svg"
+  },
+  {
+    "Title": "Module assessment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/sharing-customization-low-code-development-essentials/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path covers sharing Power Automate cloud flows, using Power Apps for app creation, managing solutions in Power Automate, and transporting and customizing apps within Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Initiate live response session",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create, manage, and maintain agents with Microsoft Copilot Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-power-virtual-agents.svg"
+  },
+  {
+    "Title": "Knowledge Check",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/emissions-impact-dashboards/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about Emissions Impact Dashboards in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/emissions-impact-dashboards.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/dashboard-in-a-day/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create your first dashboard in Power BI.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dashboard-in-a-day.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/power-pages-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create websites with Power Pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/power-pages-online-workshop.svg"
+  },
+  {
+    "Title": "Examine events in C#",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/demonstrate-capabilities-microsoft-power-pages/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path focuses on Microsoft Power Platform. Learners are introduced to the business capabilities of Power Pages sites and their security features. Learners then learn how to build a Power Pages site, including a hands-on exercise. PL-900",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/power-pages-learning-path.svg"
+  },
+  {
+    "Title": "Translate text with Azure Translator and Azure Database for PostgreSQL",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the role of a data analyst and how Power BI tools transform data into impactful reports and dashboards that support trusted, data-driven decisions across the business.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/overview-data-analysis-power-bi.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/agent-365-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use Microsoft Agent 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/agent-365-solutions.svg"
+  },
+  {
+    "Title": "Use parameters in a command job",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/pad-work-different-technologies/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning Path covers multiple technologies used with Power Automate desktop app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/pad-work-different-technologies.svg"
+  },
+  {
+    "Title": "Learning Accelerators",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/bring-ai/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to bring AI Builder to your business.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/bring-ai-to-your-business-with-ai-builder.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-sustainability-manager/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about Microsoft Sustainability Manager.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-sustainability-manager.svg"
+  },
+  {
+    "Title": "Design for identity and access management (IAM)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-custom-connectors-microsoft-power-platform/?WT.mc_id=api_CatalogApi",
+    "Description": "Get started with custom connectors for Microsoft Power Platform",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Explore runners",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/application-lifecycle-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Application lifecycle management (ALM) is important as the applications your organization builds becomes more complex and as more of your company depends on their stability. ALM is not a one size fits all concept, it can vary from organization to organization and even within based on the type of solution being built. This learning path can help you with ALM best practices.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/application-lifecycle-management-power-platform.svg"
+  },
+  {
+    "Title": "Knowledge check",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/best-practices-environments/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how you can improve security posture and governance in Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/best-practices-environments.svg"
+  },
+  {
+    "Title": "Exercise - Configure a CodeQL language matrix",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/create-components-power-apps-component-framework/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to build custom components and controls with Power Apps component framework.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-components-power-apps-component-framework.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/power-platform-robotic-process-automation-overview/?WT.mc_id=api_CatalogApi",
+    "Description": "Power Platform Robotic Process Automation overview",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Enable access to organization resources",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/introduction-develop-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "As a developer working with finance and operations apps, it's important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and finance and operations apps. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to finance and operations apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/introduction-develop-dynamics-365-finance-operations.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/purchase-items-services-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to create purchase documents like purchase orders and purchase invoices? This learning path shows you how to create purchase documents and address things such as discounts and item charges.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/purchase-items-services-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Connect and use the Speech MCP server with an agent",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/agents-help-customer-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to improve your service representative's productivity? This path discusses options to help service reps be more productive when using the Customer Service app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/agents-help-customer-service.svg"
+  },
+  {
+    "Title": "Exercise",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/validate-your-dynamics-365-customer-experience-analyst-skills/?WT.mc_id=api_CatalogApi",
+    "Description": "Validate your implementation skills in Dynamics 365 Sales and Dynamics 365 Customer Insights in this learning path that culminates in a challenge project.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/process-customer-vendor-payments-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you receive payments from customers and pay vendors? This module will help you track both in cash management and process those transactions as necessary in Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/process-customer-vendor-payments-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Device based AI capabilities",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/configure-manage-sales-customers-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "The process of working with customers, understanding the life cycle of the sales process, and setting up sales agreements are all important factors that impact a company's success.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-manage-sales-customers-in-dynamics-365-scm.svg"
+  },
+  {
+    "Title": "Use the INTERSECT and EXCEPT operators",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how finance and operations apps support businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with finance and operations apps, you must familiarize yourself with its features and functionality, whatever your desired role. In this learning path, you will learn -\\\\tThe overall functionality of finance and operations apps -\\\\tHow to navigate in finance and operations apps -\\\\tHow to use workspaces",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-d365-for-finance-and-ops.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path focuses on working with Knowledge Management Solutions in Microsoft Dynamics 365 Customer Service.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-with-knowledge-management-solutions-dyn365-customer-service.svg"
+  },
+  {
+    "Title": "Understand the business context behind Windows edition decisions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/configure-work-transportation-mgmt-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "Transportation management in Dynamics 365 Supply Chain Management helps you find the most efficient way to deliver goods to your customers. Transportation management calculates the least expensive and fastest way of delivering goods and lets you identify vendor and routing solutions for inbound and outbound orders.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-work-transportation-mgmt-dyn365-supply-chain-mgmt.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/use-artificial-intelligence/?WT.mc_id=api_CatalogApi",
+    "Description": "Artificial Intelligence can be used with Business Central. This path focuses on a few key ways that you can use it to manage your business.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-artificial-intelligence.svg"
+  },
+  {
+    "Title": "Isolate execution - branches, workflows, permissions, and concurrency",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-pro-data-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Are you just getting started with Business Central? This learning path will help prepare you for the types of data in Business Central and how to find information you need in the application.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-pro-data-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Module assessment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-customer-service-omnichannel/?WT.mc_id=api_CatalogApi",
+    "Description": "Developing and deploying true omnichannel solutions are critical to the success of any organization that provides customer service to its customers. By ensuring the unified and contextual experience regardless of the channel used, organizations can increase customer satisfaction, resolve issues faster, and increase revenue. With Dynamics 365\u2019s Omnichannel for Customer Service solution, organizations deploy a true Omnichannel solution that exists inside the Dynamics 365 organization that they use every day.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-customer-service-omnichannel.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/assemble-items-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you sell assembled items? This learning path provides the information you need to assembly management and items. It also provides steps to produce assembled items to stock or order.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/assemble-items-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Importance of collections",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/set-up-jobs-resources/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to set up projects in Dynamics 365 Business Central? This learning path discusses how to set up projects, journals, posting groups, resources, and timesheets.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-jobs-resources.svg"
+  },
+  {
+    "Title": "Implement passwordless authentication",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/foundation-customize-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to use the development tools to learn how to customize Microsoft Dynamics 365 Business Central? This learning path will introduce you to Business Central tables and pages, and how to customize them.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/foundation-customize-business-central.svg"
+  },
+  {
+    "Title": "Examine SAP HANA on Azure (Large Instances) storage considerations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/configure-sales-ai-selling/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to configure Dynamics 365 Sales with AI-powered tools like Copilot and AI agents to empower sellers and accelerate pipelines.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Semantic language models",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-and-use-process-manufacturing-in-dynamics-365-for-finance-ops.svg"
+  },
+  {
+    "Title": "List local repository namespaces and classes by using CIM and WMI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/configure-channels-dynamics-365-contact-center/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to configure every customer-facing channel in Dynamics 365 Contact Center. Set up chat and digital messaging channels, provision the voice channel with Teams Phone, apply advanced conversation settings, and deploy intelligent voice agents with multilingual support and compliant call recording.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg"
+  },
+  {
+    "Title": "Exercise - Custom evaluator with Prompty",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/set-up-use-features-resource-non-stocked-project-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Dynamics 365 Project Operations provides tools to cover project-based quotes, scheduling modes, cost and sales pricing, subcontract management, vendor invoicing, time entries, project management, material usage tracking, and intercompany pricing and invoicing. Understanding revenue recognition is also important for managing project costs. Project Operations provides all necessary information for effective project management, customization, and organization-specific pricing dimensions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-use-features-resource-non-stocked-project-operations.svg"
+  },
+  {
+    "Title": "Defender for Cloud AI threat protection",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/application-foundation-al-language/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to start developing solutions using application language (AL) for Business Central? This learning path introduces AL and discusses statements, codeunits, functions, events, triggers, and more.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/application-foundation-al-language.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/configure-intelligent-order-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up Dynamics 365 Intelligent Order Management",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-intelligent-order-management.svg"
+  },
+  {
+    "Title": "Manage devices joined to Microsoft Entra ID",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-with-marketing/?WT.mc_id=api_CatalogApi",
+    "Description": "Dynamics 365 Customer Insights - Journeys elevates customer experiences, allowing you to orchestrate personalized journeys across all touchpoints to strengthen relationships and earn loyalty.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-marketing.svg"
+  },
+  {
+    "Title": "Security recommendations for Azure Virtual Desktop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-with-demand-planning-supply-chain/?WT.mc_id=api_CatalogApi",
+    "Description": "Boost forecasting and inventory optimization with advanced algorithms, real-time collaboration, and customizable models for strategic alignment with Demand planning in Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-with-demand-planning-supply-chain.svg"
+  },
+  {
+    "Title": "Investigate Microsoft Entra sign-in logs",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/replenish-items-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to replenish inventory items in your business? This learning path will show you options you can use to efficiently replenish items in Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/replenish-items-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Describe Azure ExpressRoute",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-customer-scheduling/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to schedule staff and other resources to service customers? This learning path discusses how to configure and use Customer Service scheduling.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-customer-scheduling.svg"
+  },
+  {
+    "Title": "Summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-accounts-receivable-dyn365-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Configure the Accounts receivable module in Dynamics 365 Finance to create customer invoices, post packing slips, and use free text invoices that aren't related to sales orders. In this learning path, you also learn how to do daily tasks in accounts receivable.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-with-accounts-receivable-in-dynamics-365-for-finance-ops.svg"
+  },
+  {
+    "Title": "Implement asynchronous file input and output",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/configure-use-discrete-manufacturing-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 Supply Chain Management for discrete manufacturing, so your customer can perform and control the production lifecycle.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-and-use-discrete-manufacturing-in-microsoft-dynamics-for-finance-and-operations.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-cost-accounting-supply-chains-dyn365-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Cost accounting lets you collect data from various sources, such as the general ledger, sub-ledgers, budgets, and statistical information. You can then analyze, summarize, and evaluate cost data so that management can make the best possible decisions for price updates, budgets, cost control, and so on.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-cost-accounting-supply-chains-dyn365-finance.svg"
+  },
+  {
+    "Title": "Exercise - Configure system parameters and explore metadata with system catalogs and views",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/introduction-sales-dynamics-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Microsoft Dynamics 365 customer engagement apps and their shared capabilities. Learn how Dynamics 365 supports AI-powered selling through lead generation and qualification, customer relationship management, deal negotiation, and forecasting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/introduction-sales-dynamics-365.svg"
+  },
+  {
+    "Title": "Complete the challenge",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/working-with-dynamics-sales-professional/?WT.mc_id=api_CatalogApi",
+    "Description": "Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 Sales Professional.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/working-with-dynamics-365-for-sales-pro.svg"
+  },
+  {
+    "Title": "Examine a sample functional workflow",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/setup-reporting-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to use Business Central with other applications or make data available in the cloud? Then, complete this learning path. It also includes a module about changing how documents look in Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/setup-reporting-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/implementing-dyn365-field-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Field service companies often realize they need help as they discover that workflow inefficiencies are preventing growth and limiting revenue. Taking the right steps to configure Dynamics 365 Field Service will save you time during your implementation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/implementing-microsoft-dynamics-365-for-field-service.svg"
+  },
+  {
+    "Title": "Explore release pipelines",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-use-human-resources/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you have employees? If you do, this learning path will introduce Dynamics 365 Human Resources functionality, which you can use to manage many employee-related tasks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-use-human-resources.svg"
+  },
+  {
+    "Title": "Knowledge check",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/use-copilot-sales/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path helps identify features and functionality of Dynamics 365 Copilot for Sales, and how to set up and deploy the app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-copilot-sales.svg"
+  },
+  {
+    "Title": "Implement event-driven scaling with KEDA",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/config-d365-finance-operations-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "Learning path for the Dynamics 365 finance and operations Apps bridge between Fundamentals and Core",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-dynamics-365-finance-operations-apps.svg"
+  },
+  {
+    "Title": "Manage and use service principals",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/set-up-fixed-assets-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you plan to use fixed assets functionality in Business Central? If you do, this learning path will get you started by helping you set up key functionality related to Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/set-up-fixed-assets-management.svg"
+  },
+  {
+    "Title": "Customize GitHub Copilot Chat responses",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/pick-ship-items-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you need to pick and ship items from warehouses in your business? This learning path discusses how to pick and ship inventory items, cross-dock items, and assembled items.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/pick-ship-items-business-central.svg"
+  },
+  {
+    "Title": "Module assessment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/teach-mb-230-customer-service-functional-consultant/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the Microsoft Learn for Educators program and how to best deliver its content to your students. Prepare to deliver Microsoft\u2019s MB-230 Microsoft Dynamics 365 Customer Service Functional Consultant in an academic program.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/teach-mb-230-customer-service-functional-consultant.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/configure-your-organization-finance-ops/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up legal entities, design mobile apps, and implement integrations as a functional consultant.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/configure-your-organization-in-finance-and-ops.svg"
+  },
+  {
+    "Title": "Security and simplified IT infrastructure for K-12",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/setup-work-finance-insights/?WT.mc_id=api_CatalogApi",
+    "Description": "This learning path helps you efficiently use finance insights tools to handle customer payments, create customer payment predictions, create accurate and editable cash flow forecasts, and create data generated budget proposals in Dynamics 365 Finance.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/setup-work-finance-insights.svg"
+  },
+  {
+    "Title": "Introduction",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/receive-put-away-items-whse/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to know about how to manage warehouse shipments? This module discusses typical warehouse transactions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/receive-put-away-items-whse.svg"
+  },
+  {
+    "Title": "Manage storage",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-expense-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Maximize profitability and minimize cost with accurate expense management capabilities in Dynamics 365 Project Operations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-expense-management.svg"
+  },
+  {
+    "Title": "Exercise - Test partner access behavior",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/work-accounts-payable-dyn365-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Accounts payable are a liability due to a creditor when you order goods or services without paying in cash up front, which means that you buy goods on credit. Learn how to configure accounts payable in Dynamics 365 Finance, record vendor invoices, and distribute expenses, tax, and charges across accounts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/work-with-accounts-payable-in-dynamics-365-for-finance-and-ops.svg"
+  },
+  {
+    "Title": "Compare an event-driven UI to a data-bound UI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/get-started-cds/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to learn how to build solutions that can use a standardized data structure, and work with other solutions sharing the same data model? Do you want to extend the standard model to support custom solutions? This learning path explains the concepts behind and benefits of Dataverse. Creating an environment, entities, fields and options sets are also discussed.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-using-common-data-service.svg"
+  },
+  {
+    "Title": "Check your knowledge",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/power-apps-power-automate-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Do you want to use Power Apps and Power Automate with Business Central? This learning path discusses how you can use Microsoft Power Platform products with Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/power-apps-power-automate-business-central.svg"
+  },
+  {
+    "Title": "Exercise - Customize a Docker image to run your own web app",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/deploy-project-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about how to deploy Dynamics 365 Project Operations",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/design-deploy-project-operations.svg"
+  },
+  {
+    "Title": "Explore common public package sources",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/paths/use-warehouse-management-only-mode/?WT.mc_id=api_CatalogApi",
+    "Description": "Warehouse management only mode in Dynamics 365 Supply Chain Management allows you to streamline inbound/outbound shipments, automate processes, and optimize operations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-warehouse-management-only-mode.svg"
+  }
+]
