@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Conversi\u00f3n de vCores a RUs",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/security-compliance-and-identity-fundamentals/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Este examen va dirigido a usted, si busca conocer bien los aspectos b\u00e1sicos de seguridad, cumplimiento e identidad de los servicios de Microsoft relacionados y basados en la nube.</p>\\\\n<p>Si tiene inter\u00e9s en las soluciones SCI de Microsoft, este examen es para usted, si es:</p>\\\\n<ul>\\\\n<li>Parte interesada de la empresa</li>\\\\n<li>Profesional de TI nuevo o existente</li>\\\\n<li>Estudiante</li>\\\\n</ul>\\\\n<p>Debe conocer bien Microsoft Azure y Microsoft 365, y tener inter\u00e9s en saber c\u00f3mo las soluciones de seguridad, cumplimiento e identidad de Microsoft pueden extenderse por estas \u00e1reas de soluciones para proporcionar una soluci\u00f3n integral y completa.</p>\\\\n",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+  },
+  {
+    "Title": "Soluci\u00f3n de problemas de almacenamiento de las m\u00e1quinas virtuales",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/power-automate-rpa-developer-associate/?WT.mc_id=api_CatalogApi",
+    "Description": "<div class=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+  },
+  {
+    "Title": "Publicar paquetes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/azure-network-engineer-associate/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Como candidato para esta certificaci\u00f3n, debe tener experiencia en la materia en el planeamiento, la implementaci\u00f3n y la administraci\u00f3n de soluciones de red de Azure, entre las que se incluyen:</p>\\\\n<ul>\\\\n<li>Infraestructura de red principal</li>\\\\n<li>Conectividad h\u00edbrida</li>\\\\n<li>Servicios de entrega de aplicaciones</li>\\\\n<li>Acceso privado a los servicios de Azure</li>\\\\n<li>Seguridad de red</li>\\\\n</ul>\\\\n<p>Como ingeniero de red de Azure, entre sus responsabilidades se encuentran las de incluir la optimizaci\u00f3n del rendimiento, la resistencia, la escala y la seguridad de las soluciones de red de Azure. Supervisa de forma proactiva los entornos de red para identificar problemas y minimizar el riesgo. Tambi\u00e9n identificar y resolver problemas de conectividad.</p>\\\\n<p>Para ofrecer soluciones de Azure, trabaje con:</p>\\\\n<ul>\\\\n<li>Arquitectos de soluciones</li>\\\\n<li>Administradores de la nube</li>\\\\n<li>Ingenieros de seguridad</li>\\\\n<li>Desarrolladores de aplicaciones</li>\\\\n<li>Ingenieros de DevOps</li>\\\\n</ul>\\\\n<p>Como candidato a esta certificaci\u00f3n debe tener experiencia en la creaci\u00f3n y administraci\u00f3n de recursos de proceso, almacenamiento y redes en Azure. Debe comprender los aspectos b\u00e1sicos de las redes, como:</p>\\\\n<ul>\\\\n<li>Resoluci\u00f3n de nombres</li>\\\\n<li>Protocolos de red</li>\\\\n<li>Administraci\u00f3n de direcciones de red</li>\\\\n</ul>\\\\n",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-expert-badge.svg"
+  },
+  {
+    "Title": "Correcci\u00f3n de los servidores no conformes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/power-platform-fundamentals/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Como candidato para esta certificaci\u00f3n, aspira a comprender c\u00f3mo se pueden usar las tecnolog\u00edas de Microsoft Power Platform para:</p>\\\\n<ul>\\\\n<li>Desarrollar soluciones empresariales adaptadas.</li>\\\\n<li>Optimice el uso de datos mediante Microsoft Dataverse y conectores.</li>\\\\n<li>Acelerar los resultados empresariales mediante Microsoft Power Apps para soluciones de c\u00f3digo bajo o sin c\u00f3digo.</li>\\\\n<li>Mejore los procesos mediante Microsoft Power Automate.</li>\\\\n<li>Habilite el autoservicio de cliente mediante Microsoft Power Pages.</li>\\\\n<li>Aumente su productividad con co-pilotos.</li>\\\\n</ul>\\\\n<p>La certificaci\u00f3n est\u00e1 pensada para usted si busca iniciar su recorrido en la creaci\u00f3n de soluciones con Microsoft Power Platform.</p>\\\\n<p>Puede usar esta certificaci\u00f3n para preparar las certificaciones basadas en roles, pero no es un requisito previo para ninguno de ellos.</p>\\\\n",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+  },
+  {
+    "Title": "Ejercicio: Movimiento de varios documentos en masa con el SDK de Azure Cosmos DB for NoSQL",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/github-actions/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Los candidatos para esta certificaci\u00f3n deben tener experiencia en la automatizaci\u00f3n de flujos de trabajo de desarrollo de software con Acciones de GitHub. Esto incluye la creaci\u00f3n y el mantenimiento de flujos de trabajo y acciones, la administraci\u00f3n de acciones de GitHub a escala y la garant\u00eda de una automatizaci\u00f3n segura y eficaz para organizaciones y empresas. Los candidatos tambi\u00e9n deben estar familiarizados con CI/CD, repositorios de GitHub, paquetes de GitHub e integraci\u00f3n de servicios de terceros.</p>\\\\n<p>\\\\n <strong>SANDBOX DE EXAMEN</strong><br/>\\\\n\\\\n <strong>Demostraci\u00f3n de experiencia</strong><br/>\\\\nAqu\u00ed puede experimentar con el aspecto del examen antes de realizarlo. Podr\u00e1 interactuar con diferentes tipos de preguntas en la misma interfaz de usuario que usar\u00e1 durante el examen.</p>\\\\n<p>\\\\n <a href=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de Azure Key Vault",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/microsoft-office-specialist-associate-2019/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Demuestra que tienes las aptitudes necesarias para sacar el m\u00e1ximo partido de Office al obtener una certificaci\u00f3n de Asociado como Especialista de Microsoft Office en varios programas de Office.</p>\\\\n<div class=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de Microsoft Entra Identity Protection",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/mos-excel-2016/?WT.mc_id=api_CatalogApi",
+    "Description": "<div class=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+  },
+  {
+    "Title": "Evaluaci\u00f3n de m\u00f3dulos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/microsoft-office-specialist-expert-m365-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Demuestre que posee las aptitudes avanzadas necesarias para aprovechar Office al m\u00e1ximo obteniendo una certificaci\u00f3n Microsoft Office Specialist: Expert (Microsoft 365 Apps). Esta es la certificaci\u00f3n m\u00e1s alta dentro del programa Microsoft Office Specialist.</p>\\\\n<div class=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de Endpoint Privilege Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/azure-solutions-architect-legacy/?WT.mc_id=api_CatalogApi",
+    "Description": "<div>\\\\n <strong>\\\\n Esta versi\u00f3n de la certificaci\u00f3n ya no est\u00e1 disponible. Si tiene esta versi\u00f3n, se le conceder\u00e1 autom\u00e1ticamente la versi\u00f3n m\u00e1s reciente de la certificaci\u00f3n.<br/><br/> Ambas versiones del certificado se incluir\u00e1n en tus certificaciones. Solo tiene que renovar la versi\u00f3n m\u00e1s reciente. Cuando expire la versi\u00f3n anterior, se trasladar\u00e1 a la secci\u00f3n de historial de certificaciones en tu expediente acad\u00e9mico.<br/><br/></strong></div>\\\\n<p>Los candidatos para la certificaci\u00f3n experto en arquitectos de soluciones de Azure deben tener experiencia en el dise\u00f1o e implementaci\u00f3n de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como proceso, red, almacenamiento y seguridad. Los candidatos deben tener aptitudes de nivel intermedio para administrar Azure. Los candidatos deben comprender los procesos de desarrollo y DevOps de Azure.</p>\\\\n<p>Las responsabilidades de este rol incluyen asesorar a las partes interesadas y traducir los requisitos empresariales en soluciones de nube seguras, escalables y confiables.</p>\\\\n<p>Un arquitecto de soluciones de Azure se asocia con administradores de nube, DBA en la nube y clientes para implementar soluciones.</p>\\\\n<p>Un candidato para esta certificaci\u00f3n debe tener experiencia y conocimientos avanzados sobre las operaciones de TI, incluidas las redes, la virtualizaci\u00f3n, la identidad, la seguridad, la continuidad empresarial, la recuperaci\u00f3n ante desastres, la plataforma de datos, el presupuesto y la gobernanza; este rol debe administrar c\u00f3mo afectan las decisiones en cada \u00e1rea a una soluci\u00f3n global. Adem\u00e1s, este rol debe tener aptitudes de nivel experto en la administraci\u00f3n de Azure y tener experiencia con los procesos de desarrollo y DevOps de Azure.</p>\\\\n",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/mta-badge.svg"
+  },
+  {
+    "Title": "Evaluaci\u00f3n del m\u00f3dulo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/exams/70-767/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Explore Reading Coach, a free tool that uses artificial intelligence and built-in fluency detection to personalize reading content and practice for learners.</p>\\\\n<h3 id=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/certification-exam.svg"
+  },
+  {
+    "Title": "Explorar la clasificaci\u00f3n de datos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/exams/ai-100/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Unlock the power of Microsoft Teams for administrators, educators, and learners. Learn to collaborate, customize, and organize effectively in Microsoft Teams.</p>\\\\n<h3 id=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/certification-exam.svg"
+  },
+  {
+    "Title": "Resumen",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/exams/mb-220/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Today, internet-connected services are everywhere, and as a result, so are threats from spammers, hackers, and cybercriminals. Understanding the basics of cybersecurity is the first step toward preparing for the fundamentals-level security, compliance, and identity course as well as preventing malicious attacks.</p>\\\\n<h3 id=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/certification-exam.svg"
+  },
+  {
+    "Title": "Evaluaci\u00f3n de m\u00f3dulos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/exams/ms-200/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Con Progreso de lectura en Microsoft Teams, los alumnos desarrollan fluidez a trav\u00e9s de la pr\u00e1ctica de lectura independiente, la revisi\u00f3n del educador y las conclusiones del educador. Las grabaciones permiten a los educadores comprobar peri\u00f3dicamente el progreso de los alumnos mientras liberan tiempo para las instrucciones activas.</p>\\\\n",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/certification-exam.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/exams/70-743/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Apply coding knowledge in Python, a text-based programming language, through Minecraft Education to facilitate Python coding in a learning environment with learners.</p>\\\\n<h3 id=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/certification-exam.svg"
+  },
+  {
+    "Title": "Resumen",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/exams/77-881/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>The Microsoft Teams Assignments app brings Learning Accelerators and AI-powered educator productivity to learning management systems (LMSs). LMS admins can set up the Assignments app to bring the power of Teams assignments to educators\u2019 LMS courses. Learn about the prerequisites for organizations to use the Assignments app, how to integrate Teams Assignments with an LTI\u00ae 1.3 Advantage compliant LMS, and next steps as an LMS administrator. (LTI\u00ae is a trademark of the 1EdTech\u00ae Consortium, Inc. (1edtech.org).)</p>\\\\n<h3 id=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/certification-exam.svg"
+  },
+  {
+    "Title": "Evaluaci\u00f3n de m\u00f3dulos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/credentials/certifications/exams/mo-110/?WT.mc_id=api_CatalogApi",
+    "Description": "<p>Highlight for educators the need to use information and communication technologies (ICT) to transform learning experiences and create and design new information and ICT products.</p>\\\\n<h3 id=\\\\",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/media/learn/certification/badges/certification-exam.svg"
+  },
+  {
+    "Title": "Retrace your steps with Recall (preview)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/recall-preview/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn how to use Recall (preview) to find previously viewed content using natural language and timeline browsing. You'll also learn to identify when it\u2019s most useful and how it helps reduce time spent retracing steps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/recall-preview.svg"
+  },
+  {
+    "Title": "Active Directory sites, topology, and replication",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/active-directory-site-replication/?WT.mc_id=api_CatalogApi",
+    "Description": "Design Active Directory site topology and analyze Active Directory replication metadata, including Windows Server 2025 replication priority control.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Secure multi-agent systems with Azure zero-trust architecture",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-secure-multi-agent-systems-azure-zero-trust/?WT.mc_id=api_CatalogApi",
+    "Description": "Secure production multi-agent systems using Azure zero-trust architecture principles. Apply per-agent managed identities with least-privilege access and design authentication flows covering managed identity, on-behalf-of (OBO), user-delegated, and key-based patterns. Manage secrets lifecycle with Azure Key Vault, including rotation and customer-managed keys (CMK) encryption, and design network controls to prevent lateral movement. Implement multitenant data isolation and configure compliance controls for enterprise regulatory requirements.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Design enterprise-scale agent communication with A2A in Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-design-enterprise-agent-communication-a2a/?WT.mc_id=api_CatalogApi",
+    "Description": "Design enterprise-scale agent communication architectures using the A2A protocol in Azure. Implement agent discovery registries with capability-based routing, design shared state management across distributed agent networks, configure context isolation for multitenant deployments, and build conflict detection and resolution mechanisms.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Scale responsible AI governance with Azure AI Content Safety and Microsoft Foundry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-scale-responsible-ai-governance-multi-agent/?WT.mc_id=api_CatalogApi",
+    "Description": "Scale responsible AI governance to enterprise multi-agent systems using Azure AI Content Safety and Microsoft Foundry. Design systematic fairness and bias monitoring for agent decision chains, implement transparency and explainability mechanisms, configure privacy protection, and establish audit trail frameworks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Optimize multi-agent performance and cost in Microsoft Foundry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-optimize-multi-agent-performance-cost-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Optimize multi-agent performance and cost in Microsoft Foundry. Design model routing strategies across agent ecosystems, implement multi-level caching architectures, optimize token usage and context management across agent chains, and systematically analyze quality-cost-latency trade-offs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implement CI/CD pipelines for multi-agent systems with GitHub Actions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-implement-cicd-multi-agent-systems-github-actions/?WT.mc_id=api_CatalogApi",
+    "Description": "Implement enterprise CI/CD pipelines for multi-agent systems using GitHub Actions and Microsoft Foundry. Design coordinated deployment pipelines with agent version compatibility validation, implement canary and blue-green deployment strategies, configure multi-environment strategies, and automate rollback triggered by quality regression metrics.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Build enterprise-grade tool ecosystems with MCP and Microsoft Foundry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-build-enterprise-tool-ecosystems-mcp-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Build enterprise-grade tool ecosystems for production multi-agent systems with the Model Context Protocol (MCP) and Microsoft Foundry. Develop custom MCP servers with authentication, implement dynamic tool selection and routing, build tool result validation with fallback pipelines, and govern tool ecosystems with dependency management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Choose the best Windows 11 edition built for your organization\u2019s needs",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/choose-best-windows-11-edition/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to evaluate Windows 11 Pro and Windows 11 Enterprise using organizational decision criteria such as security requirements, management complexity, operational scale, and governance needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/choose-best-windows-11-edition.svg"
+  },
+  {
+    "Title": "Manage dual volumes in Azure NetApp Files",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-azure-netapp-files-dual-volumes/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create and manage dual-protocol volumes with support for LDAP user mapping in Azure NetApp Files.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Use Microsoft Copilot to administer Azure SQL",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-copilot-administer-azure-sql/?WT.mc_id=api_CatalogApi",
+    "Description": "Use Copilot in Azure SQL Database, GitHub Copilot in SSMS and VS Code, and GitHub Copilot for IaC to work faster as a DBA: diagnose performance issues, author T-SQL, automate deployments, and evaluate every suggestion before applying it.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Get started with Claude in Microsoft Foundry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/claude-in-foundry/?WT.mc_id=api_CatalogApi",
+    "Description": "Anthropic Claude models and Microsoft Foundry create a powerful combination for developing generative AI applications and agents.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Apply task decomposition and agent collaboration strategies in Microsoft Foundry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-apply-task-decomposition-multi-agent-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Apply advanced task decomposition strategies in Microsoft Foundry multi-agent systems. Design prompt chaining workflows, implement LLM-driven adaptive decomposition, configure agent handoff protocols for context-preserving transitions, and balance decomposition granularity against coordination overhead.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implement distributed observability for multi-agent solutions with OpenTelemetry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-implement-distributed-observability-multi-agent-opentelemetry/?WT.mc_id=api_CatalogApi",
+    "Description": "Implement distributed observability infrastructure for production multi-agent AI solutions using OpenTelemetry and Azure Monitor. Design distributed tracing architectures with correlation propagation, implement structured logging for agent decision paths, configure telemetry aggregation, and build anomaly detection for agent behavior patterns.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Design advanced prompting strategies for production AI agents",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-design-advanced-prompt-production-agents/?WT.mc_id=api_CatalogApi",
+    "Description": "Design advanced prompting strategies for production AI agents in Microsoft Foundry. Implement multiturn reasoning architectures with dynamic context injection, build layered prompt injection defenses, design system prompt frameworks with autonomy-level control, design multi-intervention guardrail architectures covering all four attack surfaces, implement prompt versioning and optimization workflows, and design fine-tuning strategies and data preparation pipelines.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Use Live Captions in Windows to better understand audio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/live-captions/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn how Live Captions helps you follow spoken content in real time, making it easier to stay productive and access information in various environments and accessibility scenarios.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/live-captions.svg"
+  },
+  {
+    "Title": "Segment and isolate Azure workloads using network security controls",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/segment-isolate-workloads-network-security-controls/?WT.mc_id=api_CatalogApi",
+    "Description": "Segment Azure workloads to control lateral movement and enforce least-privilege network access. Design and configure Network Security Group (NSG) and Application Security Group (ASG) rules with a security-first approach, enforce organization-wide policies using Azure Virtual Network Manager, and verify effective security posture using Network Watcher diagnostics.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Design stateful agentic loops with Microsoft Foundry Agent Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-design-agentic-loops-azure-ai-agent-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Design production-grade stateful agentic loops with Microsoft Foundry Agent Service. Implement run-status handling and context accumulation, configure agent reflection and planning cycles, architect session state persistence, build fork-based session patterns, and migrate existing Agents v1 workloads to the Agents v2 Responses API.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Debug and respond to production multi-agent incidents in Azure",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-debug-production-multi-agent-incidents-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Debug and respond to production incidents in multi-agent AI solutions in Azure. Implement agent replay capabilities that reproduce complex multi-agent failures, apply structured root cause analysis procedures for multi-agent incident diagnosis, configure automated detection and remediation for common agent failure patterns, and establish incident response and post-mortem processes adapted to the characteristics of AI agent system failures.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Take action on content with Click to Do",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/click-to-do/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn how to use Click to Do in Windows to take action on on-screen content, reduce context switching, and stay productive.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/click-to-do.svg"
+  },
+  {
+    "Title": "Use Azure Databricks Genie in Microsoft Teams and Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-azure-databricks-genie-teams-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to access Azure Databricks Genie Spaces from Microsoft Teams using the Databricks app, and how to build a Copilot Studio agent grounded in a Genie Space. Covers governance, access paths, effective querying, permissions, and agent configuration.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/azure-databricks.svg"
+  },
+  {
+    "Title": "Design evaluation frameworks for multi-agent solutions with Microsoft Foundry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-design-evaluation-frameworks-multi-agent-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Design evaluation frameworks for production multi-agent AI solutions using Microsoft Foundry. Define success metrics for coordination quality and system-level outcomes, implement calibrated LLM-as-judge patterns, design synthetic test datasets for agent collaboration scenarios, and build regression pipelines for behavioral drift detection.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Deliver zero-touch Windows 11 Pro deployments",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/windows-11-zero-touch/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you\u2019ll learn about using zero-touch systems and methodologies to roll out Windows 11 devices across an organization in a fully remote process.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/windows-11-zero-touch.svg"
+  },
+  {
+    "Title": "Secure AI agents with Microsoft Purview data security controls",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/purview-ai-agent-data-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to identify which Microsoft Purview capabilities cover which AI agent types, discover active agents, assess coverage gaps, and configure agent-specific data security and compliance controls.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Design human-in-the-loop approval workflows with Power Automate and Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-design-human-in-loop-approval-workflows/?WT.mc_id=api_CatalogApi",
+    "Description": "Design human-in-the-loop systems for production multi-agent workflows using Power Automate and Microsoft Teams. Implement confidence-threshold escalation architectures, design asynchronous approval workflows for high-stakes agent actions, build human feedback collection and active learning pipelines, and configure audit workflows that provide complete human oversight records for regulated environments.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Enhance video and audio with Windows Studio Effects",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/windows-studio-effects/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn how Windows Studio Effects helps you communicate more clearly by enhancing audio and video, reducing distractions, and applying consistent, AI-powered improvements across your apps and environments.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/windows-studio-effects.svg"
+  },
+  {
+    "Title": "Manage SMB volumes in Azure NetApp Files",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-smb-volumes-azure-netapp-files/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create and manage SMB volumes and how to control access to an SMB volume through permissions. Learn to enable Continuous Availability on existing SMB volumes and use DFS Namespaces with Azure NetApp Files.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Manage capacity pool for Azure NetApp Files",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-capacity-pool-azure-netapp-files/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to create a capacity pool, which enables you to create volumes. Learn ways to manage a QoS capacity pool by setting it up and monitoring throughput. Use tags to help you manage Azure NetApp Files billing and expenses.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Govern the enterprise agent lifecycle in Microsoft Foundry",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-govern-enterprise-agent-lifecycle-azure/?WT.mc_id=api_CatalogApi",
+    "Description": "Govern the enterprise agent lifecycle in Microsoft Foundry. Design agent versioning strategies and approval workflows, implement usage quotas and cost allocation models, establish change management processes for behavioral updates, and design agent retirement workflows that minimize business disruption.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Design multi-agent memory architectures with Azure Cosmos DB",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/aaai-design-multi-agent-memory-azure-cosmos-db/?WT.mc_id=api_CatalogApi",
+    "Description": "Design multi-agent memory architectures for production AI systems using Azure Cosmos DB. Implement semantic memory with vector storage, configure context window optimization strategies, design memory expiration and pruning policies, and build context-aware agent behaviors based on recalled history.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Set up pipeline environments in Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/set-up-pipeline-environments/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up pipeline environments in Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Create a pipeline in Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-pipeline/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explores how you can quickly create a pipeline and automatically deploy a solution in another environment.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/create-pipeline.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) learn to train summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-learn-to-train-summary/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to train clinicians on Microsoft Dragon Copilot. Use a practical trainer checklist and curated support resources that cover Dragon Copilot fundamentals, AI-powered note workflows, and advanced features.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-learn-to-train-summary.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) introduction to practical application exercises",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-welcome-to-practical-applications/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn skills needed to be successful in this course.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-introduction-to-practical-application-exercises.svg"
+  },
+  {
+    "Title": "Edit and finalize dictated reports in PowerScribe One",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-editor-edit-finalize-dictated-reports/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how editors review transcribed text, work with structured fields, and send reports forward for finalization in PowerScribe One.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-editor-edit-finalize-dictated-reports.svg"
+  },
+  {
+    "Title": "Basic reporting in PowerScribe One for attendings",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-attendings-basic-reporting/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn the fundamentals of PowerScribe One reporting for attendings, from dictation through review and finalization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-attendings-basic-reporting.svg"
+  },
+  {
+    "Title": "Welcome to Dragon Copilot for nurse leaders",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurse-leaders-welcome/?WT.mc_id=api_CatalogApi",
+    "Description": "This module clarifies your role in supporting adoption, helps you assess your readiness to lead during go-live, and validates fundamental knowledge.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurse-leaders-welcome.svg"
+  },
+  {
+    "Title": "Configure settings for Volunteer Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-volunteer-management-settings/?WT.mc_id=api_CatalogApi",
+    "Description": "Set up qualification types, onboarding templates, and preference types in the Volunteer Management app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/configure-volunteer-management-settings.svg"
+  },
+  {
+    "Title": "Welcome to Dragon Copilot (nurses) learn to train",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-learn-to-train-welcome/?WT.mc_id=api_CatalogApi",
+    "Description": "This module prepares you to understand your role, assess readiness, and build the foundation needed to support the adoption of Dragon Copilot (nurses).",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-learn-to-train-welcome.svg"
+  },
+  {
+    "Title": "Water and waste sustainability overview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-water-waste-overview/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about water and waste sustainability in Microsoft Sustainability Manager.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-water-waste-overview.svg"
+  },
+  {
+    "Title": "AutoText efficiency tools in PowerScribe One",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-autotext-efficiency-tool/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use AutoText efficiency tools in PowerScribe One during reporting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-autotext-efficiency-tools.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) how to train basics",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-how-to-train-basics/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to train Dragon Copilot (physicians) basics. Explore navigation, ambient recording, dictation, library items, and multilingual encounters for clinical documentation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-how-to-train-basics.svg"
+  },
+  {
+    "Title": "Microsoft for Sovereignty overview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sovereignty-overview/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how Microsoft for Sovereignty creates software boundaries in the cloud to establish the extra protection that public sector organizations require.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sovereignty-overview.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) create prompts",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-create-prompts/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore best practices for effective prompting. Complete hands-on exercises to build AI-powered prompts in the Dragon Copilot (physicians) library that generate patient instructions, edit documentation, and automate clinical tasks.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-create-prompts.svg"
+  },
+  {
+    "Title": "Basic reporting in PowerScribe One for residents",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-resident-basic-reporting/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn the fundamentals of PowerScribe One reporting for residents, from dictation and review to routing reports for attending signature.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-resident-basic-reporting.svg"
+  },
+  {
+    "Title": "Resident learning and feedback tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-resident-learning-feedback-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to review attending feedback in PowerScribe One, apply it to reporting, and improve your resident documentation skills.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-resident-learning-feedback-tools.svg"
+  },
+  {
+    "Title": "Manage gift batches, receipts, and refunds in Microsoft for Nonprofits",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-gift-batches-receipts-refunds/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how to manage gifts in Fundraising and Engagement, including processing gift batches, receipts, refunds, and write-offs in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-gift-batches-receipts-refunds.svg"
+  },
+  {
+    "Title": "AutoText foundations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-autotext-foundations/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn AutoText fundamentals in PowerScribe One for efficient, consistent radiology reporting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-autotext-foundations.svg"
+  },
+  {
+    "Title": "Set up a water sustainability solution by using Microsoft Sustainability Manager",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-water-solution/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up a water sustainability solution by using Microsoft Sustainability Manager.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-water-solution.svg"
+  },
+  {
+    "Title": "Coach and support advanced use of Dragon Copilot (nurses)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-coach-and-support-advanced-use/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how nurse champions coach peers to use advanced Dragon Copilot features safely, reinforce clinical judgment, and support accurate documentation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-coach-and-support-advanced-use.svg"
+  },
+  {
+    "Title": "Understand the nurse champion role for Dragon Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-welcome-to-nurse-champion/?WT.mc_id=api_CatalogApi",
+    "Description": "Prepare nurse champions to understand their role, build foundational skills in Dragon Copilot (nurses), and support peer adoption.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-welcome-to-nurse-champion.svg"
+  },
+  {
+    "Title": "Support adoption of Dragon Copilot (nurses) as a nurse champion",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-essentials-to-support-adoption/?WT.mc_id=api_CatalogApi",
+    "Description": "Apply nurse champion strategies to support adoption, coach behavior change, and confidently address questions and resistance during rollout.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-essentials-to-support-adoption.svg"
+  },
+  {
+    "Title": "Build reports and review insights",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-insights-reporting/?WT.mc_id=api_CatalogApi",
+    "Description": "This lab provides insights into the emission activity trends in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-insights-reporting.svg"
+  },
+  {
+    "Title": "Microsoft for Manufacturing overview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manufacturing-overview/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about Microsoft for Manufacturing.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manufacturing-overview.svg"
+  },
+  {
+    "Title": "Review resident approved reports",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-review-drafts/?WT.mc_id=api_CatalogApi",
+    "Description": "Route resident reports through the review workflow, provide feedback in PowerScribe One, and finalize reports accurately and efficiently.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-review-drafts.svg"
+  },
+  {
+    "Title": "Dragon Copilot (nurses) troubleshooting",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-troubleshoot-issues/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to diagnose common Dragon Copilot (nurses) issues, coach nurses through safe corrective actions, and report them appropriately.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-troubleshoot-issues.svg"
+  },
+  {
+    "Title": "Dragon Copilot (nurses)- Train and coach advanced functionalities",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-advance-skills/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to explain and coach advanced Dragon Copilot capabilities using the web/desktop/mobile app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-advance-skills.svg"
+  },
+  {
+    "Title": "Access Microsoft Sustainability Manager data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/access-cloud-sustainability/?WT.mc_id=api_CatalogApi",
+    "Description": "Access sustainability data through Microsoft Dataverse API, build an Azure Data Factory pipeline, and query data using Azure Synapse Link in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/access-cloud-sustainability.svg"
+  },
+  {
+    "Title": "Leverage quality reporting tools in PowerScribe One",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-leverage-quality-reporting-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to leverage quality reporting tools and features in PowerScribe One to enhance radiology reporting workflows and improve patient outcomes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-leverage-quality-reporting-tools.svg"
+  },
+  {
+    "Title": "External ESG Reporting in Sustainability Manager",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-external-esg-reporting/?WT.mc_id=api_CatalogApi",
+    "Description": "External ESG Reporting empowers organizations to collaboratively develop voluntary and regulatory disclosure reports in accordance with various standards and frameworks. The inclusion of approval and audit workflows ensures compliance and data accuracy. When you use these capabilities, External ESG Reporting simplifies the reporting process, improves efficiency, and enhances transparency in ESG reporting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/sustainability-external-esg-reporting.svg"
+  },
+  {
+    "Title": "Troubleshoot and support peers using Dragon Copilot (nurses)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-troubleshoot-and-support-peers/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to support nursing staff in troubleshooting common Dragon Copilot issues, guide safe next steps, and escalate when needed.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-troubleshoot-and-support-peers.svg"
+  },
+  {
+    "Title": "Work with Emissions Impact dashboards",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-emissions-impact-dashboards/?WT.mc_id=api_CatalogApi",
+    "Description": "Gain quantitative insights into carbon emissions with Emissions Impact dashboards for Microsoft Cloud services.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-emissions-impact-dashboards.svg"
+  },
+  {
+    "Title": "Microsoft Sustainability Manager Solution Architecture",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-architecture/?WT.mc_id=api_CatalogApi",
+    "Description": "This module describes the solution view, data model and process flow, and extensibility and integration for Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-architecture.svg"
+  },
+  {
+    "Title": "Model and coach core workflows using Dragon Copilot (nurses)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-model-and-coach-core-workflows/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to guide nursing staff through key workflows, including first recordings, review, and transcript use, to support confident Dragon Copilot adoption.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-model-and-coach-core-workflows.svg"
+  },
+  {
+    "Title": "Manage volunteers and groups with Volunteer Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-volunteers-groups/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to manage volunteer details, track participation history, and use groups for efficient volunteer management in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-volunteers-groups.svg"
+  },
+  {
+    "Title": "Azure Policy initiatives",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sovereignty-policy-initiatives/?WT.mc_id=api_CatalogApi",
+    "Description": "Azure Policy initiatives are a collection of Azure policy definitions that are grouped together toward a specific goal or purpose. By consolidating multiple Azure policies into a single item, Azure Policy initiatives allow centralized control and enforcement of configurations across Azure resources.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Extend Sustainability Manager for building complex Scope 3 calculations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-complex-calculations/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how to extend and utilize dynamic calculation capabilities in Sustainability Manager for Scope 3 emissions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/sustainability-complex-calculations.svg"
+  },
+  {
+    "Title": "Dragon Copilot basics for physicians",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-basics-for-physicians/?WT.mc_id=api_CatalogApi",
+    "Description": "Get started with Dragon Copilot for physicians by exploring core AI concepts, workspace navigation, recording sessions, and dictation features.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-basics-for-physicians.svg"
+  },
+  {
+    "Title": "Introduction to the editor role in PowerScribe One",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-introduction-editor-role/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how the PowerScribe One editor role supports the radiology reporting workflow and how to use the Explorer workspace, worklists, and queues to prioritize reports.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-introduction-editor-role.svg"
+  },
+  {
+    "Title": "Ingest emissions activity data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-data-ingestion/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore data ingestion tasks for purchased electricity and emission data using Microsoft Sustainability Manager connectors in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-data-ingestion.svg"
+  },
+  {
+    "Title": "Dragon Copilot - nurse leaders essentials",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurse-leaders-essentials/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover essential skills for nurse leaders to drive Dragon Copilot rollout, from AI concepts to overcoming objections and managing change.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurse-leaders-essentials.svg"
+  },
+  {
+    "Title": "AutoText in daily reporting",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-autotext-daily-reporting/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use AutoText in PowerScribe One to insert reports, complete fill-in fields, identify noncompliant entries, and ensure accurate, consistent reporting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-auto-text-in-daily-reporting.svg"
+  },
+  {
+    "Title": "Microsoft for Sustainability overview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/cloud-sustainability-overview/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about Microsoft for Sustainability, which helps organizations build more enduring IT infrastructures by identifying opportunities to replace tools, systems, and activities with more efficient options.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/cloud-sustainability-overview.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) troubleshooting",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-troubleshooting/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to support clinicians by identifying Dragon Copilot problems, guiding resolution, and reinforcing documentation best practices.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-troubleshooting.svg"
+  },
+  {
+    "Title": "Configure settings for Fundraising and Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-settings-fundraising-engagement/?WT.mc_id=api_CatalogApi",
+    "Description": "Configure settings in Fundraising and Engagement for efficient tracking and segmentation, including giving levels, preferences, and objectives in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/configure-settings-fundraising-engagement.svg"
+  },
+  {
+    "Title": "Connect with volunteers using Volunteer Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/connect-volunteer-engagement/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore and manage volunteer opportunities with the Volunteer Engagement module. Update profiles, apply for roles, and track participation in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/connect-volunteer-engagement.svg"
+  },
+  {
+    "Title": "Moves management to raise major gifts with Fundraising and Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/moves-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Track and manage major gifts with a fundraising dashboard. Learn how to view gifts received, manage moves, and generate funding reports in Microsoft Cloud for Nonprofit.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/moves-management.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) how to train enhanced skills",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-how-to-train-enhanced-skills/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to train Dragon Copilot (physicians) enhanced skills, including vocabulary, texts, workflows, prompts, and customizable templates.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-how-to-train-enhanced-skills.svg"
+  },
+  {
+    "Title": "Overview of Microsoft for Retail",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/retail-cloud-overview/?WT.mc_id=api_CatalogApi",
+    "Description": "Gain an overview of the capabilities and solutions offered by Microsoft for Retail.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/retail-cloud-overview.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) practical application exercises summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-practical-applications-summary/?WT.mc_id=api_CatalogApi",
+    "Description": "Review resources for vocabulary, texts, workflows, prompts, and customizable templates to enhance clinical documentation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-practical-application-exercises-summary.svg"
+  },
+  {
+    "Title": "Add structured automation to agents in Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-studio-structured-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to add structured automation to Copilot Studio agents by using workflows as tools at the agent and topic levels.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/copilot-module.svg"
+  },
+  {
+    "Title": "Dragon Copilot (nurses) learn to train summary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-learn-to-train-summary/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover what makes a successful Dragon trainer for nurses, evaluate your readiness, and explore resources to confidently lead training sessions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-learn-to-train-summary.svg"
+  },
+  {
+    "Title": "Enhance productivity with Power Automate and the Office 365 Outlook Connector",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/enhance-productivity/?WT.mc_id=api_CatalogApi",
+    "Description": "Emails and calendars are fundamental to modern workplace productivity, and the Office 365 Outlook Connector in Power Automate helps supercharge the way that you manage them. Whether it's sending dynamic emails with attachments, automating meeting requests, or tracking email activity, this connector allows you to streamline and optimize your communication and scheduling tasks. Instead of spending time on repetitive, manual processes, you can create efficient, automated workflows that keep your email and calendar working for you.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/enhance-productivity.svg"
+  },
+  {
+    "Title": "Manage designations and campaigns in Fundraising and Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/nonprofit-designations/?WT.mc_id=api_CatalogApi",
+    "Description": "Understand how designations allocate funds and the hierarchy of campaigns, appeals, and packages in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/nonprofit-designations.svg"
+  }
+]
