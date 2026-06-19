@@ -87,7 +87,7 @@ const CourseCard = ({ course }) => {
               <div className="md:w-1/2 p-6 md:p-12 flex flex-col justify-center">
                 <div className="flex flex-wrap items-center gap-2 mb-6">
                   <span className="bg-yellow-600 text-black px-3 py-1 text-[10px] font-black uppercase tracking-widest">{category}</span>
-                  <span className="text-zinc-500 font-mono text-[9px] border border-white/10 px-2 py-1 uppercase tracking-tighter">PROTOCOLO LCA v6.7</span>
+                  <span className="text-zinc-500 font-mono text-[9px] border border-white/10 px-2 py-1 uppercase tracking-tighter">PROTOCOLO LCA v9.0</span>
                 </div>
                 <h2 className="text-3xl md:text-5xl font-black text-white mb-8 leading-[0.9] tracking-tighter uppercase break-words">{title}</h2>
                 <div className="space-y-8 mb-12">
@@ -101,7 +101,7 @@ const CourseCard = ({ course }) => {
                   </div>
                 </div>
                 <div className="mt-auto pt-8 border-t border-white/5 space-y-4 text-center">
-                  <a href={link} target="_blank" rel="noopener noreferrer" className="block w-full bg-white text-black text-center py-5 font-black uppercase tracking-[0.3em] hover:bg-yellow-600 transition-all text-xs">Abrir Archivo del Curso</a>
+                  <a href={link} target="_blank" rel="noopener noreferrer" className="block w-full bg-white text-black text-center py-5 font-black uppercase tracking-[0.3em] hover:bg-yellow-600 transition-all text-xs">Abrir el curso</a>
                   <p className="text-[8px] text-zinc-700 font-mono text-center tracking-[0.4em] uppercase">CURSIN.PRO // 2026</p>
                 </div>
               </div>
