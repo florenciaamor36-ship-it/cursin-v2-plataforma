@@ -10,10 +10,10 @@ const Home = () => {
   const [chunkIndex, setChunkIndex] = useState(1);
   const [hasMoreChunks, setHasMoreChunks] = useState(true);
 
-  // Fetch a chunk of courses
   const fetchChunk = async (index) => {
     try {
-      const response = await fetch(`/data/courses_${index}.json`);
+      // Usamos ruta relativa para que funcione en GitHub Pages
+      const response = await fetch(`data/courses_${index}.json`);
       if (!response.ok) {
         setHasMoreChunks(false);
         return;
@@ -27,27 +27,31 @@ const Home = () => {
     }
   };
 
-  // Initial load
   useEffect(() => {
     const init = async () => {
       await fetchChunk(1);
-      setTimeout(() => setLoading(false), 1500);
+      // Pequeño delay para el efecto de carga
+      setTimeout(() => setLoading(false), 800);
     };
     init();
   }, []);
 
   const categories = ['All', 'Programación', 'IA', 'Marketing', 'Diseño', 'Negocios'];
-  
+
   const filteredCourses = useMemo(() => {
+    if (!allCourses) return [];
     return allCourses.filter(course => {
       const title = (course.title || course.Title || '').toLowerCase();
       const matchesSearch = title.includes(searchQuery.toLowerCase());
-      const matchesCategory = selectedCategory === 'All' || (course.category === selectedCategory || course.Category === selectedCategory);
+      const matchesCategory = selectedCategory === 'All' || 
+                             (course.category === selectedCategory || course.Category === selectedCategory);
       return matchesSearch && matchesCategory;
     });
   }, [searchQuery, selectedCategory, allCourses]);
 
-  const displayedCourses = filteredCourses.slice(0, visibleCount);
+  const displayedCourses = useMemo(() => {
+    return filteredCourses.slice(0, visibleCount);
+  }, [filteredCourses, visibleCount]);
 
   const handleLoadMore = async () => {
     if (visibleCount + 100 <= filteredCourses.length) {
@@ -63,7 +67,9 @@ const Home = () => {
   if (loading && allCourses.length === 0) {
     return (
       <div className="min-h-screen bg-black flex items-center justify-center">
-        <div className="text-yellow-600 font-mono tracking-[0.5em] animate-pulse">CARGANDO SISTEMA...</div>
+        <div className="text-yellow-600 font-mono tracking-[0.5em] animate-pulse uppercase text-xs">
+          Accediendo al Repositorio...
+        </div>
       </div>
     );
   }
@@ -74,8 +80,8 @@ const Home = () => {
         <div className="container mx-auto px-6 py-24 relative z-10">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-12">
             <div className="max-w-3xl">
-              <div className="inline-block bg-yellow-600 text-black px-3 py-1 text-[10px] font-black tracking-[0.3em] uppercase mb-8 shadow-xl shadow-yellow-600/20">
-                Protocolo de Acceso V2
+              <div className="inline-block bg-yellow-600 text-black px-3 py-1 text-[10px] font-black tracking-[0.3em] uppercase mb-8">
+                LCA Protocol v2.0
               </div>
               <h1 className="text-7xl md:text-9xl font-black tracking-tighter leading-[0.8] mb-10">
                 CURSIN<span className="text-yellow-600">.</span>PRO
@@ -84,24 +90,27 @@ const Home = () => {
                 Repositorio masivo de conocimiento certificado. Acceso total a redes de aprendizaje global.
               </p>
             </div>
-            
+
             <div className="flex flex-col gap-4 w-full md:w-80">
-               <p className="text-[10px] font-mono text-zinc-600 uppercase tracking-widest">Filtrar por categoría</p>
-               <div className="flex flex-wrap gap-2">
-                  {categories.map(cat => (
-                    <button 
-                      key={cat}
-                      onClick={() => setSelectedCategory(cat)}
-                      className={`px-4 py-2 text-[10px] font-bold uppercase tracking-widest transition-all ${
-                        selectedCategory === cat 
-                        ? 'bg-white text-black shadow-lg shadow-white/10' 
+              <p className="text-[10px] font-mono text-zinc-600 uppercase tracking-widest">Filtrar Archivos</p>
+              <div className="flex flex-wrap gap-2">
+                {categories.map(cat => (
+                  <button
+                    key={cat}
+                    onClick={() => {
+                      setSelectedCategory(cat);
+                      setVisibleCount(100);
+                    }}
+                    className={`px-4 py-2 text-[10px] font-bold uppercase tracking-widest transition-all ${
+                      selectedCategory === cat
+                        ? 'bg-white text-black'
                         : 'bg-zinc-900 text-zinc-500 border border-white/5 hover:border-white/20'
-                      }`}
-                    >
-                      {cat}
-                    </button>
-                  ))}
-               </div>
+                    }`}
+                  >
+                    {cat}
+                  </button>
+                ))}
+              </div>
             </div>
           </div>
         </div>
@@ -109,45 +118,42 @@ const Home = () => {
 
       <div className="bg-zinc-950 sticky top-0 z-50 border-b border-white/5 backdrop-blur-xl bg-black/80">
         <div className="container mx-auto px-6 py-8">
-          <div className="relative group">
-            <input 
-              type="text" 
-              placeholder="BUSCAR EN EL ARCHIVO..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full bg-transparent border-b-2 border-zinc-800 py-6 text-2xl md:text-4xl font-black uppercase tracking-tighter focus:outline-none focus:border-yellow-600 transition-colors placeholder:text-zinc-900 group-hover:border-zinc-700"
-            />
-            <div className="absolute right-0 bottom-6 text-zinc-800 font-mono text-xs hidden md:block">
-              SEARCH_INIT // {filteredCourses.length} RESULTADOS
-            </div>
-          </div>
+          <input
+            type="text"
+            placeholder="BUSCAR EN EL REPOSITORIO..."
+            value={searchQuery}
+            onChange={(e) => {
+              setSearchQuery(e.target.value);
+              setVisibleCount(100);
+            }}
+            className="w-full bg-transparent border-b-2 border-zinc-800 py-6 text-2xl md:text-4xl font-black uppercase tracking-tighter focus:outline-none focus:border-yellow-600 transition-colors placeholder:text-zinc-900"
+          />
         </div>
       </div>
 
       <div className="container mx-auto px-6 py-24">
-        <div className="flex items-center justify-between mb-20">
-           <div className="flex items-center gap-6">
-              <div className="h-[1px] w-20 bg-yellow-600"></div>
-              <h2 className="text-6xl font-black tracking-tighter uppercase">ARCHIVOS ABIERTOS</h2>
-           </div>
+        <div className="flex items-center gap-6 mb-20">
+          <div className="h-[1px] w-20 bg-yellow-600"></div>
+          <h2 className="text-6xl font-black tracking-tighter uppercase">Archivos Desbloqueados</h2>
         </div>
+
         <Courses coursesData={displayedCourses} />
-        
+
         {(visibleCount < filteredCourses.length || hasMoreChunks) && (
           <div className="flex justify-center mt-20">
-            <button 
+            <button
               onClick={handleLoadMore}
               disabled={loading}
-              className="btn btn-warning btn-outline rounded-none px-16 font-black tracking-[0.3em] uppercase hover:bg-yellow-600 hover:text-black transition-all shadow-xl shadow-yellow-600/5 disabled:opacity-50"
+              className="btn btn-warning btn-outline rounded-none px-16 font-black tracking-[0.3em] uppercase hover:bg-yellow-600 hover:text-black transition-all shadow-xl disabled:opacity-50"
             >
-              {loading ? 'Cargando...' : 'Cargar más archivos'}
+              {loading ? 'Sincronizando...' : 'Cargar más archivos'}
             </button>
           </div>
         )}
       </div>
 
       <footer className="py-32 bg-zinc-950 border-t border-white/5 text-center">
-        <p className="text-zinc-800 text-[9px] font-mono tracking-[0.8em] uppercase">LCA // EDUCATIONAL PROTOCOL // 2026</p>
+        <p className="text-zinc-800 text-[9px] font-mono tracking-[0.8em] uppercase">LCA // GLOBAL REPOSITORY // 2026</p>
       </footer>
     </div>
   );
