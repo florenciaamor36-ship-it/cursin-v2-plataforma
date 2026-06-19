@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Dragon Copilot (nurses)- How to train and coach basic functionality",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-coach-basic-skills/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to explain and coach the core Dragon Copilot workflow in Epic Rover so Nursing staff can document consistently.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-coach-basic-skills.svg"
+  },
+  {
+    "Title": "Integrate Volunteer Management and Volunteer Engagement with Microsoft for Nonprofits",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/integrate-volunteer-management-engagement-cloud-nonprofit/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover integration of Volunteer Management with Exchange, Outlook, SharePoint, and Fundraising in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/integrate-volunteer-management-engagement-cloud-nonprofit.svg"
+  },
+  {
+    "Title": "Create and manage AutoText in PowerScribe One",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-create-manage-autotext/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create AutoText, configure AutoText settings, search and filter AutoText, and manage your AutoText library.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-create-and-manage-autotext.svg"
+  },
+  {
+    "Title": "Get started with PowerScribe One for resident radiologists",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-resident-get-started/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to launch PowerScribe One, navigate core reporting areas, and utilize cloud speech technology for radiology workflows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-resident-get-started.svg"
+  },
+  {
+    "Title": "Manage memberships in Fundraising and Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-membership-fundraising-engagement/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the importance of memberships in fundraising, understand its management and learn how to set them up in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-membership-fundraising-engagement.svg"
+  },
+  {
+    "Title": "Get started with Volunteer Management and Volunteer Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-volunteer-management-engagement/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the importance of Volunteer Management and Engagement in nonprofits, from opportunity publication to post-engagement activities in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-volunteer-management-engagement.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) create vocabulary",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-create-vocabulary/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn best practices and how to add vocabulary entries in the Dragon Copilot library to improve speech recognition accuracy for medical terms, names, and specialty-specific language.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-create-vocabulary.svg"
+  },
+  {
+    "Title": "Get started with PowerScribe One for attending radiologists",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/powerscribe-one-attending-get-started/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to launch PowerScribe One, navigate core reporting areas, and utilize cloud speech technology for radiology workflows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/powerscribe-one-attending-get-started.svg"
+  },
+  {
+    "Title": "Process gifts in Fundraising and Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/process-gifts/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Fundraising and Engagement, a tool for recording gifts, tracking fundraising efforts, and understanding donor histories in Microsoft Cloud for Nonprofit.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/process-gifts.svg"
+  },
+  {
+    "Title": "Set up a waste sustainability solution by using Microsoft Sustainability Manager",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-waste-solution/?WT.mc_id=api_CatalogApi",
+    "Description": "This module guides you through interactive exercises to set up a waste sustainability solution by using Microsoft Sustainability Manager. In these exercises, you ingest waste quantity data, build reports, and review insights.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-waste-solution.svg"
+  },
+  {
+    "Title": "Manage engagement opportunities with Volunteer Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-engagement-opportunities-volunteer-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up engagement opportunities in Volunteer Management, including adding descriptions, locations, requirements, and schedules within Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-engagement-opportunities-volunteer-management.svg"
+  },
+  {
+    "Title": "Manage constituents in Fundraising and Engagement for Microsoft for Nonprofits",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-constituents-fundraising-engagement/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Fundraising and Engagement, a Microsoft Dynamics 365 feature for nonprofits offering a comprehensive view of donor activities in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-constituents-fundraising-engagement.svg"
+  },
+  {
+    "Title": "Onboard and approve volunteers with Volunteer Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/onboard-approve-volunteer-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to approve applications, onboard volunteers, record attendance, and close engagement opportunities in this module.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/onboard-approve-volunteer-management.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) create texts",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-create-texts/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn best practices for creating and using texts in the Dragon Copilot (physicians) library. Create texts to quickly insert canned content.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-create-texts.svg"
+  },
+  {
+    "Title": "Dragon Copilot (nurses) trainer essentials",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-trainer-essentials/?WT.mc_id=api_CatalogApi",
+    "Description": "Build the core skills you need to explain Dragon Copilot value in nurse-relevant language, coach behavior change, and respond confidently to questions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-trainer-essentials.svg"
+  },
+  {
+    "Title": "Design emission calculations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-emissions-calculation/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore emission calculations, custom factor libraries, and calculation models in Microsoft Sustainability Manager's dynamic module in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-emissions-calculation.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) how to train advanced skills",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-how-to-train-advanced-skills/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to train Dragon Copilot (physicians) advanced skills, including workflow step types, prompts with Information Assist, and personalized customizable templates for clinical documentation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-how-to-train-advanced-skills.svg"
+  },
+  {
+    "Title": "Set up organization and reference data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-setup-organization/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up organization and reference data in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-setup-organization.svg"
+  },
+  {
+    "Title": "Ingest ESG value chain data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-environmental-social-governance-value-solution/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how the ESG value chain solution in Microsoft for Sustainability can help ingest partner data.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-environmental-social-governance-value-solution.svg"
+  },
+  {
+    "Title": "Enhance communication using Power Automate and the Office 365 Users Connector",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/enhance-communication/?WT.mc_id=api_CatalogApi",
+    "Description": "Efficient communication and data access are key to workplace productivity, and the Office 365 Users Connector in Power Automate offers a powerful way to streamline workflows that involve user data. Whether you need to search for users by department, dynamically pull manager details for approval workflows, or customize notifications with user-specific data, this connector simplifies access to Office 365 user information.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/enhance-communication.svg"
+  },
+  {
+    "Title": "Welcome to Dragon Copilot (physicians) learn to train",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-welcome-to-learn-to-train/?WT.mc_id=api_CatalogApi",
+    "Description": "Build skills to successfully train Dragon Copilot (physicians).",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-welcome-to-learn-to-train.svg"
+  },
+  {
+    "Title": "Get started with Fundraising and Engagement in Microsoft for Nonprofits",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-fundraising-engagement/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Fundraising and Engagement's core capabilities for managing donor relationships and automating fundraising processes in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-fundraising-engagement.svg"
+  },
+  {
+    "Title": "Coach care out loud using Dragon Copilot (nurses)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-coach-care-out-loud-as-a-champion/?WT.mc_id=api_CatalogApi",
+    "Description": "Support nursing staff using care out loud by modeling clear language, reinforcing consent and privacy, and guiding safe, consistent documentation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-coach-care-out-loud-as-a-champion.svg"
+  },
+  {
+    "Title": "Extend core capabilities of Microsoft Sustainability Manager",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/extend-cloud-sustainability/?WT.mc_id=api_CatalogApi",
+    "Description": "Expand the capabilities of Sustainability Manager in Microsoft for Sustainability by adding columns to tables and displaying data on forms.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/extend-cloud-sustainability.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) create workflows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-create-workflows/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn best practices for creating workflows in the Dragon Copilot (physicians) library. Create workflows to help automate repetitive, multistep tasks with a single voice command, improving clinical efficiency.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-create-workflows.svg"
+  },
+  {
+    "Title": "Define carbon reduction goals and scorecards",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-goals-scorecard/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set carbon reduction goals and track them by using scorecards in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-goals-scorecard.svg"
+  },
+  {
+    "Title": "Manage events in Fundraising and Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-events-fundraising-engagement/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up and manage events in Fundraising and Engagement, including creating event components and registering attendees in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-events-fundraising-engagement.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) trainer essentials",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-trainer-essentials/?WT.mc_id=api_CatalogApi",
+    "Description": "Effective Dragon Copilot physician training begins with a strong foundation. Explore the core concepts, skills, and strategies every trainer needs to confidently support learners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-trainer-essentials.svg"
+  },
+  {
+    "Title": "Dragon Copilot - nurse leaders adoption and reinforcement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/nurse-leaders-adoption/?WT.mc_id=api_CatalogApi",
+    "Description": "This module equips you with the skills to sustain adoption through clear expectations, reinforcement strategies, and post\u2013go\u2011live leadership behaviors.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/nurse-leaders-adoption.svg"
+  },
+  {
+    "Title": "Gain sustainability insights using Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-insights-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "The Sustainability Insights Copilot in Microsoft Copilot Studio allows you to gain insights and view data about your organization's sustainability goals and progress. You can configure it to the specific needs of your organization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Dragon Copilot (physicians) create customizable templates",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-copilot-create-customizable-templates/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn best practices for creating customizable templates in the Dragon Copilot (physicians) library. Use hands-on exercises to streamline clinical documentation.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-copilot-create-customizable-templates.svg"
+  },
+  {
+    "Title": "Set up your training environment",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-setup-environment/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up your training environment for Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/sustainability-setup-environment.svg"
+  },
+  {
+    "Title": "How to coach care out loud",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dragon-nurses-coach-care-out-loud/?WT.mc_id=api_CatalogApi",
+    "Description": "Coach the nursing staff care out loud approach with confidence by using practical language, practice strategies, and clear consent and privacy guidance.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/dragon-nurses-coach-care-out-loud.svg"
+  },
+  {
+    "Title": "Publish metrics data for audit disclosures using Compliance Manager",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sustainability-audit-disclosures/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to publish metrics data for audit disclosures using Compliance Manager",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Describe warehouse management in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-warehouse-management-dynamics-365/?WT.mc_id=api_CatalogApi",
+    "Description": "This module provides an overview of warehouse management capabilities in Dynamics 365 Supply Chain Management, including layout configuration, inventory tracking, mobile operations, and outbound fulfillment processes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/dynamics-365-supply-chain-management-module.svg"
+  },
+  {
+    "Title": "Configure BOM costing and reporting in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-bill-material-costing-reporting/?WT.mc_id=api_CatalogApi",
+    "Description": "Configuring BOM costing and reporting in Dynamics 365 SCM streamlines cost management by providing accurate tracking of component and production costs, ensuring precise pricing and financial planning. It simplifies inventory management, reduces material waste, and enables efficient production with fewer BOM versions. Automated reporting and validation checks enhance error prevention and decision-making, while improved cost control supports better financial oversight and scalability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/configure-bill-material-costing-reporting.svg"
+  },
+  {
+    "Title": "Describe manufacturing processes in Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-manufacturing-processes-dynamics-365-supply-chain-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to plan, execute, and control production in Dynamics 365 Supply Chain Management by using production types, BOMs, routes, and manufacturing execution.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/explore-manufacturing-strategies-microsoft-dynamics-365-supply.svg"
+  },
+  {
+    "Title": "Compose and send mail in new Outlook for Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/compose-send-mail-new-outlook-windows/?WT.mc_id=api_CatalogApi",
+    "Description": "You learn how to compose emails, handle attachments, and organize your inbox in the Outlook, highlighting the differences from the classic version. Learn how to search email threads and conversations more efficiently, work with shared mailboxes, and manage your emails offline.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/compose-send-mail-new-outlook-windows.svg"
+  },
+  {
+    "Title": "Organize your inbox in new Outlook for Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/organize-your-inbox-new-outlook-windows/?WT.mc_id=api_CatalogApi",
+    "Description": "Unlock the full potential of your inbox with the new Outlook. Learn how to organize your emails, making it easier to find important messages and stay on top of your communications. Learn how to use features like Focused Inbox, pinning messages, and creating categories to streamline your workflow. Additionally, discover advanced search techniques to quickly locate specific emails and conversations. By the end of this module, you are equipped with the tools and knowledge to manage your inbox like a pro.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/email-calendaring-and-productivity-with-office-across-all-devices.svg"
+  },
+  {
+    "Title": "Activate AI with the Microsoft Education AI Toolkit",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/activate-ai-microsoft-education-ai-toolkit/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover the Microsoft Education AI Toolkit for education leaders. Access strategies and tips across five areas to support your AI journey.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/activate-ai-microsoft-education-ai-toolkit.svg"
+  },
+  {
+    "Title": "Extend Microsoft Teams with Learning Management Systems (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/extend-microsoft-teams-learning-management-systems/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to extend Microsoft Teams for Education by integrating it with learning management systems (LMS) to streamline assignments, grading, and classroom workflows. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Minecraft in esports",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-esports/?WT.mc_id=api_CatalogApi",
+    "Description": "Utilize Minecraft Education esports content to host competitions and tournaments for students.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Keep students safe in the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/keep-students-safe-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Equip Minecraft Student Ambassador sponsors with essential guidelines and best practices to ensure student safety at all sponsored events.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/keep-students-safe-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Code Jumper: An inclusive physical coding language",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/code-jumper-inclusive-physical-coding-language/?WT.mc_id=api_CatalogApi",
+    "Description": "Code Jumper is an easy platform to help students, with or without visual impairments, build the necessary coding skills for a modern workplace.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/code-jumper-inclusive-physical-coding-language.svg"
+  },
+  {
+    "Title": "Prepare your child with cybersecurity essentials",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/prepare-child-cybersecurity-essentials/?WT.mc_id=api_CatalogApi",
+    "Description": "Use cybersecurity measures to help protect children online. This module equips parents and guardians with strategies for teaching cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/prepare-child-cybersecurity-essentials.svg"
+  },
+  {
+    "Title": "Explore SOC tools and technologies with Microsoft Security",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-tools-technologies-microsoft-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how SOC teams use tools like SIEM, SOAR, XDR, and AI to detect and respond to cyber threats using Microsoft's unified security platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Understand security operations centers (SOCs) to manage cybersecurity",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/understand-security-operations-centers-manage-cybersecurity/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn what a security operations center (SOC) is, key roles like analysts and threat hunters, and how SOCs detect, respond to, and recover from cyber threats.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Empower Dyslexic Thinking in schools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/empower-dyslexic-thinking-schools/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators and guardians learn best practices, resources, and tools to harness valuable dyslexic thinking skills for a world in increasing need of them.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/empower-dyslexic-thinking-schools.svg"
+  },
+  {
+    "Title": "Transition to Python in Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/transition-python-minecraft-education-edition/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how educators teach Python with Minecraft Education worlds, lessons, and supporting materials.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/transition-python-minecraft-education-edition.svg"
+  },
+  {
+    "Title": "Use Microsoft Teams Assignments in learning management systems",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-microsoft-teams-assignments-learning-management-systems/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to seamlessly integrate Teams Assignments into learning management systems like Blackboard Ultra, D2L Brightspace, Canvas, and Schoology Learning.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Teach cybersecurity concepts with Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/teach-cybersecurity-concepts-minecraft-education/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the full cybersecurity pathway in Minecraft Education to support educators in facilitating cybersecurity education with students.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/teach-cybersecurity-concepts-minecraft-education.svg"
+  },
+  {
+    "Title": "Use Microsoft accessibility features in education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-microsoft-accessibility-features-education/?WT.mc_id=api_CatalogApi",
+    "Description": "Help education customers use Microsoft accessibility tools for vision, hearing, neurodiversity, cognition, and mobility.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Get started with the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Start the journey to build a Minecraft Student Ambassador program or club. Module one in a learning path.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Understand the AI Literacy Framework, in partnership with ISTE+ASCD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/understand-ai-literacy-framework/?WT.mc_id=api_CatalogApi",
+    "Description": "Apply the AILit Framework to school scenarios, identifying decision domains, forming domain-first questions, and using reflection loops to guide safeguards, communication, and responsible AI use.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Grow your Minecraft esports program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/grow-your-minecraft-esports-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Grow your Minecraft Education esports program by setting expectations and creating competitive tournaments.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Guide assessment with Copilot in Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/guide-assessment-copilot-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how Assignments in Teams for Education and Microsoft 365 LTI can help educators set clear expectations and guidelines on AI use by learners and communicate rubric-based feedback more effectively.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Build programs using Python coding in Minecraft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-programs-use-python-coding-minecraft-azure-notebooks/?WT.mc_id=api_CatalogApi",
+    "Description": "Apply coding knowledge in Python, a text-based programming language, through Minecraft Education to facilitate Python coding in the classroom with students.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-programs-use-python-coding-minecraft-azure-notebooks.svg"
+  },
+  {
+    "Title": "Introduction to the Partner Success Series",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduction-partner-success-series/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the Partner Success Series, a training program specifically for education partners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Build Study Guides in Copilot Notebooks",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-study-guides-copilot-notebooks/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how Copilot Notebook Study Guide supports learning mastery using course materials to generate summaries, quizzes, and more interactive activities.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Secure AI in schools with Microsoft Security",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/secure-ai-schools-microsoft-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Guide education customers in securing AI data with Microsoft Security tools, focusing on data loss prevention, sensitivity labels, and Security Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/secure-ai-schools-microsoft-security.svg"
+  },
+  {
+    "Title": "Explore social emotional learning: Mindfulness in Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-social-emotional-learning-mindfulness-minecraft/?WT.mc_id=api_CatalogApi",
+    "Description": "Minecraft Education Mindful Knight World introduces the basics of mindfulness to help students understand the benefits and main concepts.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/explore-social-emotional-learning-mindfulness-minecraft.svg"
+  },
+  {
+    "Title": "Deploy Microsoft 365 for Education with the Microsoft Education Solution Guide (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/deploy-microsoft-education-solution-guide/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the guide\u2019s phases, sections, and delivery sequence, and then map them to your tenant\u2019s licensing to build a practical deployment plan for Microsoft 365 for Education. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Increase educator adoption of Reflect",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/increase-educator-adoption-reflect/?WT.mc_id=api_CatalogApi",
+    "Description": "Teach education customers to provide opportunities for students to reflect on learning so teachers can modify teaching according to students\u2019 needs.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Work with your IT team and the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-with-it-team-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Work with your IT team to secure devices, manage technical support, and ensure device sanitation for your Minecraft Student Ambassadors. Part of a learning path.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/work-with-it-team-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Set up the Teams Assignments LTI\u00ae app in learning management systems",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/set-up-teams-assignments-lti-app-learning-management-systems/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to set up the Teams Assignment LTI app within the learning management systems Canvas and Schoology Learning.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Introduce coding in Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduce-coding-minecraft-education-edition/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how educators may use block-based coding in Minecraft Education to introduce programming to their learners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/introduce-coding-minecraft-education-edition.svg"
+  },
+  {
+    "Title": "School Data Sync for IT Admins (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/school-data-sync-it-admins/?WT.mc_id=api_CatalogApi",
+    "Description": "IT Admins learn how to implement School Data Sync for education customers. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Increase educator adoption of Education Insights",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/increase-educator-adoption-insights/?WT.mc_id=api_CatalogApi",
+    "Description": "This module teaches education partners how to help customers proactively track student experiences with digestible visualizations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Begin Python coding in Minecraft with MakeCode",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/begin-python-coding-minecraft-makecode-azure-notebooks/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators use the basics of Python, a text-based programming language, in Minecraft Education to build out coding knowledge to facilitate Python coding in the classroom",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/begin-python-coding-minecraft-makecode-azure-notebooks.svg"
+  },
+  {
+    "Title": "Meet your ambassadors in the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/meet-ambassadors-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "With thoughtful planning and engaging activities Minecraft Student Ambassadors stay connected and grow as leaders.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/meet-ambassadors-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Design and deliver interactive lessons with Microsoft Learning Zone",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/design-deliver-interactive-lessons-microsoft-learning-zone/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to use Microsoft Learning Zone to create and manage interactive lessons and improve student engagement using embedded activities and immediate feedback.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Recruit students to the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/recruit-students-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Recruit a diverse range of students to ensure the success of your Minecraft Student Ambassador program. Module 3 in a learning path.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/recruit-students-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Build cybersecurity resilience in K-12 classrooms with Microsoft tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-cybersecurity-resilience-k-12-classrooms-microsoft-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "Use CISA's findings to boost school cybersecurity and classroom cyber culture. This module equips classroom educators with strategies for effective cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/build-cybersecurity-resilience-k-12-classrooms-microsoft-tools.svg"
+  },
+  {
+    "Title": "Plan your year in the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/plan-your-year/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to plan for Minecraft Student Ambassador events, build leadership opportunities, and ensure smooth logistics for each aspect of your program.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/plan-your-year.svg"
+  },
+  {
+    "Title": "Boost K-12 school cybersecurity leadership with Microsoft tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/boost-school-cybersecurity-leadership-microsoft-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "Use CISA's findings to boost school cybersecurity, safeguarding staff and students. This module equips leaders with strategies for effective cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/boost-school-cybersecurity-leadership-microsoft-tools.svg"
+  },
+  {
+    "Title": "Build a cybersecurity career with SOC best practices",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-cybersecurity-career-soc-best-practices/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore cybersecurity careers in security operations centers. Learn about key SOC roles, required skills, and best practices to start your path in cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Prompt with purpose, in partnership with ISTE+ASCD",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/prompt-with-purpose/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn to move from improvising prompts in the moment to using a repeatable blueprint to reach for every time.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Host a head-to-head challenge in Minecraft Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/host-head-to-head-challenge-minecraft-esports/?WT.mc_id=api_CatalogApi",
+    "Description": "Encourage quick thinking, adaptability, and problem-solving in your classroom with head-to-head challenges in Minecraft esports.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Implement Microsoft Copilot in your school (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-microsoft-copilot-school-partner-success-series/?WT.mc_id=api_CatalogApi",
+    "Description": "Education systems integrators learn to enable free Copilot Chat and licensed Microsoft 365 Copilot, while ensuring security, compliance, and responsible AI use in schools.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Apply Information Barriers in education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/apply-information-barriers-education/?WT.mc_id=api_CatalogApi",
+    "Description": "This module teaches education partners to configure Microsoft Purview Information Barriers (IB) for unique education needs. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Build secure agents for public sector services",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-secure-agents-public-sector-services/?WT.mc_id=api_CatalogApi",
+    "Description": "Public sector organizations use agentic AI, Copilot, and Azure AI Foundry to automate complex workflows, improve citizen service delivery, and govern AI responsibly.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Work remotely with the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-remotely-minecraft-student-ambassador-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Host multiplayer games, work collaboratively, and keep your Minecraft Student Ambassadors program running smoothly in remote or hybrid settings.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/work-remotely-minecraft-student-ambassador-program.svg"
+  },
+  {
+    "Title": "Implement Microsoft Teams for Education in your school (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-microsoft-teams-education-school/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to install, configure, and deploy Microsoft Teams for Education in a school environment as a systems integrator. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Introduction to Visual Studio Code for Education",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/visual-studio-code-education-introduction/?WT.mc_id=api_CatalogApi",
+    "Description": "Evaluate whether Visual Studio Code for Education is the right tool to introduce your students to coding.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/visual-studio-code-education-introduction.svg"
+  },
+  {
+    "Title": "Establish partnerships and funding for the Minecraft Student Ambassador program",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/establish-partnerships-funding-msa-program/?WT.mc_id=api_CatalogApi",
+    "Description": "Build partnerships and explore ways to secure funding to support the Minecraft Student Ambassador program at your school.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/establish-partnerships-funding-msa-program.svg"
+  },
+  {
+    "Title": "Prepare to teach AP Computer Science Principles with Microsoft MakeCode Arcade",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/prepare-teach-ap-computer-science-principles-microsoft-makecode-arcade/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the College Board's AP Computer Science Principles course and explore the Microsoft MakeCode Arcade curriculum.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Analyze cybersecurity incidents with Security Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/analyze-cybersecurity-incidents-security-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Practice responding to real-world SOC scenarios using Security Copilot and Microsoft security tools that detect, investigate, and mitigate cybersecurity threats.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-copilot-badge.svg"
+  },
+  {
+    "Title": "Increase educator adoption of Reading Progress and Reading Coach",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/increase-educator-adoption-reading-progress-coach/?WT.mc_id=api_CatalogApi",
+    "Description": "Education partners can increase adoption of Reading Progress and Coach in education customers.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Increase educator adoption of search tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/increase-educator-adoption-search-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces Microsoft Search Coach and Search Progress for education partners.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Deploy and manage Agent 365 in education (Partner Success Series)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/deploy-manage-agent-365-education/?WT.mc_id=api_CatalogApi",
+    "Description": "Education system administrators can deploy, configure, and manage AI agents in Microsoft 365 using Agent 365, the control plane for agents. Part of the Partner Success Series.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Build challenges in Minecraft esports",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-challenges-minecraft-esports/?WT.mc_id=api_CatalogApi",
+    "Description": "Esports in Minecraft Education using Build Challenges supports classroom goals.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic.svg"
+  },
+  {
+    "Title": "Teach AP Computer Science Principles with the Microsoft MakeCode curriculum",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/teach-ap-computer-science-principles-makecode/?WT.mc_id=api_CatalogApi",
+    "Description": "Educators learn about the curriculum framework of the AP Computer Science Principles course and how the Microsoft MakeCode curriculum meets the course's curricular goals.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/teach-ap-computer-science-principles-makecode.svg"
+  },
+  {
+    "Title": "Secure K-12 school IT practices and systems with Microsoft tools",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/secure-k-12-school-it-practices-systems-microsoft-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "K-12 IT professionals implement CISA-recommended cybersecurity practices to manage risks, maintain security protocols, and detect and respond to incidents.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/secure-k-12-school-it-practices-systems-microsoft-tools.svg"
+  },
+  {
+    "Title": "Minecraft Connections: Integrate across the curriculum",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/minecraft-connections-integrate-across-curriculum/?WT.mc_id=api_CatalogApi",
+    "Description": "Use Minecraft lesson plans and worlds to blend Minecraft Education into your content for an impactful experience in the classroom.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Explore cybersecurity careers with Minecraft Education-Cyber Defender: Tower Defense",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/cybersecurity-careers-minecraft-education-cyber-defender/?WT.mc_id=api_CatalogApi",
+    "Description": "Introduce cybersecurity through Minecraft Education to learn about the benefits and setbacks of defense strategies, and the basics of cybersecurity.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic.svg"
+  },
+  {
+    "Title": "Experiment with Azure Machine Learning",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/experiment-azure-machine-learning/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to find the best machine learning model with automated machine learning (AutoML), MLflow-tracked notebooks, and the Responsible AI dashboard.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/find-best-classification-model-automated-machine-learning.svg"
+  },
+  {
+    "Title": "Deploy device data protection",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/deploy-device-data-protection/?WT.mc_id=api_CatalogApi",
+    "Description": "This module describes how you can use Intune to create and manage WIP policies that manage this protection. The module also covers implementing BitLocker and Encrypting File System.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Retrace your steps with Recall (preview)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/recall-preview/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you'll learn how to use Recall (preview) to find previously viewed content using natural language and timeline browsing. You'll also learn to identify when it\u2019s most useful and how it helps reduce time spent retracing steps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/recall-preview.svg"
+  },
+  {
+    "Title": "Add decision logic to your code using `if`, `else`, and `else if` statements in C#",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/csharp-if-elseif-else/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to branch your code's execution path by evaluating Boolean expressions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg"
+  },
+  {
+    "Title": "Implement authentication by using the Microsoft Authentication Library",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/?WT.mc_id=api_CatalogApi",
+    "Description": "Implement authentication by using the Microsoft Authentication Library",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/authentication-library.svg"
+  }
+]
