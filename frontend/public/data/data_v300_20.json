@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Uso de Power Automate aplicaci\u00f3n de escritorio para interactuar con windows y aplicaciones",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-ui-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo Power Automate aplicaci\u00f3n de escritorio identifica e interact\u00faa con elementos y ventanas de la interfaz de usuario.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-ui-automation.svg"
+  },
+  {
+    "Title": "Explorar el estudio de dise\u00f1o de Power Pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-pages-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Los creadores de Power Pages pasan la mayor parte de su tiempo compilando sitios en el estudio de dise\u00f1o de Power Pages. Es importante que los creadores comprendan plenamente las capacidades, as\u00ed como las limitaciones del estudio de dise\u00f1o. Este m\u00f3dulo se centra en comprender y usar el estudio de dise\u00f1o para crear y personalizar sitios, incluida la adici\u00f3n y configuraci\u00f3n de p\u00e1ginas, componentes, CSS y formularios, la protecci\u00f3n del sitio con el \u00e1rea de trabajo Seguridad y el uso de Copilot y agentes con tecnolog\u00eda de IA para acelerar el desarrollo del sitio y mejorar la experiencia del visitante.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/power-pages-studio.svg"
+  },
+  {
+    "Title": "Modelo de datos de Microsoft for Healthcare para Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-data-model/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore el modelo de datos de Microsoft Cloud for Healthcare, basado en los est\u00e1ndares fast Healthcare Interoperability Resources (FHIR).",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/healthcare-data-model.svg"
+  },
+  {
+    "Title": "Gestionar proyectos de miner\u00eda de procesos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-process-mining/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a gestionar proyectos de miner\u00eda de procesos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/manage-process-mining.svg"
+  },
+  {
+    "Title": "Tomar medidas a partir de conversaciones del agente mediante temas y herramientas en Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/take-action-agent-topics-tools-flows-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo ampliar los temas del agente en Microsoft Copilot Studio para tomar medidas en sistemas externos. En este m\u00f3dulo se tratan las herramientas de llamada y los flujos de agente desde un tema, la configuraci\u00f3n de nodos de solicitud HTTP para la integraci\u00f3n de la API REST y el control de entradas, salidas y errores en los tres patrones de integraci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implementar soluciones de datos de atenci\u00f3n sanitaria en Microsoft Fabric e ingerir datos de ejemplo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-sample-data-ingestion/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo implementar soluciones de datos sanitarios en Microsoft Fabric e ingerir datos de ejemplo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/healthcare-sample-data-ingestion.svg"
+  },
+  {
+    "Title": "Obtener datos en Power BI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprender\u00e1 a recuperar datos de una variedad de or\u00edgenes de datos, como Microsoft Excel, bases de datos relacionales y almacenes de datos NoSQL. Tambi\u00e9n aprender\u00e1 a mejorar el rendimiento al recuperar datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-data.svg"
+  },
+  {
+    "Title": "Explorar datos de estudio de dise\u00f1o y caracter\u00edsticas de seguridad de Power Pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-pages-studio-data-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Los creadores de Power Pages pasan la mayor parte de su tiempo compilando sitios en el estudio de dise\u00f1o de Power Pages. Es importante que los creadores entiendan las capacidades del estudio de dise\u00f1o, as\u00ed como sus limitaciones. El estudio de dise\u00f1o de Power Pages tambi\u00e9n incluye un espacio de trabajo de datos para crear y administrar datos empresariales y configurar un espacio de trabajo para establecer el comportamiento y la seguridad del sitio. Este m\u00f3dulo se centrar\u00e1 en el uso del estudio de dise\u00f1o para crear p\u00e1ginas seguras basadas en datos de Dataverse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/power-pages-studio-data-security.svg"
+  },
+  {
+    "Title": "Conceptos avanzados de la barra de comandos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/command-bar-advanced/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore t\u00e9cnicas avanzadas de personalizaci\u00f3n para barras de comandos en aplicaciones basadas en modelo de Power Apps, lo que incluye la implementaci\u00f3n de JavaScript y las caracter\u00edsticas de autoguardado.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/command-bar-advanced.svg"
+  },
+  {
+    "Title": "Desplegar e implementar transformaciones de datos de reclamaciones de CMS",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-claims-transformations/?WT.mc_id=api_CatalogApi",
+    "Description": "Con las transformaciones de datos de reclamaciones de CMS, puede ingerir, almacenar y analizar los datos de reclamaciones en el formato de Reclamaci\u00f3n y Fuente de L\u00ednea de Reclamaci\u00f3n (CCLF) de los Centros de Servicios de Medicare y Medicaid (CMS). Las transformaciones de datos de reclamaciones de CMS son una capacidad opcional de las soluciones de datos de atenci\u00f3n sanitaria en Microsoft Fabric. En este m\u00f3dulo, obtendr\u00e1 informaci\u00f3n sobre las funcionalidades de transformaciones de datos de notificaciones de CMS que est\u00e1n disponibles en soluciones de datos sanitarios en Fabric. En este m\u00f3dulo se explica c\u00f3mo configurar y ejecutar los cuadernos para transformar los datos sanitarios del formato CCLF y, a continuaci\u00f3n, ingerirlos en Fabric Lakehouse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/healthcare-claims-transformations.svg"
+  },
+  {
+    "Title": "Construir el primer modelo de datos y explorar los datos mediante Power BI. Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-your-first-data-model/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo crea por primera vez un modelo de datos Power BI. A continuaci\u00f3n, utiliza tu primer modelo de datos para explorar datos, crear relaciones, a\u00f1adir visualizaciones de datos, agrupar y clasificar datos y crear una tabla de fechas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Realizar acciones comunes con el script de cliente en Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/actions-client-script-power-platform/?WT.mc_id=api_CatalogApi",
+    "Description": "El objetivo de este m\u00f3dulo es revisar c\u00f3mo realizar los procedimientos comunes de automatizaci\u00f3n de la experiencia del usuario a trav\u00e9s del script de cliente. Este m\u00f3dulo est\u00e1 destinado a servir como una gu\u00eda pr\u00e1ctica para resolver escenarios del mundo real que se encuentran con frecuencia durante las implementaciones de Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/actions-client-script-power-platform.svg"
+  },
+  {
+    "Title": "Integrar con flujos de nube - Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/integrate-cloud-flows-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a integrar con flujos de nube.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/integrate-cloud-flows-online-workshop.svg"
+  },
+  {
+    "Title": "Publicar informes y acceder a estos en el servicio Power BI. Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/publish-access-reports/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubre c\u00f3mo usar Power BI para crear una vista m\u00f3vil, publicar un informe, crear un panel y utilizar narraciones con Power BI en PowerPoint.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/publish-access-reports.svg"
+  },
+  {
+    "Title": "Procesar recibos con AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ai-builder-receipt-processing/?WT.mc_id=api_CatalogApi",
+    "Description": "Conozca los aspectos b\u00e1sicos del procesamiento de recibos en AI Builder y c\u00f3mo este puede beneficiar a su organizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/ai-builder-receipt-processing.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a las aplicaciones de lienzo de Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-with-powerapps/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo Power Apps puede hacer que su negocio sea m\u00e1s eficiente y agilizar sus procesos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-with-powerapps.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a los conceptos de seguridad en Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-security-concepts/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo comenzar con los conceptos de seguridad en Microsoft Dataverse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/get-started-security-concepts.svg"
+  },
+  {
+    "Title": "Identificar frases clave con AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-with-ai-builder-key-phrase-extraction/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra el modelo de extracci\u00f3n de frases clave de AI Builder y c\u00f3mo usarlo con otros productos de Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-with-key-phrase-extraction.svg"
+  },
+  {
+    "Title": "Usar las funciones de inteligencia de tiempo de DAX en modelos sem\u00e1nticos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dax-power-bi-time-intelligence/?WT.mc_id=api_CatalogApi",
+    "Description": "Con las funciones de inteligencia de tiempo DAX de Power BI, los usuarios pueden analizar y comparar datos en distintos periodos de tiempo, lo que facilita la elaboraci\u00f3n de informes detallados sobre tendencias, crecimiento y rendimiento a lo largo del tiempo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/use-dax-power-bi-desktop.svg"
+  },
+  {
+    "Title": "Automatizar el procesamiento de documentos con la soluci\u00f3n preempaquetada de AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-ai-builder-document-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra las ventajas de la automatizaci\u00f3n de documentos y c\u00f3mo puede optimizar su flujo de trabajo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-ai-builder-document-automation.svg"
+  },
+  {
+    "Title": "Crear su primera aplicaci\u00f3n con Power Apps y Dataverse for Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-app-dataverse-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a desarrollar una aplicaci\u00f3n con Microsoft Dataverse for Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-app-dataverse-teams.svg"
+  },
+  {
+    "Title": "Personalizar la barra de comandos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/command-bar-customize/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a personalizar la barra de comandos en Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/command-bar-customize.svg"
+  },
+  {
+    "Title": "Dise\u00f1o del sitio en el espacio de trabajo de Power Pages: Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-pages-workspace-site-design-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga m\u00e1s informaci\u00f3n acerca del dise\u00f1o del sitio en el espacio de trabajo de Power Pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/power-pages-workspace-site-design-online-workshop.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-with-ai-builder/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo autodirigido le ayuda a crear un modelo de IA desde cero y muestra c\u00f3mo usarlo en su empresa sin necesidad de escribir una sola l\u00ednea de c\u00f3digo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-with-ai-builder.svg"
+  },
+  {
+    "Title": "Usar la generaci\u00f3n de texto en AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ai-builder-text-generation/?WT.mc_id=api_CatalogApi",
+    "Description": "Pruebe una plantilla y escriba sus propias instrucciones con generaci\u00f3n de texto en AI Builder.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/ai-builder-text-generation.svg"
+  },
+  {
+    "Title": "Uso de jerarqu\u00edas y DAX en tu primer modelo de datos. Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-hierarchies-dax-first-data-model/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se a\u00f1aden por primera vez medidas a un modelo de datos Power BI. Utiliza jerarqu\u00edas, objetos visuales matriciales y DAX en tu modelo de datos para explorar m\u00e1s en profundidad los datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/use-hierarchies-dax-first-data-model.svg"
+  },
+  {
+    "Title": "Ampliar el modelo de datos de Healthcare en Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-extend-data-model/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo explora c\u00f3mo puede ampliar el modelo de datos de asistencia sanitaria en Dataverse. Abarca un conocimiento detallado de c\u00f3mo agregar un nuevo conjunto de tablas en funci\u00f3n de un recurso de FHIR seleccionado. Revisar\u00e1 la especificaci\u00f3n de recursos de FHIR y las convenciones antes de crear un modelo relacional basado en la especificaci\u00f3n de FHIR. Adem\u00e1s, los ejercicios pr\u00e1cticos de este m\u00f3dulo le ayudar\u00e1n a agregar nuevas tablas y ampliar el modelo de datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Dise\u00f1ar una aplicaci\u00f3n como un profesional",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/design-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo dise\u00f1ar una aplicaci\u00f3n basada en un problema identificado.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/design-app.svg"
+  },
+  {
+    "Title": "Uso del Centro de administraci\u00f3n para administrar entornos y directivas de datos en Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/administer-flows/?WT.mc_id=api_CatalogApi",
+    "Description": "Los administradores de inquilinos y entornos usan el Centro de administraci\u00f3n de Power Automate para administrar directivas de datos y entornos para implementaciones de Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/administer-flows.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-flows/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear flujos simples para hacer su vida m\u00e1s f\u00e1cil.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-with-flow.svg"
+  },
+  {
+    "Title": "Importar y exportar soluciones con flujos de nube",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/import-export-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra los conceptos b\u00e1sicos del uso de soluciones con flujos de nube, lo que incluye opciones manuales y automatizadas, beneficios y procedimientos de importaci\u00f3n/exportaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/import-export-solutions.svg"
+  },
+  {
+    "Title": "Informaci\u00f3n general sobre conectores HTTP en Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/http-connectors/?WT.mc_id=api_CatalogApi",
+    "Description": "Interactuar directamente con los datos mediante solicitudes web con conectores HTTP en flujos de Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/http-connectors.svg"
+  },
+  {
+    "Title": "Proyecto guiado: Crear y administrar aplicaciones basadas en modelo con Power Apps y Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/guided-project-create-manage-model-driven-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, practicar\u00e1 la creaci\u00f3n de aplicaciones basadas en modelo utilizando Microsoft Power Apps. Algunas de las habilidades que validar\u00e1 son la creaci\u00f3n de tablas de Dataverse, la modificaci\u00f3n de formularios y vistas y la configuraci\u00f3n de una aplicaci\u00f3n basada en modelo. El escenario de esta experiencia representa los desaf\u00edos reales que afrontan las personas que crean aplicaciones basadas en modelo y que tienen experiencia en sectores espec\u00edficos. El laboratorio combina aprendizaje y pr\u00e1ctica.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Microsoft Dataverse for Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-dataverse-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo presenta Microsoft Dataverse for Teams y c\u00f3mo puede crear aplicaciones, flujos de trabajo, bots de chat y paneles en \u00e9l. Aprender\u00e1 a aprovisionar Dataverse for Teams y luego crear una tabla para sus datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-dataverse-teams.svg"
+  },
+  {
+    "Title": "Resumen del taller sobre el kit de aprobaciones en Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/approvals-kit-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Ahorre tiempo y esfuerzo utilizando el kit de aprobaciones sin c\u00f3digo en Power Automate para modelar y automatizar sus procesos de aprobaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/approvals-kit-workshop.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a las integraciones de pago en Power Pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-payment-integrations/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a integrar las soluciones de pago seguras de Stripe en sitios web de Microsoft Power Pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-payment-integrations.svg"
+  },
+  {
+    "Title": "Serie Arquitecto de soluciones: Implementar gobernanza de proyectos como arquitecto de soluciones de Power Platform y Dynamics 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/project-governannce/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga m\u00e1s informaci\u00f3n sobre la gobernanza del proyecto como arquitecto de soluciones.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/project-governance.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-virtual-agents-bots/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo descubrir\u00e1 conceptos clave para crear un agente b\u00e1sico de Microsoft Copilot Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/power-virtual-agent-bots.svg"
+  },
+  {
+    "Title": "Serie Arquitecto de soluciones: explorar la arquitectura de Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-platform-architecture/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore el papel de los arquitectos de soluciones en el dise\u00f1o de soluciones basadas en Power Platform, con un \u00e9nfasis especial en comprender la arquitectura.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/power-platform-architecture.svg"
+  },
+  {
+    "Title": "Comunicarse mediante cuadros de mensaje en los flujos de Power Automate para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-message-boxes/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, veremos el uso de cuadros de mensaje en flujos automatizados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-message-boxes.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Microsoft Power Platform para creadores de aplicaciones",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-power-platform-app-makers/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo dar los primeros pasos con Microsoft Power Platform para creadores de aplicaciones.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/get-started-power-platform-app-makers.svg"
+  },
+  {
+    "Title": "Uso de plantillas para aplicar directivas de gobernanza en Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/templates-governance-policies/?WT.mc_id=api_CatalogApi",
+    "Description": "Informaci\u00f3n sobre en Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/templates-governance-policies.svg"
+  },
+  {
+    "Title": "Usar c\u00f3digo personalizado en conectores personalizados para Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/custom-code-connectors/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga m\u00e1s informaci\u00f3n sobre el c\u00f3digo personalizado en conectores personalizados para Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/custom-code-connectors.svg"
+  },
+  {
+    "Title": "Gobernanza para miner\u00eda de procesos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/governance-process-mining/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra la gobernanza para la miner\u00eda de procesos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/governance-process-mining.svg"
+  },
+  {
+    "Title": "Importar im\u00e1genes personalizadas y agregar marcadores a un informe en Power BI. Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/import-custom-visuals/?WT.mc_id=api_CatalogApi",
+    "Description": "Sigue los ejercicios para aprender a importar objetos visuales personalizados y a\u00f1adir marcadores a un informe.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/import-custom-visuals.svg"
+  },
+  {
+    "Title": "Administrar agentes en Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-power-virtual-agents/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo examina los componentes disponibles para gestionar y administrar agentes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/implement-power-virtual-agents.svg"
+  },
+  {
+    "Title": "Usar herramientas de desarrollo para ampliar Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/developer-tools-extend/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo se centrar\u00e1 en las herramientas de desarrollo disponibles que le pueden ayudar a realizar actividades de desarrollo con Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/developer-tools-extend.svg"
+  },
+  {
+    "Title": "Automatizar acciones del sistema, la estaci\u00f3n de trabajo y los servicios en Power Automate para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-system-services-actions/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las acciones del sistema, la estaci\u00f3n de trabajo y los servicios en Power Automate para escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-system-services-actions.svg"
+  },
+  {
+    "Title": "Supervisi\u00f3n y administraci\u00f3n de agentes con Microsoft Agent 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/agent-365-monitor-manage/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a supervisar mediante visibilidad en tiempo real de todos los agentes para detectar la proliferaci\u00f3n y comprender el uso.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/agent-365-monitor-manage.svg"
+  },
+  {
+    "Title": "Explorar Dynamics 365 Contact Center",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-dynamics-365-contact-center/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo Dynamics 365 Contact Center ofrece servicio al cliente omnicanal basado en inteligencia artificial con Copilot, autoservicio y optimizaci\u00f3n de recursos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Proteger el acceso a los datos en Power BI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/row-level-security-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "La seguridad de nivel de fila (RLS) y de nivel de objeto permiten crear un \u00fanico informe, o un conjunto de ellos, para los datos de un usuario concreto. En este m\u00f3dulo, aprender\u00e1 a implementar RLS mediante un m\u00e9todo est\u00e1tico o din\u00e1mico, y descubrir\u00e1 c\u00f3mo simplifica Microsoft Power BI las pruebas de RLS en Power BI Desktop y en el servicio Power BI.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/row-level-security-power-bi.svg"
+  },
+  {
+    "Title": "Agregue inteligencia a una soluci\u00f3n inmobiliaria con las sugerencias GPT de AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/add-intelligence-ai-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo presenta la capacidad Crear texto con GPT con las sugerencias de AI Builder.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/add-intelligence-ai-copilot.svg"
+  },
+  {
+    "Title": "Crear f\u00f3rmulas para cambiar comportamientos en una aplicaci\u00f3n de lienzo de Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/author-basic-formula-change-behaviors-powerapps/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a mejorar y personalizar su aplicaci\u00f3n de lienzo de Power Apps con f\u00f3rmulas b\u00e1sicas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/change-behaviors.svg"
+  },
+  {
+    "Title": "Conectar un flujo de nube a flujos de escritorio en Power Automate para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/connect-cloud-desktop-flow/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear flujos de nube en Microsoft Power Automate para escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/connect-cloud-desktop-flow.svg"
+  },
+  {
+    "Title": "Administrar soluciones en Power Apps y Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-solutions-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a administrar soluciones en Microsoft Power Apps y Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-solutions-power-automate.svg"
+  },
+  {
+    "Title": "Automatizaci\u00f3n de tareas de escritorio y web con uso de equipo en Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/automate-desktop-web-tasks-computer-use-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Ampl\u00ede los agentes de Copilot Studio para automatizar tareas en exploradores web y aplicaciones de escritorio mediante el uso del equipo. Configure las herramientas de uso del equipo con instrucciones, la configuraci\u00f3n de la m\u00e1quina, las credenciales y los controles de acceso y, a continuaci\u00f3n, supervise la ejecuci\u00f3n con el mapa de actividad y el registro de Dataverse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Simular las acciones del rat\u00f3n y el teclado con Power Automate para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-mouse-keyboard/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a automatizar movimientos simulados del rat\u00f3n, clics, escritura y pulsaciones de teclas en Power Automate. Adem\u00e1s, descubra c\u00f3mo seleccionar y ubicar im\u00e1genes o \u00e1reas en la pantalla.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-mouse-keyboard.svg"
+  },
+  {
+    "Title": "Escenarios comunes de la barra de comandos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/command-bar-scenarios/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore la personalizaci\u00f3n de las barras de comandos en Power Apps mediante la l\u00f3gica de Power Fx, algo que mejora la experiencia de usuario y permite cumplir con requisitos particulares.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/command-bar-scenarios.svg"
+  },
+  {
+    "Title": "Integrar soluciones de Azure con Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/integrate-dataverse-azure-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n detallada sobre las opciones disponibles en Dataverse para integrar datos y eventos en Azure.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/integrate-dataverse-azure-solutions.svg"
+  },
+  {
+    "Title": "Limpiar, transformar y cargar datos en Power BI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/clean-data-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "Power Query tiene una incre\u00edble cantidad de caracter\u00edsticas dedicadas a ayudarle a limpiar y preparar sus datos para el an\u00e1lisis. Aprender\u00e1 a simplificar un modelo complicado, a cambiar los tipos de datos, a cambiar el nombre de los objetos y a dinamizar los datos. Tambi\u00e9n aprender\u00e1 a generar perfiles de columnas para saber qu\u00e9 columnas tienen los datos importantes que busca para realizar an\u00e1lisis m\u00e1s profundos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/clean-transform-and-load-data-in-power-bi.svg"
+  },
+  {
+    "Title": "Integraci\u00f3n de agentes con sistemas externos a trav\u00e9s de MCP en Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/integrate-agents-external-systems-mcp-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Conecte el agente de Copilot Studio a los servidores del Protocolo de contexto de modelo (MCP) para acceder a herramientas y recursos estandarizados. Aprenda a usar el Asistente para incorporaci\u00f3n de MCP, configurar la clave de API y la autenticaci\u00f3n de OAuth 2.0, administrar la selecci\u00f3n de herramientas y determinar cu\u00e1ndo MCP es el enfoque de integraci\u00f3n adecuado en comparaci\u00f3n con conectores o API REST.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Extender complementos en Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/extend-plug-ins/?WT.mc_id=api_CatalogApi",
+    "Description": "El prop\u00f3sito de este m\u00f3dulo es proporcionar una visi\u00f3n detallada de los complementos en relaci\u00f3n con el desarrollo en Microsoft Power Platform. Este m\u00f3dulo revisar\u00e1 c\u00f3mo y cu\u00e1ndo se aceptan los complementos, c\u00f3mo se registran y se implementan, y las diversas opciones de configuraci\u00f3n que est\u00e1n disponibles durante su registro.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/extend-plug-ins.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la administraci\u00f3n de Power Pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-pages-admin-intro/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore la administraci\u00f3n de Power Pages y descubra c\u00f3mo pueden ayudarle las herramientas de Power Pages en tareas administrativas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/power-pages-admin-intro.svg"
+  },
+  {
+    "Title": "Crear una aplicaci\u00f3n de lienzo de Power Apps para una soluci\u00f3n inmobiliaria con datos de Excel",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-canvas-app-real-estate-excel/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear una aplicaci\u00f3n de lienzo de Power Apps para una soluci\u00f3n inmobiliaria utilizando datos de Excel.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-canvas-app-real-estate-excel.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n al Centro de excelencia de Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-center-excellence/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar el Kit del Centro de excelencia (CoE) de Microsoft Power Platform en su inquilino.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-center-excellence.svg"
+  },
+  {
+    "Title": "Implementar y usar transformaciones OMOP para el an\u00e1lisis",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-omop-transformations/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las transformaciones de la Asociaci\u00f3n de resultados m\u00e9dicos de observaci\u00f3n (OMOP) en soluciones de datos sanitarios en Microsoft Fabric.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/healthcare-omop-transformations.svg"
+  },
+  {
+    "Title": "Administrar temas en Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-power-virtual-agents-topics/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, aprender\u00e1 cu\u00e1les son los principios b\u00e1sicos de temas, como las frases desencadenadoras y las rutas de conversaci\u00f3n, y c\u00f3mo puede crearlas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/manage-power-virtual-agent-topics.svg"
+  },
+  {
+    "Title": "Serie Arquitecto de soluciones: explorar la arquitectura de Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-apps-architecture/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore la arquitectura de Microsoft Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/power-apps-architecture.svg"
+  },
+  {
+    "Title": "Crear una aplicaci\u00f3n optimizada para dispositivos m\u00f3viles desde Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-mobile-optimized/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo crear una aplicaci\u00f3n optimizada para dispositivos m\u00f3viles desde Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-mobile-optimized.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Dataverse para desarrolladores",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduction-dataverse-developers/?WT.mc_id=api_CatalogApi",
+    "Description": "El objetivo de este m\u00f3dulo es proporcionar una visi\u00f3n general introductoria de los SDK de Microsoft Power Platform que Microsoft pone a su disposici\u00f3n a trav\u00e9s de NuGet.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/introduction-dataverse-developers.svg"
+  },
+  {
+    "Title": "Mejorar agentes de Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/enhance-power-virtual-agents-bots/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo examina algunos de los m\u00e9todos que puede utilizar para mejorar sus agentes de Microsoft Copilot Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/enhance-power-virtual-agent-bots.svg"
+  },
+  {
+    "Title": "Optimizar el tiempo de carga de la aplicaci\u00f3n",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/optimize-app-load-time/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo puede evaluar y mejorar los tiempos de carga de la aplicaci\u00f3n. Al revisar y medir peri\u00f3dicamente su aplicaci\u00f3n, puede identificar y solucionar de forma proactiva los problemas de rendimiento de inicio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/optimize-app-load-time.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la extracci\u00f3n de entidades de AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ai-builder-entity-extraction/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore la extracci\u00f3n de entidades de AI Builder, su aplicaci\u00f3n en escenarios empresariales, y su uso en Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/ai-builder-entity-extraction.svg"
+  },
+  {
+    "Title": "Convertir ideas empresariales en soluciones de Power Platform con Planes",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/turn-business-ideas-power-platform-solutions-plans/?WT.mc_id=api_CatalogApi",
+    "Description": "Use planes en Power Apps para describir un problema empresarial en lenguaje natural y permitir que los agentes de inteligencia artificial generen requisitos de usuario, un modelo de datos y una propuesta de tecnolog\u00eda; a continuaci\u00f3n, compile la soluci\u00f3n completa.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n y requisitos previos para Power Pages: Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-pages-introduction-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo simplificar las actualizaciones de pedidos para los proveedores de Contoso Coffee usando Power Apps en este taller/ruta de aprendizaje ampliado.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/power-pages-introduction-online-workshop.svg"
+  },
+  {
+    "Title": "Usar el correo electr\u00f3nico de Outlook para activar flujos de escritorio y pasar entradas - Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/outlook-flows-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar el correo electr\u00f3nico de Outlook para activar flujos de escritorio y pasar entradas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/outlook-flows-online-workshop.svg"
+  },
+  {
+    "Title": "Tecnolog\u00edas OCR en Power Automate para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-ocr/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se tratan las acciones de OCR que se incluyen en Power Automate para escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-ocr.svg"
+  },
+  {
+    "Title": "Crear una aplicaci\u00f3n basada en modelo usando tablas de datos de atenci\u00f3n sanitaria virtual",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-interoperability-build-application/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las soluciones de integraci\u00f3n e interoperabilidad en Microsoft Cloud for Healthcare.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/healthcare-interoperability-build-application.svg"
+  },
+  {
+    "Title": "Trabajar con la API web de Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/dataverse-web-api/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo trabajar con la API web de Dataverse, incluida la autorizaci\u00f3n con OAuth y el uso de OData para consultar datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/dataverse-web-api.svg"
+  },
+  {
+    "Title": "Permitir que los pacientes obtengan acceso al Portal del paciente",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/patient-access-service-center/?WT.mc_id=api_CatalogApi",
+    "Description": "Configure y navegue por el portal de acceso al paciente para facilitar el acceso a los datos de los pacientes y la programaci\u00f3n de citas en Microsoft Cloud for Healthcare.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/patient-access-service-center.svg"
+  },
+  {
+    "Title": "Ampliar los sitios web de Power Pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-pages-extend/?WT.mc_id=api_CatalogApi",
+    "Description": "Ampl\u00ede la funcionalidad del sitio web mediante el desarrollo de software y la implementaci\u00f3n de sitios web de Power Pages con t\u00e9cnicas ALM.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/power-pages-extend.svg"
+  },
+  {
+    "Title": "Crear una f\u00f3rmula b\u00e1sica que usa tablas y registros en una aplicaci\u00f3n de lienzo de Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/author-basic-formula-tables-records-powerapps/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear una f\u00f3rmula b\u00e1sica que utilice tablas y registros en una aplicaci\u00f3n de lienzo de Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/tables-and-records.svg"
+  },
+  {
+    "Title": "Personalizaci\u00f3n de una aplicaci\u00f3n de lienzo en Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/customize-apps-in-powerapps/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo lleva al alumno al siguiente nivel en el desarrollo de aplicaciones, al ense\u00f1arle a personalizar la aplicaci\u00f3n agregando controles, im\u00e1genes y l\u00f3gica.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/customize-apps-in-powerapps.svg"
+  },
+  {
+    "Title": "Instalar el software necesario para Power Automate: Automatizaci\u00f3n - Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/install-required-software-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a instalar el software necesario.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/install-required-software-online-workshop.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n y requisitos previos para Power BI. Taller en l\u00ednea",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/intro-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "Pasos para instalar el software necesario en tu ordenador para que pueda completar este curso.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/intro-power-bi.svg"
+  },
+  {
+    "Title": "Serie Arquitecto de soluciones: implementar integraciones con Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/integrations/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a implementar integraciones en soluciones de Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/integrations.svg"
+  },
+  {
+    "Title": "Soluci\u00f3n de integraci\u00f3n e interoperabilidad para el sector de la atenci\u00f3n m\u00e9dica y las ciencias biol\u00f3gicas",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-interoperability/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar Data Integration Toolkit y Dataverse Healthcare API para enviar y recuperar datos sanitarios en Microsoft Cloud for Healthcare.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/healthcare-interoperability.svg"
+  },
+  {
+    "Title": "Explorar la arquitectura de Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-automate-architecture/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore la arquitectura de Microsoft Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/power-automate-architecture.svg"
+  },
+  {
+    "Title": "Automatizaci\u00f3n del control de correo electr\u00f3nico en Power Automate aplicaci\u00f3n de escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-email/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, analizaremos c\u00f3mo automatizar el control de correo electr\u00f3nico en Power Automate aplicaci\u00f3n de escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-email.svg"
+  },
+  {
+    "Title": "Estructuraci\u00f3n de documentos cl\u00ednicos a FHIR",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/healthcare-text-analytics-fhir/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre la estructura del documento cl\u00ednico en FHIR en Microsoft Cloud for Healthcare.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/healthcare-text-analytics-fhir.svg"
+  },
+  {
+    "Title": "Empezar a usar la predicci\u00f3n de AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/ai-builder-prediction/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra el modelo de predicci\u00f3n de AI Builder y los distintos patrones de resultados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/ai-builder-prediction.svg"
+  },
+  {
+    "Title": "Serie Arquitecto de soluciones: seguridad de modelos para soluciones de Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/model-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra la funcionalidad de seguridad en Microsoft Dataverse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/model-security.svg"
+  },
+  {
+    "Title": "Gestionar Active Directory en Power Automate para escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-active-directory/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga m\u00e1s informaci\u00f3n sobre las acciones de Active Directory en Power Automate para escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-active-directory.svg"
+  },
+  {
+    "Title": "Control de bases de datos en Power Automate aplicaci\u00f3n de escritorio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/pad-database-handling/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las acciones de la base de datos en Power Automate aplicaci\u00f3n de escritorio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/pad-database-handling.svg"
+  },
+  {
+    "Title": "Describir el valor empresarial de la ampliaci\u00f3n de las soluciones empresariales utilizando Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-business-value-extend-business-solutions-microsoft-power-platform/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo, se explora c\u00f3mo abordan Microsoft Power Platform y sus componentes desaf\u00edos comunes en productividad, automatizaci\u00f3n e integraci\u00f3n. Vemos lo que hacen herramientas como Power Automate, Power Apps y Power BI para agilizar los flujos de trabajo, automatizar las tareas repetitivas y conseguir una colaboraci\u00f3n fluida entre todos los servicios de Microsoft 365. Adem\u00e1s, hablamos de Copilot Studio y de la creaci\u00f3n de agentes de IA personalizados. Abarca puertas de enlace de datos locales, para la integraci\u00f3n de sistemas h\u00edbridos, y el dise\u00f1ador de planes, para crear soluciones empresariales personalizadas con conocimientos t\u00e9cnicos m\u00ednimos. PL-900",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Planificar y administrar un entorno de Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/plan-manage-environment/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo administrar su entorno de Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/plan-manage-environment.svg"
+  },
+  {
+    "Title": "Usar modelos de AI Builder en Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-ai-builder/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore los modelos listos para usar de AI Builder, que mejoran la experiencia de usuario de Power Apps y ofrecen controles interactivos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/use-ai-builder.svg"
+  },
+  {
+    "Title": "Crear el esquema de tabla de Dataverse para la aplicaci\u00f3n basada en modelo",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-dataverse-table-structure/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear tablas y establecer relaciones para generar una aplicaci\u00f3n basada en modelo para el seguimiento de los accidentes de los empleados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-dataverse-table-structure.svg"
+  },
+  {
+    "Title": "Integraci\u00f3n profunda de Power Automate en varios or\u00edgenes de datos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/multiple-data-sources/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear flujos en varios or\u00edgenes de datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/multiple-data-sources.svg"
+  },
+  {
+    "Title": "Crear c\u00e1lculos visuales en Power BI Desktop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/power-bi-visual-calculations/?WT.mc_id=api_CatalogApi",
+    "Description": "Los c\u00e1lculos en Power BI son necesarios para enriquecer el an\u00e1lisis de datos. Los c\u00e1lculos visuales simplifican f\u00f3rmulas complejas, mejoran el rendimiento y reducen el mantenimiento.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  }
+]
