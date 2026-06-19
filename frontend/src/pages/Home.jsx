@@ -7,7 +7,7 @@ const Home = () => {
   const [allCourses, setAllCourses] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
-  const coursesPerPage = 24; // Reducimos para que la paginación suba más
+  const coursesPerPage = 20; // Reducimos para mayor fluidez (v9.1)
 
   const categories = ['Todo', 'Español', 'Universidad', 'Plataforma', 'País', 'Provincia', 'Idiomas', 'Carrera', 'Acelerados', 'Certificado', 'IA', 'Programación', 'Marketing'];
 
@@ -146,7 +146,7 @@ const Home = () => {
       {/* Header */}
       <div className="container mx-auto px-6 pt-12 pb-12 border-b border-white/5">
         <div className="flex justify-between items-start mb-8">
-           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest">LCA Massive Protocol v9.0</div>
+           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest">LCA Massive Protocol v9.1</div>
            <div className="text-zinc-700 font-mono text-[9px] uppercase tracking-widest">Base: {allCourses.length}</div>
         </div>
         <h1 className="text-7xl md:text-[12rem] font-black tracking-tighter leading-none mb-8 uppercase">CURSIN<span className="text-yellow-600">.</span></h1>
