@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Configurar la gesti\u00f3n de la entrega de proyectos para escenarios mantenidos en existencias en Dynamics 365 Project Operations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/set-up-project-delivery-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga m\u00e1s informaci\u00f3n sobre c\u00f3mo configurar la gesti\u00f3n de la entrega de proyectos en Dynamics 365 Project Operations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/set-up-project-delivery-management.svg"
+  },
+  {
+    "Title": "Crear recorridos con Dynamics 365 Customer Insights - Journeys",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-journeys-marketing/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear recorridos con Dynamics 365 Customer Insights - Journeys.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-journeys-marketing.svg"
+  },
+  {
+    "Title": "Administrar implementaciones de Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/designing-power-platform-deployments/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las implementaciones de Microsoft Power Platform",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/designing-power-platform-deployments.svg"
+  },
+  {
+    "Title": "Usar Docker en su proceso de desarrollo de Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-docker-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfQuiere saber c\u00f3mo puede beneficiarse de trabajar con Docker y Microsoft Dynamics 365 Business Central? Docker ofrece im\u00e1genes para cada versi\u00f3n publicada de Business Central en todos los pa\u00edses o regiones disponibles.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/use-docker-business-central.svg"
+  },
+  {
+    "Title": "Integraci\u00f3n de otros productos de Microsoft con aplicaciones de Dynamics 365 Customer Engagement",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/integrating-office-customer-engagement-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "Trabaje con plantillas e integre otros productos para expandir la funcionalidad de las aplicaciones de Dynamics 365 Customer Engagement.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/integrate-office-and-dynamics-365-customer-engagement.svg"
+  },
+  {
+    "Title": "Explorar y modificar informaci\u00f3n en Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-modify-info-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "En Business Central trabajar\u00e1 con diferentes tipos de datos. Cada tipo de datos tiene sus propias posibilidades y restricciones. Este m\u00f3dulo muestra todos los diferentes tipos de datos y campos y c\u00f3mo utilizarlos. Tambi\u00e9n le mostrar\u00e1 c\u00f3mo cambiar y agregar datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/explore-modify-info-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Agregar nuevos objetos a Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/add-new-objects/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfDesea saber c\u00f3mo agregar objetos, como tablas y p\u00e1ginas, a Microsoft Dynamics 365 Business Central? En caso afirmativo, en este m\u00f3dulo encontrar\u00e1 lo que estaba buscando. En este m\u00f3dulo, se explica c\u00f3mo crear tablas y p\u00e1ginas para una extensi\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/add-new-objects.svg"
+  },
+  {
+    "Title": "Trabajar con consultas en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-with-queries/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a trabajar con el objeto Consulta en Dynamics 365 Business Central para unir, filtrar y agregar datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/work-with-queries.svg"
+  },
+  {
+    "Title": "Configurar y adquirir activos fijos en Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/set-up-acquire-fixed-assets-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo administrar de manera eficiente los activos fijos en Dynamics 365 Finance con instrucciones paso a paso para la configuraci\u00f3n, la adquisici\u00f3n y el registro.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/set-up-acquire-fixed-assets-finance.svg"
+  },
+  {
+    "Title": "Utilizar diarios de art\u00edculos en el almac\u00e9n en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-item-journals-warehouse/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a ajustar el inventario en el almac\u00e9n y a contar art\u00edculos utilizando los diarios de almac\u00e9n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/use-item-journals-warehouse.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la fabricaci\u00f3n en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manufacturing-introduction/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtener informaci\u00f3n sobre Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/manufacturing-introduction.svg"
+  },
+  {
+    "Title": "Configurar Business Central para Excel y Power BI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-powerbi-excel-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Permita que los datos de Business Central est\u00e9n disponibles para generar informes f\u00e1cilmente con Excel y an\u00e1lisis inteligentes con Power BI.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/configure-powerbi-excel-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Identificar excepciones con Connected Field Service for Dynamics 365 y Azure IoT",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/identify-exceptions-with-connected-field-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo se centrar\u00e1 en la detecci\u00f3n din\u00e1mica de anomal\u00edas en la telemetr\u00eda de dispositivos de IoT. Adem\u00e1s en este m\u00f3dulo examinar\u00e1 la personalizaci\u00f3n de los componentes de Connected Field Service para gestionar telemetr\u00edas diferentes del dispositivo y las opciones para almacenar datos detallados para futuros an\u00e1lisis.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/identify-exceptions-with-connected-field-service.svg"
+  },
+  {
+    "Title": "Actualizaci\u00f3n de AX 2012 a Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/upgrade-ax-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "La actualizaci\u00f3n de Microsoft Dynamics AX 2012 a Dynamics 365 Finance es un paso importante hacia la modernizaci\u00f3n de los sistemas empresariales, ya que implica una planificaci\u00f3n exhaustiva, preparaci\u00f3n de datos y c\u00f3digo, pruebas y transici\u00f3n. Este m\u00f3dulo proporciona una gu\u00eda completa para garantizar una transici\u00f3n fluida con un tiempo de inactividad m\u00ednimo, y abarca procedimientos recomendados, kits de herramientas y consejos para una actualizaci\u00f3n correcta.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/upgrade-ax-finance-operations.svg"
+  },
+  {
+    "Title": "Programar servicios con la programaci\u00f3n de Customer Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/schedule-customer-service-scheduling/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a definir y programar servicios con Microsoft Dynamics 365 Customer Service para atender a los clientes en las ubicaciones de la organizaci\u00f3n. Preparaci\u00f3n para MB-230.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/schedule-customer-service-scheduling.svg"
+  },
+  {
+    "Title": "Registrar y notificar el consumo en la administraci\u00f3n de activos para Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/register-report-consumption-asset-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Los registros de consumo se deben completar cuando se haya finalizado el proyecto de mantenimiento de una orden de trabajo. El registro alimenta los costes asociados a los informes de consumo y activos en la administraci\u00f3n de activos para Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/register-report-consumption-asset-management-dyn365-scm.svg"
+  },
+  {
+    "Title": "Trabajar con reglas de asignaci\u00f3n en el acelerador de Dynamics 365 Sales",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-sales-assignment-rules/?WT.mc_id=api_CatalogApi",
+    "Description": "Reduzca el esfuerzo manual y evite la p\u00e9rdida de registros no asignados con la caracter\u00edstica de reglas de asignaci\u00f3n de Dynamics 365 Sales.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/work-sales-assignment-rules.svg"
+  },
+  {
+    "Title": "Convertir un producto existente en un producto de ingenier\u00eda en Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/convert-engineering-product-supply-chain-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a convertir un producto existente en un producto de ingenier\u00eda en Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/convert-engineering-product-supply-chain-management.svg"
+  },
+  {
+    "Title": "Administraci\u00f3n de oportunidades y procesamiento de pedidos de ventas en Dynamics 365 Sales",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-opportunities-dynamics-365-sales/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo administrar el ciclo de vida completo de las oportunidades en Dynamics 365 Sales ( desde la creaci\u00f3n hasta el cierre) y procesa las cotizaciones, los pedidos y las facturas. Descubra c\u00f3mo Copilot ayuda a los vendedores con informaci\u00f3n y preparaci\u00f3n de reuniones.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-opportunities-d365-sales.svg"
+  },
+  {
+    "Title": "Administrar solicitudes de mantenimiento en la administraci\u00f3n de activos para Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-maintenance-requests/?WT.mc_id=api_CatalogApi",
+    "Description": "Las solicitudes de mantenimiento en la administraci\u00f3n de activos para Dynamics 365 Supply Chain Management son fundamentales para mantener sus valiosos activos funcionando de manera eficiente, al tiempo que se administra el tiempo de inactividad y se protege su productividad general. En este m\u00f3dulo se definen las solicitudes de mantenimiento, c\u00f3mo crear solicitudes de mantenimiento, el uso de activos prestados, el seguimiento de activos entrantes y salientes, e informes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-maintenance-requests-asset-mgmt-dyn365-scm.svg"
+  },
+  {
+    "Title": "Usar controles e informes en la administraci\u00f3n de activos para Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/controls-reports-asset-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Para administrar eficazmente sus activos en la administraci\u00f3n de activos para Dynamics 365 Supply Chain Management, puede usar controles e informes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/controls-asset-mgmt-dyn365-supply-chain-mgmt.svg"
+  },
+  {
+    "Title": "Configurar y trabajar con operaciones de entrada mediante la gesti\u00f3n de inventario en Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/set-up-work-inbound-inventory-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda c\u00f3mo configurar y trabajar con operaciones de entrada mediante la gesti\u00f3n de inventario en Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/set-up-work-inbound-inventory-management.svg"
+  },
+  {
+    "Title": "Crear una factura de proveedor para una implementaci\u00f3n simplificada en Dynamics 365 Project Operations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-vendor-invoice-lite-deployment/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear una factura de proveedor para una implementaci\u00f3n simplificada.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/create-vendor-invoice-lite-deployment.svg"
+  },
+  {
+    "Title": "Transformaci\u00f3n de experiencias de clientes con ia en aplicaciones de Dynamics 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-powerful-customer-experiences-organizations/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo las aplicaciones de dynamics 365 customer engagement ( Ventas, Servicio al cliente, Centro de contactos, Customer Insights y Field Service) funcionan conjuntamente para ofrecer experiencias de cliente excepcionales. Explore c\u00f3mo las caracter\u00edsticas de inteligencia artificial como Copilot, los agentes de IA y el centro de inteligencia artificial de Dynamics 365 ayudan a los equipos a trabajar de forma m\u00e1s inteligente, responder m\u00e1s r\u00e1pido y crear relaciones m\u00e1s s\u00f3lidas con los clientes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/create-powerful-customer-experiences-organizations.svg"
+  },
+  {
+    "Title": "Configurar series num\u00e9ricas y c\u00f3digos de seguimiento en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/number-series-trail-codes-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfNecesita configurar series num\u00e9ricas de documentos, diarios y otros registros? En este m\u00f3dulo se explica c\u00f3mo configurar series num\u00e9ricas y c\u00f3mo numerar documentos, diarios y datos maestros. Adem\u00e1s, le muestra c\u00f3mo crear y usar c\u00f3digos de origen y c\u00f3digos de auditor\u00eda en Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/number-series-trail-codes-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Cree o actualice registros autom\u00e1ticamente en el Centro de servicio al cliente",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/auto-create-records-hub/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear registros mediante el uso de la funci\u00f3n de creaci\u00f3n y actualizaci\u00f3n autom\u00e1tica de reglas. Adem\u00e1s, aprender\u00e1 a usar m\u00faltiples condiciones en una sola regla para crear registros de manera diferente seg\u00fan los resultados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/auto-create-records-hub.svg"
+  },
+  {
+    "Title": "Crear espacios de trabajo en aplicaciones de finanzas y operaciones",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/build-workspaces-finance-operations/?WT.mc_id=api_CatalogApi",
+    "Description": "Dise\u00f1e y cree espacios de trabajo para aumentar la eficiencia y agregue funciones avanzadas al entorno de desarrollo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/build-workspaces-dynamics-365-finance-operations.svg"
+  },
+  {
+    "Title": "Fraccionamientos de ingresos y gastos en Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/revenue-expense-deferrals/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre los fraccionamientos de ingresos y gastos en Dynamics 365 Finance.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/revenue-expense-deferrals.svg"
+  },
+  {
+    "Title": "Utilizar la gesti\u00f3n de almacenes para la fabricaci\u00f3n en Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manufacture-warehouse-mgmt-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfQuiere obtener el mejor resultado de la gesti\u00f3n de almacenes para asistir a sus actividades de fabricaci\u00f3n? En este m\u00f3dulo, puede obtener informaci\u00f3n sobre las funciones de gesti\u00f3n de almacenes espec\u00edficas para la fabricaci\u00f3n en Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manufacture-wms-dyn365-fo.svg"
+  },
+  {
+    "Title": "Usar Azure Functions con Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-azure-functions/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfDesea aprender c\u00f3mo usar Azure Functions con Business Central? Este m\u00f3dulo explicar\u00e1 qu\u00e9 es una funci\u00f3n de Azure y c\u00f3mo crearla. Tambi\u00e9n aprender\u00e1 a integrarla con Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/use-azure-functions.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la contabilidad de proyectos en Dynamics 365 Project Operations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-project-accounting/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore las capacidades de contabilidad de Microsoft Dynamics 365 Project Operations y aprenda a registrar el tiempo y los gastos, as\u00ed como a utilizar m\u00e9todos de facturaci\u00f3n de forma eficaz.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-project-accounting.svg"
+  },
+  {
+    "Title": "Integraciones de chat con Dynamics 365 Commerce",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/chat-integrations-commerce/?WT.mc_id=api_CatalogApi",
+    "Description": "Empodere a los compradores en l\u00ednea con capacidades de chat integrando la Plataforma omnicanal para Customer Service de Microsoft Dynamics 365 y Microsoft Copilot Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/chat-integrations-commerce.svg"
+  },
+  {
+    "Title": "Aumentar el rendimiento de ventas con Ventas en Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/boost-sales-performance/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo aumentar el rendimiento de las ventas con Ventas en Microsoft 365 Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/boost-sales-performance.svg"
+  },
+  {
+    "Title": "Inspecciones en Dynamics 365 Field Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/inspections/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a crear y realizar inspecciones en Microsoft Dynamics 365 Field Service. Preparaci\u00f3n para MB-240.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/inspections.svg"
+  },
+  {
+    "Title": "Asignar costes en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/allocate-costs-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfDesea saber c\u00f3mo asignar costes en Business Central? Este m\u00f3dulo explica las diferentes opciones para configurar la asignaci\u00f3n entre los centros de costes y los objetos de coste, comenzando con una demostraci\u00f3n de los diarios de costes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/allocate-costs-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Implementar widgets de chat con Omnicanal para Dynamics 365 Customer Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/omnichannel-chat/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a implementar widgets de chat con Omnicanal para Dynamics 365 Customer Service.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/omnichannel-chat.svg"
+  },
+  {
+    "Title": "Crear mensajes de texto y notificaciones push en Dynamics 365 Customer Insights - Journeys",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-text-messages-push-notifications/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda c\u00f3mo crear mensajes de texto y notificaciones de inserci\u00f3n en Dynamics 365 Customer Insights - Journeys.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/create-text-messages-push-notifications.svg"
+  },
+  {
+    "Title": "Implementar Resource Scheduling Optimization",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/deploy-resource-scheduling-optimization/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo configurar e implementar Resource Scheduling Optimization, lo que incluye las opciones de configuraci\u00f3n y la definici\u00f3n de objetivos de optimizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/deploy-resource-scheduling-optimization.svg"
+  },
+  {
+    "Title": "Describir Dynamics 365 Customer Insights - Data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-dynamics-365-marketing-capabilities-2/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo presenta a los alumnos otras aplicaciones que aumentan las capacidades de Dynamics 365 Customer Insights - Journeys, como Dynamics 365 Customer Insights - Data y Dynamics 365 Customer Voice.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/2-describe-dynamics-365-marketing-capabilities.svg"
+  },
+  {
+    "Title": "Usar asignaciones de cuentas en Business Central.",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/general-ledger-allocations/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar las asignaciones de cuentas en Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/general-ledger-allocations.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a Success by Design for Dynamics 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/success-by-design/?WT.mc_id=api_CatalogApi",
+    "Description": "Success by Design es la gu\u00eda prescriptiva (enfoques y pr\u00e1cticas recomendadas) para dise\u00f1ar, crear e implementar una soluci\u00f3n de Microsoft Dynamics 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/success-by-design.svg"
+  },
+  {
+    "Title": "Implementar un canal de SMS en la Plataforma omnicanal para Dynamics 365 Customer Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/sms-channels/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprender a utilizar los mensajes del servicio de mensajes cortos (SMS) para iniciar solicitudes de asistencia con organizaciones de soporte t\u00e9cnico.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/sms-channels.svg"
+  },
+  {
+    "Title": "Configurar Microsoft Dynamics 365 Field Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-configure-microsoft-dynamics-365-for-field-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Una de las principales ventajas de Dynamics 365 Field Service es la capacidad de configurarlo seg\u00fan las necesidades de su organizaci\u00f3n. Las opciones de configuraci\u00f3n podr\u00edan incluir la identificaci\u00f3n de consideraciones de configuraci\u00f3n clave, la definici\u00f3n de productos y servicios, y otros factores relacionados y la definici\u00f3n de los Tipos de orden de trabajo, subestados, zonas de servicio y configuraci\u00f3n de cuenta necesarios que admitir\u00e1n la funcionalidad deseada.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/configure-microsoft-dynamics-365-field.svg"
+  },
+  {
+    "Title": "Flujo de efectivo inteligente en Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/intelligent-cash-flow-finance/?WT.mc_id=api_CatalogApi",
+    "Description": "Mejore la precisi\u00f3n de las previsiones con la herramienta de flujo de efectivo inteligente en Dynamics 365 Finance.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/intelligent-cash-flow-finance.svg"
+  },
+  {
+    "Title": "Usar est\u00e1ndares de documentos en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-document-standards-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfPlanea desarrollar soluciones que involucren documentos? En este m\u00f3dulo, aprender\u00e1 a trabajar con datos de documentos y sobre est\u00e1ndares de documentos en Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/use-document-standards-business-central.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a las llamadas de Remote Assist",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/remote-assist/?WT.mc_id=api_CatalogApi",
+    "Description": "M\u00e1s informaci\u00f3n sobre Remote Assist.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/remote-assist.svg"
+  },
+  {
+    "Title": "Configurar activos en la administraci\u00f3n de activos para Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/setup-assets-asset-management/?WT.mc_id=api_CatalogApi",
+    "Description": "A fin de que su organizaci\u00f3n pueda comenzar a usar la administraci\u00f3n de activos para Dynamics 365 Supply Chain Management, debe establecer primero la estructura. Este m\u00f3dulo le guiar\u00e1 por los pasos sobre c\u00f3mo configurar las funcionalidades clave para activos, como la manera de crear tipos de activos, crear plantillas de evaluaci\u00f3n de condici\u00f3n y registros en esos activos, crear estados de ciclo de vida para los activos, establecer tipos de criticidad y mucho m\u00e1s.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/setup-asset-management-dyn365-scm.svg"
+  },
+  {
+    "Title": "Configurar Administraci\u00f3n de servicios en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/configure-service-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a configurar Administraci\u00f3n de servicios en Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/configure-service-management.svg"
+  },
+  {
+    "Title": "Crear presupuestos en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/budgets-exchange-rates-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfDesea saber c\u00f3mo crear presupuestos financieros en Business Central? Si es as\u00ed, este modulo es lo que busca. Explica c\u00f3mo configurar presupuestos de contabilidad en Business Central y demuestra c\u00f3mo crear manualmente presupuestos y c\u00f3mo copiarlos e importarlos de Microsoft Excel.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/budgets-exchange-rates-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Usar interfaces alternativas para Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/alternative-interfaces-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "La experiencia de la interfaz de usuario moderna para Microsoft Dynamics 365 Business Central no se limita al cliente web. Business Central dispone de interfaces de Microsoft Outlook, m\u00f3viles y tabletas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/alternative-interfaces-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n al servicio de visibilidad de inventario para Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-inventory-visibility/?WT.mc_id=api_CatalogApi",
+    "Description": "El complemento de visibilidad de inventario para Dynamics 365 Supply Chain Management le ayuda a realizar un mejor seguimiento de su inventario y de las transacciones en m\u00faltiples sistemas.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/get-started-inventory-visibility.svg"
+  },
+  {
+    "Title": "Usar Visibilidad de inventario en Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/use-inventory-visibility/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore las caracter\u00edsticas de Visibilidad de inventario para optimizar la administraci\u00f3n de cadenas de suministro, lo que incluye la informaci\u00f3n multiplataforma y la asignaci\u00f3n avanzada en Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/use-inventory-visibility.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a la aplicaci\u00f3n m\u00f3vil de Dynamics 365 Sales",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-sales-mobile-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtener m\u00e1s informaci\u00f3n sobre la aplicaci\u00f3n m\u00f3vil de Dynamics 365 Sales.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-sales-mobile-app.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a los conceptos b\u00e1sicos de la administraci\u00f3n de archivos en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduction-basics-file-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore el tipo de datos del archivo, la codeunit de Administraci\u00f3n de archivos, la codeunit Blob temporal y las funciones de secuencia para la manipulaci\u00f3n de archivos en Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/introduction-basics-file-management.svg"
+  },
+  {
+    "Title": "Registrar transacciones de apertura de activos fijos en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/record-fixed-assets-opening-transactions/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a registrar transacciones de apertura de activos fijos, lo que incluye los costes de adquisici\u00f3n y las depreciaciones, en Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/record-fixed-assets-opening-transactions.svg"
+  },
+  {
+    "Title": "Trabajar con proyectos y recursos en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-with-jobs-and-resources/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfDesea descubrir los proyectos y recursos que hay disponibles en Microsoft Dynamics 365 Business Central? Este m\u00f3dulo le ayudar\u00e1 a familiarizarse con la ficha de proyecto y de recursos en Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/work-with-jobs-and-resources.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n al enrutamiento unificado para Dynamics 365 Customer Service",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-unified-routing/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre el enrutamiento b\u00e1sico, el enrutamiento unificado y la configuraci\u00f3n de usuarios para mejorar la satisfacci\u00f3n del cliente y administrar de manera eficiente los elementos de trabajo en Dynamics 365 Customer Service.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-unified-routing.svg"
+  },
+  {
+    "Title": "Enviar recordatorios a los clientes en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/send-reminders-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo informar eficazmente a los clientes sobre facturas vencidas, configurar t\u00e9rminos de recordatorios y crear recordatorios en Dynamics 365 Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/send-reminders-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Describir las funciones b\u00e1sicas de Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-dynamics-365-finance-core-capabilities/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las caracter\u00edsticas b\u00e1sicas de Dynamics 365 Finance, las funcionalidades fiscales, la contabilidad de costos y mucho m\u00e1s para administrar los procesos financieros globales de forma eficaz.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Describir c\u00f3mo cerrar ofertas de clientes en Dynamics 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-close-customer-deals/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo las herramientas de IA de Dynamics 365 Sales ayudan a los vendedores durante la fase de cierre con agentes de investigaci\u00f3n, coordinaci\u00f3n automatizada, seguimiento del sentimiento y colaboraci\u00f3n con Microsoft 365 Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Configurar los precios de costes y de venta para tiempo, gastos y materiales en Dynamics 365 Project Operations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/set-up-cost-sales-price/?WT.mc_id=api_CatalogApi",
+    "Description": "Conozca los precios de coste y de venta.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/set-up-cost-sales-price.svg"
+  },
+  {
+    "Title": "Calcular y registrar depreciaciones en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/calculate-post-depreciations/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a calcular y registrar la amortizaci\u00f3n peri\u00f3dica en Microsoft Business Central, lo que incluye la configuraci\u00f3n de los d\u00edas de amortizaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/calculate-post-depreciations.svg"
+  },
+  {
+    "Title": "Comenzar con Finance Insights en Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/get-started-finance-insights/?WT.mc_id=api_CatalogApi",
+    "Description": "Gestione los pagos de los clientes y prediga los flujos de efectivo futuros con Finance Insights.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/get-started-finance-insights.svg"
+  },
+  {
+    "Title": "Trabajar con datos maestros de activos fijos en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/fixed-assets-master-data/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfQuieres obtener m\u00e1s informaci\u00f3n sobre los datos maestros de activos fijos con los que puede trabajar en Business Central? Este m\u00f3dulo proporciona una descripci\u00f3n general de los activos fijos y seguros y le prepara para configurar activos fijos en Business Central.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/fixed-assets-master-data.svg"
+  },
+  {
+    "Title": "Asignaci\u00f3n de procesos de negocio para Dynamics 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/business-process-mapping-dynamics-365/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo implementar aplicaciones empresariales de forma eficaz mediante t\u00e9cnicas como el seguimiento y la asignaci\u00f3n de procesos en Dynamics 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/business-process-mapping-dynamics-365.svg"
+  },
+  {
+    "Title": "Describir el proceso de libro mayor y la gesti\u00f3n de efectivo y bancos en Dynamics 365 Finance",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/describe-general-ledger-cash-bank-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Descripci\u00f3n de la administraci\u00f3n financiera en Dynamics 365 Finance, incluidos los libros de contabilidad, los gr\u00e1ficos, las dimensiones financieras y los conceptos bancarios y efectivos",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Trabajar con la hoja de costes en Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-costing-sheet-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "Calcular los costes de la lista de materiales de los productos terminados en producci\u00f3n mediante Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/work-with-costing-sheet-dynamics-365-finance-ops.svg"
+  },
+  {
+    "Title": "Configurar diarios de conciliaci\u00f3n de pagos en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/reconciliation-journals-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "\u00bfDesea saber c\u00f3mo configurar los diarios de conciliaci\u00f3n de pagos en Dynamics 365 Business Central? En este m\u00f3dulo nos centramos en c\u00f3mo configurar los diarios de conciliaci\u00f3n de pagos. Tambi\u00e9n se explica c\u00f3mo modificar las reglas de liquidaci\u00f3n de pagos para aplicar autom\u00e1ticamente l\u00edneas de pago.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/reconciliation-journals-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Dise\u00f1ar un director de reglas de agente de voz de Copilot Studio para lograr cambios en tiempo real en la IVR de Dynamics 365 Contact Center",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/agent-rule-manager-contact-center-ivr/?WT.mc_id=api_CatalogApi",
+    "Description": "Los agentes de Copilot de IVR en el Dynamics 365 Contact Center se han dise\u00f1ado con Microsoft Copilot Studio. Se dise\u00f1a a estos agentes en funci\u00f3n de las necesidades comerciales de un cliente, lo que gu\u00eda la experiencia de la persona que llama en la sesi\u00f3n de respuesta interactiva de voz (IVR). Para permitir la escalabilidad y acelerar los cambios en el flujo de IVR, como la difusi\u00f3n de mensajes, puede crear reglas utilizando Microsoft Power Apps e integrarlas en su agente de Copilot. Este m\u00e9todo permite que las empresas hagan cambios en tiempo real en los agentes de Copilot sin necesidad de modificar el agente o volver a publicarlo.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/agent-rule-manager-contact-center-ivr.svg"
+  },
+  {
+    "Title": "Crear y procesar kanbans fijos en Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/create-process-fixed-kanbans-dyn365-supply-chain-mgmt/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore la funcionalidad de los tableros de programaci\u00f3n Kanban para optimizar los planes de producci\u00f3n en la administraci\u00f3n de cadenas de suministro y lean manufacturing en Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/create-process-fixed-kanbans-in-microsoft-dynamics-365-for-finance-and-operations.svg"
+  },
+  {
+    "Title": "Registrar y gestionar dispositivos con Connected Field Service for Dynamics 365 y Azure IoT",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/register-and-manage-customer-devices-with-connected-field-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Registrar y administrar dispositivos del cliente con Connected Field Service.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/register-and-manage-customer-devices-with-connected-field-service.svg"
+  },
+  {
+    "Title": "Validar y publicar modelos de configuraci\u00f3n de productos en Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/validate-release-production-configuration/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo validar y publicar modelos de configuraci\u00f3n de productos en Dynamics 365 Supply Chain Management.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/validate-release-production-configuration.svg"
+  },
+  {
+    "Title": "Registro de facturas de anticipo para pedidos de venta y compra en Dynamics 365 Business Central",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/prepayment-invoices-dynamics-365-business-central/?WT.mc_id=api_CatalogApi",
+    "Description": "Descubra c\u00f3mo procesar facturas de anticipos en Dynamics 365 Business Central, lo que incluye la preparaci\u00f3n, la contabilizaci\u00f3n y la configuraci\u00f3n de cuentas de contabilidad.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/prepayment-invoices-dynamics-365-business-central.svg"
+  },
+  {
+    "Title": "Trabajar el modo de solo Gesti\u00f3n de almacenes en Dynamics 365 Supply Chain Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/work-warehouse-management-only-mode/?WT.mc_id=api_CatalogApi",
+    "Description": "Trabajar con el modo de solo Gesti\u00f3n de almacenes en Dynamics 365 Supply Chain Management permite a las empresas agilizar y optimizar sus operaciones de almac\u00e9n sin la necesidad de una integraci\u00f3n completa de ERP. Este modo contribuye a una gesti\u00f3n eficiente del inventario, a un seguimiento preciso de los env\u00edos entrantes y salientes y a una coordinaci\u00f3n perfecta de las tareas del almac\u00e9n, como la recepci\u00f3n, el picking, el embalaje y el env\u00edo. Al centrarse \u00fanicamente en la gesti\u00f3n de almacenes, las empresas pueden mejorar la eficiencia operativa, reducir los errores y garantizar la visibilidad del inventario en tiempo real, lo que conduce a un cumplimiento de pedidos m\u00e1s r\u00e1pido y una mayor satisfacci\u00f3n del cliente.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/work-warehouse-management-only-mode.svg"
+  },
+  {
+    "Title": "Exploraci\u00f3n de Windows 365 para la implementaci\u00f3n de equipos en la nube",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-windows-365-intune/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Windows 365: su rol para la implementaci\u00f3n de equipos en la nube, c\u00f3mo se compara con VDI tradicional, licencias y requisitos previos, casos de uso comunes y opciones de experiencia de punto de conexi\u00f3n como Windows 365 arranque y conmutador.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Prevenci\u00f3n de la p\u00e9rdida de datos",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/m365-security-data-loss/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo la protecci\u00f3n de la informaci\u00f3n ayuda a las organizaciones a proteger los datos para evitar la p\u00e9rdida o el robo de datos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/prevent-data-loss.svg"
+  },
+  {
+    "Title": "Administrar Personas en la nueva Outlook para Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-people-new-outlook-windows/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo administrar eficazmente sus contactos en el nuevo Outlook para Windows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/email-people-outlook.svg"
+  },
+  {
+    "Title": "Administrar el almacenamiento en clientes de Windows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-storage-windows-clients/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo describe algunas de las diferentes tecnolog\u00edas de almacenamiento, incluidos los diferentes tipos de almacenamiento basado en servidor y en la nube. Este m\u00f3dulo tambi\u00e9n cubrir\u00e1 las consideraciones para configurar el almacenamiento para su uso en el cliente de Windows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/windows-clients-manage-storage.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a las reuniones y llamadas de Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduction-teams-meetings-calling/?WT.mc_id=api_CatalogApi",
+    "Description": "Introducci\u00f3n a las reuniones y llamadas de Teams",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/introduction-teams-meetings-calling.svg"
+  },
+  {
+    "Title": "Introducci\u00f3n a las soluciones del agente de inteligencia artificial de Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/introduction-microsoft-ai-agent-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore las soluciones del agente de Inteligencia artificial de Microsoft y obtenga claridad sobre cu\u00e1ndo adoptar, ampliar o desarrollar soluciones de agente personalizadas en funci\u00f3n de su escenario y objetivos.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de la administraci\u00f3n de aplicaciones m\u00f3viles",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-mobile-application-management/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se presenta la administraci\u00f3n de aplicaciones m\u00f3viles (MAM). Los estudiantes aprender\u00e1n acerca de las consideraciones para la implementaci\u00f3n de MAM y ser\u00e1n introducidos a la gesti\u00f3n de MAM mediante Microsoft Endpoint Manager.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/application-management-mobile-implement.svg"
+  },
+  {
+    "Title": "Capacite a sus empleados con Microsoft 365 Copilot: caso de uso de TI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/enhance-prompting-copilot-it/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo permite a los alumnos realizar una serie de ejercicios de casos de uso que ampl\u00edan sus conocimientos Microsoft 365 Copilot en escenarios empresariales relacionados con TI.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n de la administraci\u00f3n de riesgos Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/audit-risk-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo Microsoft 365 identifica, eval\u00faa, responde y administra los riesgos para proteger a los clientes y al entorno de Microsoft 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-microsoft-365-risk-management.svg"
+  },
+  {
+    "Title": "Descripci\u00f3n del cifrado Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/audit-encryption/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo Microsoft 365 cifra los datos en reposo y en tr\u00e1nsito, administra de forma segura las claves de cifrado y proporciona opciones de administraci\u00f3n de claves a los clientes para satisfacer sus necesidades empresariales y obligaciones de cumplimiento.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/understand-microsoft-365-encryption.svg"
+  },
+  {
+    "Title": "Incorporaci\u00f3n de conocimientos personalizados a agentes declarativos mediante conectores de Copilot y Visual Studio Code",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/copilot-declarative-agent-graph-connector-vsc/?WT.mc_id=api_CatalogApi",
+    "Description": "Cree un agente declarativo para Microsoft 365 Copilot optimizado para un escenario espec\u00edfico. El agente accede a los datos almacenados fuera de Microsoft 365 mediante un conector copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implementar herramientas de sincronizaci\u00f3n de directorios",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-synchronization-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examinan los requisitos de instalaci\u00f3n de Microsoft Entra Connect Sync y Microsoft Entra Cloud Sync, las opciones para instalar y configurar las herramientas y c\u00f3mo supervisar los servicios de sincronizaci\u00f3n mediante Microsoft Entra Connect Health.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/implement-synchronization-tools.svg"
+  },
+  {
+    "Title": "Explore sus opciones de implementaci\u00f3n para Microsoft Edge",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/explore-deployment-options-microsoft-edge/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Edge aporta controles de seguridad, privacidad y capacidad de gesti\u00f3n listos para implementar en la empresa; lo que lo convierte en el mejor explorador para empresas en PC, Mac y dispositivos m\u00f3viles. Explore las opciones para implementar Microsoft Edge en cientos o miles de dispositivos a gran escala.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/explore-your-deployment-options-for-microsoft-edge.svg"
+  },
+  {
+    "Title": "Administraci\u00f3n de reuniones y colaboraci\u00f3n con Microsoft 365 Copilot",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-meetings-collaboration/?WT.mc_id=api_CatalogApi",
+    "Description": "Aprenda a usar Microsoft 365 Copilot para administrar reuniones y mejorar la colaboraci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Facilitar reuniones y eventos con Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/facilitate-meetings-events-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo usar Microsoft Teams para programar y administrar reuniones, facilitar y participar en reuniones, y generar eventos en directo que conecten a las personas e impulsen la colaboraci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/enable-communication-with-microsoft-teams.svg"
+  },
+  {
+    "Title": "\u00bfQu\u00e9 es Microsoft 365?",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/what-is-m365/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre Microsoft 365: una nube de productividad que ofrece experiencias innovadoras e inteligentes, informaci\u00f3n organizativa enriquecida y una plataforma de confianza para ayudar a las personas y organizaciones a hacer m\u00e1s cosas. Prep\u00e1rese para MS-900.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/what-is-m365.svg"
+  },
+  {
+    "Title": "Administrar auditor\u00eda de Microsoft Purview (est\u00e1ndar)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/manage-microsoft-purview-audit-standard/?WT.mc_id=api_CatalogApi",
+    "Description": "Administrar auditor\u00eda de Microsoft Purview (est\u00e1ndar)",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/manage-microsoft-purview-audit-standard.svg"
+  },
+  {
+    "Title": "Crear y personalizar respuestas de B\u00fasqueda de Microsoft",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/microsoft-search-create-customize-answers/?WT.mc_id=api_CatalogApi",
+    "Description": "Aumente la participaci\u00f3n y reduzca el tiempo empleado en la b\u00fasqueda mediante la creaci\u00f3n de respuestas personalizadas, como marcadores, Preguntas y respuestas, y acr\u00f3nimos en el Centro de administraci\u00f3n de Microsoft 365.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/microsoft-search-create-customize-answers.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de Aplicaciones de Microsoft 365 para empresas",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/deploy-microsoft-365-apps-enterprise/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examina c\u00f3mo implementar el conjunto de aplicaciones de Microsoft 365 para la productividad empresarial tanto en implementaciones centralizadas como controladas por el usuario.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/deploy-microsoft-365-apps-enterprise.svg"
+  },
+  {
+    "Title": "Implementar el cumplimiento para Microsoft Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-compliance-for-microsoft-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre las distintas funcionalidades de cumplimiento de Microsoft Teams, incluidas las etiquetas de confidencialidad, las directivas de retenci\u00f3n, las directivas DLP, el cumplimiento de comunicaciones y la directiva de barrera de informaci\u00f3n.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/teams-implement-compliance.svg"
+  },
+  {
+    "Title": "Compilaci\u00f3n de aplicaciones web MVC de ASP.NET con el SDK de Microsoft Graph .NET",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/msgraph-build-aspnetmvc-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "Obtenga informaci\u00f3n sobre c\u00f3mo usar el SDK de Microsoft Graph .NET en una aplicaci\u00f3n web MVC de ASP.NET.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/msgraph-build-aspnetmvc-apps.svg"
+  },
+  {
+    "Title": "Lecciones avanzadas sobre seguridad psicol\u00f3gica",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/viva-glint-advanced-psychological-safety/?WT.mc_id=api_CatalogApi",
+    "Description": "Este m\u00f3dulo proporciona tres lecciones avanzadas que los administradores pueden practicar para fortalecer la seguridad psicol\u00f3gica en sus equipos, as\u00ed como instrucciones para usar Microsoft 365 Copilot para practicar estas lecciones.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Implementaci\u00f3n de Copilot para Microsoft 365",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/implement-microsoft-365-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "En este m\u00f3dulo se examinan las tareas clave que los administradores deben realizar al implementar Microsoft 365 Copilot, como completar requisitos previos, preparar datos para b\u00fasquedas, asignar licencias de Copilot y ampliar Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/implement-microsoft-365-copilot.svg"
+  },
+  {
+    "Title": "Crear mensajes atractivos con tarjetas adaptables",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/adaptive-cards-create-engaging-messages/?WT.mc_id=api_CatalogApi",
+    "Description": "Las tarjetas adaptables son miniprogramas de la interfaz de usuario (IU) v\u00e1lidos en la plataforma, creados en JSON, que las aplicaciones y los servicios pueden intercambiarlas de forma abierta. Cuando llega a una aplicaci\u00f3n espec\u00edfica, el JSON se transforma en la interfaz de usuario nativa que se adapta autom\u00e1ticamente a su entorno. Permite dise\u00f1ar e integrar la interfaz de usuario de poco peso para todas las plataformas y entornos principales. En este m\u00f3dulo, aprender\u00e1 a crear mensajes atractivos con tarjetas adaptables para crear conversaciones y mensajes accionables de Outlook en Microsoft Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/adaptive-cards-create-engaging-messages.svg"
+  },
+  {
+    "Title": "Planeamiento de una transici\u00f3n a la administraci\u00f3n moderna",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/plan-transition-modern-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore consideraciones y revise la planeaci\u00f3n de la transici\u00f3n a la administraci\u00f3n moderna, centr\u00e1ndose en la migraci\u00f3n y los dispositivos reci\u00e9n aprovisionados.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/modern-management-transition.svg"
+  },
+  {
+    "Title": "Extensi\u00f3n de agentes declarativos con acciones de conector en Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/es-es/training/modules/extend-declarative-agents-connector-actions-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Conecte el agente declarativo a datos y servicios externos mediante acciones del conector. Configure conectores integrados y personalizados y agr\u00e9guelos a agentes declarativos que extienden Microsoft 365 Copilot.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/es-es/training/achievements/generic-badge.svg"
+  }
+]
