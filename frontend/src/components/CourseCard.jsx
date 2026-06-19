@@ -18,9 +18,13 @@ const CourseCard = ({ course }) => {
     if (p.includes('bbva')) return 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BBVA_2019.svg/1024px-BBVA_2019.svg.png';
     if (p.includes('coursera')) return 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-logo_v2.svg/1024px-Coursera-logo_v2.svg.png';
     if (p.includes('unlp')) return 'https://unlp.edu.ar/wp-content/uploads/2022/10/UNLP-Logo-Vertical.png';
-    if (p.includes('uba')) return 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0N-O-uO7T-X8P4F_wW3k-K-l4N5w9z7u-rA&s';
+    if (p.includes('uba')) return 'https://economicas.uba.ar/wp-content/uploads/2015/07/escudo-uba.png';
     if (p.includes('ibm')) return 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1024px-IBM_logo.svg.png';
     if (p.includes('edx')) return 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1024px-EdX.svg.png';
+    if (p.includes('unicef')) return 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/UNICEF_logo.svg/1024px-UNICEF_logo.svg.png';
+    if (p.includes('argentina')) return 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo_de_la_Presidencia_de_la_Naci%C3%B3n_Argentina.svg/1024px-Logo_de_la_Presidencia_de_la_Naci%C3%B3n_Argentina.svg.png';
+    if (p.includes('ypf')) return 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_YPF.svg/1024px-Logo_YPF.svg.png';
+    if (p.includes('fundación telefónica')) return 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Fundaci%C3%B3n_Telef%C3%B3nica.svg/1024px-Logo_Fundaci%C3%B3n_Telef%C3%B3nica.svg.png';
     return `https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop`;
   };
 
@@ -37,7 +41,7 @@ const CourseCard = ({ course }) => {
         onClick={() => setIsModalOpen(true)}
         className="group relative bg-zinc-900/40 border border-white/10 overflow-hidden transition-all hover:border-yellow-600 flex flex-col h-full cursor-pointer shadow-lg active:scale-95 md:active:scale-100"
       >
-        <div className="aspect-video w-full overflow-hidden bg-zinc-800 flex items-center justify-center p-4">
+        <div className="aspect-video w-full overflow-hidden bg-zinc-800 flex items-center justify-center p-8 bg-zinc-900/50">
           <img src={image} alt={title} onError={() => setImgError(true)} className="max-w-full max-h-full object-contain transition-transform duration-700 group-hover:scale-110 opacity-90 group-hover:opacity-100" />
         </div>
         <div className="p-4 md:p-6 flex flex-col flex-grow text-white text-left">
@@ -61,7 +65,7 @@ const CourseCard = ({ course }) => {
               <div className="md:w-1/2 p-6 md:p-12 flex flex-col justify-center">
                 <div className="flex flex-wrap items-center gap-2 mb-6">
                   <span className="bg-yellow-600 text-black px-3 py-1 text-[10px] font-black uppercase tracking-widest">{category}</span>
-                  <span className="text-zinc-500 font-mono text-[9px] border border-white/10 px-2 py-1 uppercase tracking-tighter">PROTOCOLO LCA v5.5</span>
+                  <span className="text-zinc-500 font-mono text-[9px] border border-white/10 px-2 py-1 uppercase tracking-tighter">PROTOCOLO LCA v6.5</span>
                 </div>
                 <h2 className="text-3xl md:text-5xl font-black text-white mb-8 leading-[0.9] tracking-tighter uppercase break-words">{title}</h2>
                 <div className="space-y-8 mb-12">
