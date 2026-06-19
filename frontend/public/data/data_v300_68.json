@@ -1,0 +1,802 @@
+[
+  {
+    "Title": "Support adoption of Dragon Copilot (nurses) as a nurse champion",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dragon-nurses-essentials-to-support-adoption/?WT.mc_id=api_CatalogApi",
+    "Description": "Apply nurse champion strategies to support adoption, coach behavior change, and confidently address questions and resistance during rollout.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dragon-nurses-essentials-to-support-adoption.svg"
+  },
+  {
+    "Title": "Configure policy templates for custom connectors in Microsoft Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/policy-templates-custom-connectors/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how to modify custom connector behavior at runtime using policies for data conversion, routing requests, and setting parameters.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/policy-templates-custom-connectors.svg"
+  },
+  {
+    "Title": "Create an agent with Microsoft Copilot Studio and Dataverse for Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-chatbot-power-virtual-agents-dataverse-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how Microsoft Copilot Studio and Dataverse for Teams enable quick access to information, enhancing decision-making and cost-efficiency.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-chatbot-power-virtual-agents-dataverse-teams.svg"
+  },
+  {
+    "Title": "Build multi-agent solutions using connected agents in Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-multi-agent-solutions-connected-agents-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to build multi-agent solutions in Copilot Studio by connecting your orchestrator to existing agents built on Microsoft's agentic platform. Configure connections to Copilot Studio agents, Microsoft Foundry agents, and Microsoft Fabric Data agents, and manage your connected agent ecosystem for accurate orchestration.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Guided Project - Create and manage canvas apps with Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/guided-project-create-manage-canvas-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you practice creating and managing a canvas app using Power Apps. The lab combines both learning and hands-on practice.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Challenge project - Build applications and automation solutions",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/challenge-project-build-applications-automation-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Configure your own Power Platform model-driven application, canvas application, and Power Automate cloud flow to support a scenario for a fictional company. You're provided with high-level specifications on the company's applications and automation requirements to complete this project. [!NOTE] This is a Challenge Project module where you complete an end-to-end project using high-level guidance; there are no step-by-step instructions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/challenge-project-build-applications-automation-solutions.svg"
+  },
+  {
+    "Title": "Create dashboards in Power BI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them. Dashboards can be composed of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single semantic model, a Power BI dashboard can contain visuals from different semantic models.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-dashboards-power-bi.svg"
+  },
+  {
+    "Title": "Build a model-driven app",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-model-driven-app/?WT.mc_id=api_CatalogApi",
+    "Description": "This module guides learners through building and sharing model-driven apps using Microsoft Power Apps. It covers creating apps from Dataverse tables, modifying forms and views, and using Copilot to streamline app creation. Learners also explore how to share model-driven apps effectively within their organization. PL-900",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Create DAX calculations in semantic models",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-create-calculations/?WT.mc_id=api_CatalogApi",
+    "Description": "Adding DAX calculations to Power BI semantic models allows you to define custom logic within your data model, to enable deeper analysis and data-driven business decisions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/add-measures-power-bi-desktop.svg"
+  },
+  {
+    "Title": "Build your first canvas app with Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-first-canvas-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Create mobile and web apps without technical experience using Power Apps. Learn how to create your first app, discover related technologies, and use data sources.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/build-first-canvas-app.svg"
+  },
+  {
+    "Title": "Build reports and review insights",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sustainability-insights-reporting/?WT.mc_id=api_CatalogApi",
+    "Description": "This lab provides insights into the emission activity trends in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/sustainability-insights-reporting.svg"
+  },
+  {
+    "Title": "Document and test your Power Apps application",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/document-test-powerapps-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to document and test a Power Apps application.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-documentation-power-platform.svg"
+  },
+  {
+    "Title": "Create a model-driven Power Apps app for machine ordering - Online Workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/power-apps-model-driven-apps-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to build a Power Apps model-driven app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/power-apps-model-driven-apps-online-workshop.svg"
+  },
+  {
+    "Title": "Use specialized components in a model-driven form",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/specialized-components-model-form/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create a business process flow, embed a canvas app, add a timeline, and create a report in a model-driven form.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/specialized-components-model-form.svg"
+  },
+  {
+    "Title": "Power Pages maintenance and troubleshooting",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/power-pages-maintenance-troubleshooting/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about Power Pages maintenance and troubleshooting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/power-pages-maintenance-troubleshooting.svg"
+  },
+  {
+    "Title": "Explore integration and interoperability in Microsoft for Healthcare",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/healthcare-integration-interoperability/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the integration and interoperability solutions in Microsoft for Healthcare.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/healthcare-integration-interoperability.svg"
+  },
+  {
+    "Title": "Power Pages data workspace - Online workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/power-pages-data-workspace-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about the data workspace in Power Pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/power-pages-data-workspace-online-workshop.svg"
+  },
+  {
+    "Title": "Enhance ESG Reporting with social and governance data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sustainability-track-social-governance-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to ingest, calculate, and analyze social and governance data in Microsoft Sustainability Manager.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/sustainability-track-social-governance-data.svg"
+  },
+  {
+    "Title": "How to build your first model-driven app with Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-first-model-driven-app-dataverse/?WT.mc_id=api_CatalogApi",
+    "Description": "This module will focus on the building blocks of Dataverse and model-driven apps. These key components will help you build quick business apps in your organization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/build-first-model-driven-app-dataverse.svg"
+  },
+  {
+    "Title": "Guided Project - Create document process model and email approval with AI Builder and Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/guided-project-document-process-model-email-approval-ai-builder/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, practice building a system that extract data from scanned invoices and create and approval email system. The lab offers interactive practice with real-world scenarios for business-specific challenges.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Best practices for error handling in Power Automate flows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/error-handling/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to configure run after options in Microsoft Power Automate to effectively handle errors and gain insight into flow action settings.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/error-handling.svg"
+  },
+  {
+    "Title": "Link your Dataverse environment to Microsoft Fabric",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/link-dataverse-fabric/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to link your Dataverse environment to Microsoft Fabric.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/link-dataverse-fabric.svg"
+  },
+  {
+    "Title": "Get started with Power Apps and SharePoint",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-power-apps-sharepoint/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create and customize Power Apps with SharePoint.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/get-started-power-apps-sharepoint.svg"
+  },
+  {
+    "Title": "Describe Dynamics 365 Contact Center representative experience",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/describe-dynamics-365-contact-center-representative-experience/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how Dynamics 365 Contact Center equips representatives with AI-assisted tools, unified workspaces, and collaboration features for efficient service.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Microsoft for Manufacturing overview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manufacturing-overview/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about Microsoft for Manufacturing.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manufacturing-overview.svg"
+  },
+  {
+    "Title": "Review resident approved reports",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/powerscribe-one-review-drafts/?WT.mc_id=api_CatalogApi",
+    "Description": "Route resident reports through the review workflow, provide feedback in PowerScribe One, and finalize reports accurately and efficiently.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/powerscribe-one-review-drafts.svg"
+  },
+  {
+    "Title": "Perform analytics in Power BI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "Advanced analytics helps you gain deeper insights into your data, identify trends, and make data-driven decisions. Power BI provides a variety of tools and features to help you analyze your data effectively.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/perform-analytics-power-bi.svg"
+  },
+  {
+    "Title": "Dragon Copilot (nurses) troubleshooting",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dragon-nurses-troubleshoot-issues/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to diagnose common Dragon Copilot (nurses) issues, coach nurses through safe corrective actions, and report them appropriately.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dragon-nurses-troubleshoot-issues.svg"
+  },
+  {
+    "Title": "Create AI Builder prompts using your own Dataverse data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/ai-builder-grounded-prompts/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create and use grounded prompts in AI Builder.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/ai-builder-grounded-prompts.svg"
+  },
+  {
+    "Title": "Dragon Copilot (nurses)- Train and coach advanced functionalities",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dragon-nurses-advance-skills/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to explain and coach advanced Dragon Copilot capabilities using the web/desktop/mobile app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dragon-nurses-advance-skills.svg"
+  },
+  {
+    "Title": "Create subflows and web automation with Power Automate for desktop - Online workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-subflows-web-automation-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover how to use Power Automate for desktop app to build subflows, automate web tasks, convert currencies, and log data into Excel.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/create-subflows-web-automation-online-workshop.svg"
+  },
+  {
+    "Title": "Use imperative development techniques for canvas apps in Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-imperative-dev-techniques-powerapps-canvas-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use imperative vs. declarative development.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-imperative-dev-techniques.svg"
+  },
+  {
+    "Title": "Build flows for a real estate solution using Copilot in Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-real-estate-power-automate-copilot/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to build Power Automate flows for a real estate solution by using Copilot in Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/build-real-estate-power-automate-copilot.svg"
+  },
+  {
+    "Title": "Access Microsoft Sustainability Manager data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/access-cloud-sustainability/?WT.mc_id=api_CatalogApi",
+    "Description": "Access sustainability data through Microsoft Dataverse API, build an Azure Data Factory pipeline, and query data using Azure Synapse Link in Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/access-cloud-sustainability.svg"
+  },
+  {
+    "Title": "Guided Project - Create and manage automated processes with Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-manage-automated-processes-with-power-automate/?WT.mc_id=api_CatalogApi",
+    "Description": "Create your own data model and flow to support a scenario for a fictional company. You'll be provided with high-level specifications on the custom tables, columns, and flow needed to complete this project.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/power-automate-module.svg"
+  },
+  {
+    "Title": "Leverage quality reporting tools in PowerScribe One",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/powerscribe-one-leverage-quality-reporting-tools/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to leverage quality reporting tools and features in PowerScribe One to enhance radiology reporting workflows and improve patient outcomes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/powerscribe-one-leverage-quality-reporting-tools.svg"
+  },
+  {
+    "Title": "Create tables in Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps-common-data-service/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore secure data management with Dataverse, learning how to create tables and import data into a cloud-based storage system.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-powerapps-common-data-service.svg"
+  },
+  {
+    "Title": "Build effective agents with Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-effective-bots/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn the techniques and best practices that help to create agents that users want to interact with.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/build-effective-bots.svg"
+  },
+  {
+    "Title": "Use Dataverse choice columns with formulas",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/choice-columns-formulas/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how you can use Power Fx formulas to work with Microsoft Dataverse choice and choices columns. These column data types present the user with a fixed list of values defined by the maker.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/choice-columns-formulas.svg"
+  },
+  {
+    "Title": "Data visualization and reports in Power BI - Online workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/data-visualization-reports-power-bi/?WT.mc_id=api_CatalogApi",
+    "Description": "Work through exercises to learn about data visualization and reports in Power BI.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/data-visualization-reports-power-bi.svg"
+  },
+  {
+    "Title": "Authentication and user management in Power Pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/power-pages-authentication-user-management/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to authenticate with Power Pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/power-pages-authentication-user-management.svg"
+  },
+  {
+    "Title": "Navigation in a canvas app in Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/navigation-canvas-app/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, learners do an in-depth exploration of navigation in Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/navigation-canvas-app.svg"
+  },
+  {
+    "Title": "Choose a content distribution method",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/choose-content-distribution-method/?WT.mc_id=api_CatalogApi",
+    "Description": "Choose a content distribution method for Power BI.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/create-manage-workspaces-power-bi.svg"
+  },
+  {
+    "Title": "Identify Microsoft Power Automate components",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/identify-microsoft-power-automate-components/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces the core concepts of Power Automate, including workflow automation use cases, cloud flow templates, and the role of triggers, actions, and connectors. Learners explore process mining, flow logic with loops and branching, and key capabilities across Power Automate apps\u2014including desktop flows and mobile experiences. The module also highlights approval scenarios and Copilot features that enhance flow creation and management. PL-900",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/power-automate-module.svg"
+  },
+  {
+    "Title": "External ESG Reporting in Sustainability Manager",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sustainability-external-esg-reporting/?WT.mc_id=api_CatalogApi",
+    "Description": "External ESG Reporting empowers organizations to collaboratively develop voluntary and regulatory disclosure reports in accordance with various standards and frameworks. The inclusion of approval and audit workflows ensures compliance and data accuracy. When you use these capabilities, External ESG Reporting simplifies the reporting process, improves efficiency, and enhances transparency in ESG reporting.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/sustainability-external-esg-reporting.svg"
+  },
+  {
+    "Title": "Troubleshoot and support peers using Dragon Copilot (nurses)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dragon-nurses-troubleshoot-and-support-peers/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to support nursing staff in troubleshooting common Dragon Copilot issues, guide safe next steps, and escalate when needed.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dragon-nurses-troubleshoot-and-support-peers.svg"
+  },
+  {
+    "Title": "Get started with model-driven apps in Power Apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-model-driven-apps-in-powerapps/?WT.mc_id=api_CatalogApi",
+    "Description": "Model-driven app design is an approach that focuses on quickly adding components to your apps. These components include dashboards, forms, views, and charts. With little to no code, you can make apps that are simple or complex. Unlike in canvas app development, where the designer has total control over the app layout, much of the layout in model-driven apps is determined by the components you add. In other words, the emphasis is more on quickly viewing your business data and making decisions than on intricate app design.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-model-driven-apps-in-powerapps.svg"
+  },
+  {
+    "Title": "Solution Architect series: Evaluate Power Platform analytics and AI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/architect-analytics/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about reporting and analytics in Microsoft Power Platform.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/architect-analytics.svg"
+  },
+  {
+    "Title": "Use Microsoft Word and Excel templates with Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-word-excel-dataverse/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how you can create data analysis and standardized documents by using Microsoft Dataverse data along with Microsoft Word and Excel templates.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/use-word-excel-dataverse.svg"
+  },
+  {
+    "Title": "Work with Emissions Impact dashboards",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sustainability-emissions-impact-dashboards/?WT.mc_id=api_CatalogApi",
+    "Description": "Gain quantitative insights into carbon emissions with Emissions Impact dashboards for Microsoft Cloud services.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/sustainability-emissions-impact-dashboards.svg"
+  },
+  {
+    "Title": "Microsoft Sustainability Manager Solution Architecture",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sustainability-architecture/?WT.mc_id=api_CatalogApi",
+    "Description": "This module describes the solution view, data model and process flow, and extensibility and integration for Microsoft for Sustainability.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/sustainability-architecture.svg"
+  },
+  {
+    "Title": "Model and coach core workflows using Dragon Copilot (nurses)",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dragon-nurses-model-and-coach-core-workflows/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to guide nursing staff through key workflows, including first recordings, review, and transcript use, to support confident Dragon Copilot adoption.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dragon-nurses-model-and-coach-core-workflows.svg"
+  },
+  {
+    "Title": "Extract information from business cards with AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-ai-business-card-reader/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about AI Builder Business card reader and how to use it in Microsoft Power Apps and Power Automate.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-business-card-reader.svg"
+  },
+  {
+    "Title": "Define input and output parameters in Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/input-parameters/?WT.mc_id=api_CatalogApi",
+    "Description": "This module defines input and output parameters for desktop flows, which allow your flows to be more comprehensive and useful.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/input-parameters.svg"
+  },
+  {
+    "Title": "Solution architect series: Explore robotic process automation",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/robotic-process-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about Microsoft Power Automate for desktop and its capabilities.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/robotic-process-automation.svg"
+  },
+  {
+    "Title": "Manage models in AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-models/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to manage models in AI Builder.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-models.svg"
+  },
+  {
+    "Title": "Publish, share, and maintain a canvas app",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/publish-share-maintain-app/?WT.mc_id=api_CatalogApi",
+    "Description": "You've built your first app. Now, it's time to publish, share it with others, and maintain subsequent versions of the app.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/publish-share-maintain-app.svg"
+  },
+  {
+    "Title": "Build an initial agent with Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/create-copilots-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to build custom agent by using Microsoft Copilot Studio.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/create-copilots-copilot-studio.svg"
+  },
+  {
+    "Title": "Text manipulation in Power Automate for desktop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/pad-text-manipulation/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to manipulate text and datetime values in Power Automate for desktop.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/pad-text-manipulation.svg"
+  },
+  {
+    "Title": "Microsoft for Healthcare Overview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/healthcare-overview/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore current healthcare challenges, how AI plays a significant role in healthcare and how Microsoft for Healthcare helps resolve these challenges.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/healthcare-overview.svg"
+  },
+  {
+    "Title": "Use Power Automate desktop app to interact with windows and applications",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/pad-ui-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how Power Automate desktop app identifies and interacts with UI elements and windows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/pad-ui-automation.svg"
+  },
+  {
+    "Title": "Explore Power Pages design studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/power-pages-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Power Pages makers spend most of their time building sites in Power Pages design studio. It's important that makers have a full understanding of the capabilities and also the limitations of the design studio. This module focuses on understanding and using the design studio to create and customize sites \u2014 including adding and configuring pages, components, CSS, and forms, securing the site with the Security workspace, and using Copilot and AI-powered agents to accelerate site development and enhance the visitor experience.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/power-pages-studio.svg"
+  },
+  {
+    "Title": "Microsoft for Healthcare data model for Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/healthcare-data-model/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore Microsoft Cloud for Healthcare's data model, based on the Fast Healthcare Interoperability Resources (FHIR) standards.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/healthcare-data-model.svg"
+  },
+  {
+    "Title": "Manage process mining projects",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-process-mining/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to manage process mining projects.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/manage-process-mining.svg"
+  },
+  {
+    "Title": "Take action from agent conversations using topics and tools in Microsoft Copilot Studio",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/take-action-agent-topics-tools-flows-copilot-studio/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to extend agent topics in Microsoft Copilot Studio to take action in external systems. This module covers calling tools and agent flows from a topic, configuring HTTP request nodes for REST API integration, and handling inputs, outputs, and errors across all three integration patterns.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Deploy Healthcare Data Solutions in Microsoft Fabric and ingest sample data",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/healthcare-sample-data-ingestion/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to deploy Healthcare Data Solutions in Microsoft Fabric and ingest sample data.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/healthcare-sample-data-ingestion.svg"
+  },
+  {
+    "Title": "Get data in Power BI",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-data/?WT.mc_id=api_CatalogApi",
+    "Description": "Connect to data sources including Excel, relational databases, and NoSQL stores in Power BI. Learn techniques to optimize performance and resolve common import errors.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-data.svg"
+  },
+  {
+    "Title": "Explore Power Pages design studio data and security features",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/power-pages-studio-data-security/?WT.mc_id=api_CatalogApi",
+    "Description": "Power Pages makers spend most their time building sites in Power Pages design studio. It's important that makers understand design studio capabilities as well as its limitations. Power Pages design studio includes Data workspace to create and manage business data and Set up workspace to configure site security and behavior. This module will focus on using the design studio to build secure Dataverse data-driven pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/power-pages-studio-data-security.svg"
+  },
+  {
+    "Title": "Advanced command bar concepts",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/command-bar-advanced/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore advanced customization techniques for command bars in Power Apps model-driven apps, including JavaScript implementation and AutoSave features.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/command-bar-advanced.svg"
+  },
+  {
+    "Title": "Deploy and use CMS Claims data transformations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/healthcare-claims-transformations/?WT.mc_id=api_CatalogApi",
+    "Description": "With CMS Claims data transformations, you can ingest, store, and analyze claims data in Centers for Medicare & Medicaid Services (CMS) Claim and Claim Line Feed (CCLF) format. CMS Claims data transformations is an optional capability of healthcare data solutions in Microsoft Fabric. In this module, you learn about the CMS Claims data transformations capabilities that are available in healthcare data solutions in Fabric. This module explains how to configure and run the notebooks to transform healthcare data from CCLF format and then ingest it into the Fabric lakehouse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/healthcare-claims-transformations.svg"
+  },
+  {
+    "Title": "Manage volunteers and groups with Volunteer Management",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/manage-volunteers-groups/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to manage volunteer details, track participation history, and use groups for efficient volunteer management in Microsoft for Nonprofits.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/manage-volunteers-groups.svg"
+  },
+  {
+    "Title": "Build your first data model and explore the data by using Power BI - Online workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-your-first-data-model/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you build a Power BI data model for the first time. Then use your first data model to explore data, create relationships, add data visualizations, group and bin data, and create a date table.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Perform common actions with client script in Power Platform",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/actions-client-script-power-platform/?WT.mc_id=api_CatalogApi",
+    "Description": "The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during Microsoft Power Platform implementations.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/actions-client-script-power-platform.svg"
+  },
+  {
+    "Title": "Integrate with cloud flows - Online workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/integrate-cloud-flows-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to integrate with cloud flows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/integrate-cloud-flows-online-workshop.svg"
+  },
+  {
+    "Title": "Publish and access reports in Power BI service \u2013 Online workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/publish-access-reports/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to use Power BI to create a mobile view, publish a report, build a dashboard, and use storytelling with Power BI within PowerPoint.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/publish-access-reports.svg"
+  },
+  {
+    "Title": "Azure Policy initiatives",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sovereignty-policy-initiatives/?WT.mc_id=api_CatalogApi",
+    "Description": "Azure Policy initiatives are a collection of Azure policy definitions that are grouped together toward a specific goal or purpose. By consolidating multiple Azure policies into a single item, Azure Policy initiatives allow centralized control and enforcement of configurations across Azure resources.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Process receipts with AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/ai-builder-receipt-processing/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn the basics of receipt processing in AI Builder and how it can benefit your organization.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/ai-builder-receipt-processing.svg"
+  },
+  {
+    "Title": "Get started with Power Apps canvas apps",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how Power Apps can make your business more efficient and streamline your processes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-powerapps.svg"
+  },
+  {
+    "Title": "Get started with security concepts in Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-security-concepts/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about getting started with security concepts in Microsoft Dataverse.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/get-started-security-concepts.svg"
+  },
+  {
+    "Title": "Identify key phrases with AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-ai-builder-key-phrase-extraction/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore the AI Builder Key phrase extraction model and learn how to use it with other Microsoft Power Platform products.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-key-phrase-extraction.svg"
+  },
+  {
+    "Title": "Use DAX time intelligence functions in semantic models",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/?WT.mc_id=api_CatalogApi",
+    "Description": "DAX time intelligence functions in Power BI enable users to analyze and compare data across different time periods, supporting insightful reporting on trends, growth, and performance over time.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/use-dax-power-bi-desktop.svg"
+  },
+  {
+    "Title": "Automate the processing of documents with the AI Builder prepackaged solution",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-ai-builder-document-automation/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover the benefits of document automation and how it can streamline your workflow.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-ai-builder-document-automation.svg"
+  },
+  {
+    "Title": "Build your first app with Power Apps and Dataverse for Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/build-app-dataverse-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to build an app by using Microsoft Dataverse for Teams.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/build-app-dataverse-teams.svg"
+  },
+  {
+    "Title": "Customize the command bar",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/command-bar-customize/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn to customize the command bar in Power Apps.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/command-bar-customize.svg"
+  },
+  {
+    "Title": "Power Pages workspace site design - Online workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/power-pages-workspace-site-design-online-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn about workspace site design in Power Pages.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/power-pages-workspace-site-design-online-workshop.svg"
+  },
+  {
+    "Title": "Get started with AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-with-ai-builder/?WT.mc_id=api_CatalogApi",
+    "Description": "This self-paced module helps you build an AI model from the beginning and shows how you can use it in your business without writing a single line of code.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-ai-builder.svg"
+  },
+  {
+    "Title": "Use text generation in AI Builder",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/ai-builder-text-generation/?WT.mc_id=api_CatalogApi",
+    "Description": "Try a template and write your own instructions with text generation in AI Builder.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/ai-builder-text-generation.svg"
+  },
+  {
+    "Title": "Use hierarchies and DAX in your first data model - Online workshop",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/use-hierarchies-dax-first-data-model/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you add measures to a Power BI data model for the first time. You use hierarchies, matrix visuals, and DAX in your data model to explore the data further.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/use-hierarchies-dax-first-data-model.svg"
+  },
+  {
+    "Title": "Extend the healthcare data model in Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/healthcare-extend-data-model/?WT.mc_id=api_CatalogApi",
+    "Description": "This module explores how you can extend the healthcare data model in Dataverse. It covers a detailed understanding of how to add a new set of tables based on a selected FHIR resource. You'll review the FHIR resource specification, and the conventions before creating a relational model based on the FHIR specification. Additionally, hands-on exercises in this module help you add new tables and extend the data model.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Extend Sustainability Manager for building complex Scope 3 calculations",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/sustainability-complex-calculations/?WT.mc_id=api_CatalogApi",
+    "Description": "Explore how to extend and utilize dynamic calculation capabilities in Sustainability Manager for Scope 3 emissions.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/sustainability-complex-calculations.svg"
+  },
+  {
+    "Title": "Design your app like a pro",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/design-app/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to design an app based on an identified problem.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/design-app.svg"
+  },
+  {
+    "Title": "Use the Admin center to manage environments and data policies in Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/administer-flows/?WT.mc_id=api_CatalogApi",
+    "Description": "Tenant and environment admins use the Power Automate Admin center to manage data policies and environments for Power Automate deployments.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/administer-flows.svg"
+  },
+  {
+    "Title": "Get started with Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-flows/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to create simple flows to make your life easier.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-with-flow.svg"
+  },
+  {
+    "Title": "Import and export solutions with cloud flows",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/import-export-solutions/?WT.mc_id=api_CatalogApi",
+    "Description": "Discover the basics of using solutions with cloud flows, including manual and automated options, benefits, and import/export procedures.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/import-export-solutions.svg"
+  },
+  {
+    "Title": "Overview of HTTP connectors in Power Automate",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/http-connectors/?WT.mc_id=api_CatalogApi",
+    "Description": "Interact directly with data using web requests with HTTP connectors in Power Automate flows.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/http-connectors.svg"
+  },
+  {
+    "Title": "Guided Project - Create and manage model-driven apps with Power Apps and Dataverse",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/guided-project-create-manage-model-driven-apps/?WT.mc_id=api_CatalogApi",
+    "Description": "In this module, you practice building model-driven apps by using Microsoft Power Apps. The skills validated include creating Dataverse tables, modifying forms and views, and configuring a model-driven app. The scenario in this experience represents real-world challenges faced by individuals with business-specific expertise who build model-driven apps. The lab combines both learning and hands-on practice.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"
+  },
+  {
+    "Title": "Dragon Copilot basics for physicians",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/dragon-copilot-basics-for-physicians/?WT.mc_id=api_CatalogApi",
+    "Description": "Get started with Dragon Copilot for physicians by exploring core AI concepts, workspace navigation, recording sessions, and dictation features.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/dragon-copilot-basics-for-physicians.svg"
+  },
+  {
+    "Title": "Get started with Microsoft Dataverse for Teams",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-dataverse-teams/?WT.mc_id=api_CatalogApi",
+    "Description": "This module introduces Microsoft Dataverse for Teams and how you can build apps, workflows, chatbots, and dashboards in it. You'll learn how to provision Dataverse for Teams and then create a table for your data.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-dataverse-teams.svg"
+  },
+  {
+    "Title": "Approvals Kit in Power Automate workshop overview",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/approvals-kit-workshop/?WT.mc_id=api_CatalogApi",
+    "Description": "Save time and effort by using the no-code Approvals Kit in Power Automate to model and automate your approval processes.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/learn/achievements/approvals-kit-workshop.svg"
+  },
+  {
+    "Title": "Get started with payment integrations in Power Pages",
+    "Provider": "Microsoft Learn",
+    "Link": "https://learn.microsoft.com/en-us/training/modules/get-started-payment-integrations/?WT.mc_id=api_CatalogApi",
+    "Description": "Learn how to integrate secure Stripe payment solutions into your Microsoft Power Pages websites.",
+    "Category": "Mundial",
+    "imageLink": "https://learn.microsoft.com/en-us/training/achievements/get-started-payment-integrations.svg"
+  }
+]
