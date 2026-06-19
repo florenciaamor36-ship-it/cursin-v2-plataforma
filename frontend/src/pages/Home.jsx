@@ -18,7 +18,7 @@ const Home = () => {
   }, []);
 
   const categories = ['All', 'Programación', 'IA', 'Marketing', 'Diseño', 'Negocios'];
-  const freeCoursesCount = 6;
+  const freeCoursesCount = filteredCourses.length;
   
   const filteredCourses = useMemo(() => {
     return coursesDataRaw.filter(course => {
@@ -118,6 +118,7 @@ const Home = () => {
         <Courses coursesData={displayedCourses} />
       </div>
 
+{/*
       <div className="relative py-48 bg-black">
         <div className="container mx-auto px-6 blur-3xl grayscale opacity-5 pointer-events-none select-none">
              <Courses coursesData={coursesDataRaw.slice(0, 4)} />
@@ -160,6 +161,7 @@ const Home = () => {
         </div>
       </div>
 
+*/}
       <footer className="py-32 bg-zinc-950 border-t border-white/5 text-center">
         <p className="text-zinc-800 text-[9px] font-mono tracking-[0.8em] uppercase">LCA // EDUCATIONAL PROTOCOL // 2026</p>
       </footer>
@@ -168,3 +170,4 @@ const Home = () => {
 };
 
 export default Home;
+
