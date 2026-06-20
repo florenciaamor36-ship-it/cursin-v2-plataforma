@@ -84,9 +84,9 @@ const CourseCard = React.memo(({ course, isFavorite, toggleFavorite }) => {
             )}
           </button>
 
-          {(provider.toLowerCase().includes('google') || provider.toLowerCase().includes('microsoft') || provider.toLowerCase().includes('santander')) && (
-            <div className="absolute top-4 right-4 w-9 h-9 bg-white/10 backdrop-blur-md rounded-lg p-2 border border-white/10 shadow-xl">
-               <img src={getProviderImage(provider, '', '')} className="w-full h-full object-contain" alt="logo" />
+          {(provider.toLowerCase().includes('google') || provider.toLowerCase().includes('microsoft') || provider.toLowerCase().includes('santander') || provider.toLowerCase().includes('ibm') || provider.toLowerCase().includes('coursera')) && (
+            <div className="absolute top-4 right-4 w-9 h-9 bg-white/10 backdrop-blur-md rounded-lg p-2 border border-white/10 shadow-xl overflow-hidden">
+               <img src={getProviderImage(provider, '', '')} className="w-full h-full object-contain" alt="logo" onError={(e) => e.target.parentElement.style.display = 'none'} />
             </div>
           )}
         </div>
