@@ -49,7 +49,8 @@ const Home = () => {
               promises.push(fetchChunk('45a'));
               promises.push(fetchChunk('45b'));
             } else if (chunkIndex === 46) {
-              promises.push(fetchChunk('46a'));
+              promises.push(fetchChunk('46_2'));
+              promises.push(fetchChunk('46_3'));
               promises.push(fetchChunk('46b'));
             } else {
               promises.push(fetchChunk(chunkIndex));
@@ -214,7 +215,7 @@ const Home = () => {
       {/* Header */}
       <div className="container mx-auto px-6 pt-12 pb-12 border-b border-white/5">
         <div className="flex justify-between items-start mb-8">
-           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest shadow-[0_0_15px_rgba(202,138,4,0.4)]">LCA Massive Protocol v11.0</div>
+           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest shadow-[0_0_15px_rgba(202,138,4,0.4)]">LCA Massive Protocol v11.1</div>
            <div className="text-zinc-700 font-mono text-[9px] uppercase tracking-widest">Base: {allCourses.length}</div>
         </div>
         <h1 onClick={handleReset} className="text-7xl md:text-[12rem] font-black tracking-tighter leading-none mb-8 uppercase cursor-pointer hover:text-yellow-600 transition-colors">CURSIN<span className="text-yellow-600">.</span></h1>
