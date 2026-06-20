@@ -15,6 +15,8 @@ const Home = () => {
   const [showFavorites, setShowFavorites] = useState(false);
   const coursesPerPage = 20;
 
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
   const categories = ['Todo', 'Español', 'Universidad', 'Plataforma', 'País', 'Provincia', 'Idiomas', 'Carrera', 'Acelerados', 'Certificado', 'IA', 'Programación', 'Marketing'];
 
   useEffect(() => {
@@ -212,35 +214,58 @@ const Home = () => {
         </div>
       )}
 
-      {/* Header */}
-      <div className="container mx-auto px-6 pt-12 pb-12 border-b border-white/5">
+      {/* Header - No se esconde */}
+      <div className="container mx-auto px-6 pt-12 pb-6 border-b border-white/5">
         <div className="flex justify-between items-start mb-8">
-           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest shadow-[0_0_15px_rgba(202,138,4,0.4)]">LCA Massive Protocol v11.1</div>
+           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest shadow-[0_0_15px_rgba(202,138,4,0.4)]">LCA Massive Protocol v12.0</div>
            <div className="text-zinc-700 font-mono text-[9px] uppercase tracking-widest">Base: {allCourses.length}</div>
         </div>
-        <h1 onClick={handleReset} className="text-7xl md:text-[12rem] font-black tracking-tighter leading-none mb-8 uppercase cursor-pointer hover:text-yellow-600 transition-colors">CURSIN<span className="text-yellow-600">.</span></h1>
+        <h1 onClick={handleReset} className="text-6xl md:text-[12rem] font-black tracking-tighter leading-none mb-4 uppercase cursor-pointer hover:text-yellow-600 transition-colors">CURSIN<span className="text-yellow-600">.</span></h1>
+        <p className="text-zinc-500 font-mono text-[10px] uppercase tracking-[0.5em] mb-4">Plataforma de cursos gratuitos</p>
       </div>
 
-      {/* Sticky Search */}
-      <div className="bg-black/90 sticky top-0 z-50 border-b border-yellow-600/20 backdrop-blur-2xl">
-        <div className="container mx-auto px-6 py-6">
-          <input 
-            type="text" 
-            placeholder="¿QUÉ CURSO BUSCAMOS HOY?..." 
-            value={searchQuery} 
-            onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }} 
-            className="w-full bg-transparent border-b-4 border-zinc-900 py-6 text-2xl md:text-5xl font-black uppercase tracking-tighter focus:outline-none focus:border-yellow-600 transition-all placeholder:text-zinc-900" 
-          />
-          <div className="mt-6 flex flex-wrap gap-2">
+      {/* Sticky Search & Navigation */}
+      <div className="bg-black/95 sticky top-0 z-50 border-b border-yellow-600/20 backdrop-blur-3xl">
+        <div className="container mx-auto px-6 py-4">
+          <div className="flex items-center gap-4">
+            <div className="relative flex-grow">
+              <input 
+                type="text" 
+                placeholder="¿QUÉ CURSO BUSCAMOS?" 
+                value={searchQuery} 
+                onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }} 
+                className="w-full bg-transparent border-b-2 border-zinc-900 py-3 text-lg md:text-3xl font-black uppercase tracking-tighter focus:outline-none focus:border-yellow-600 transition-all placeholder:text-zinc-800" 
+              />
+            </div>
+            
+            {/* Mobile Menu Toggle */}
             <button 
-              onClick={() => { setShowFavorites(!showFavorites); setCurrentPage(1); }} 
-              className={`px-6 py-2 text-[10px] font-black uppercase tracking-widest border-2 transition-all flex items-center gap-2 ${showFavorites ? 'bg-red-600 border-red-600 text-white' : 'bg-black text-red-500 border-red-600/20 hover:border-red-600'}`}
+              onClick={() => setIsMenuOpen(!isMenuOpen)}
+              className="md:hidden p-3 bg-zinc-900 rounded-lg text-yellow-600 border border-white/5"
             >
-              {showFavorites ? '❤️ Ver Todo' : '🤍 Mis Favoritos'} ({favorites.length})
+              {isMenuOpen ? (
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M6 18L18 6M6 6l12 12" /></svg>
+              ) : (
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M4 6h16M4 12h16m-7 6h7" /></svg>
+              )}
             </button>
-            <div className="w-px h-8 bg-zinc-800 mx-2 hidden md:block"></div>
+          </div>
+
+          {/* Categories - Desktop: Row | Mobile: Collapsible Menu */}
+          <div className={`${isMenuOpen ? 'flex' : 'hidden'} md:flex flex-col md:flex-row flex-wrap gap-2 mt-4 transition-all duration-500`}>
+            <button 
+              onClick={() => { setShowFavorites(!showFavorites); setCurrentPage(1); setIsMenuOpen(false); }} 
+              className={`px-4 py-2 text-[10px] font-black uppercase tracking-widest border-2 transition-all flex items-center justify-center gap-2 rounded ${showFavorites ? 'bg-red-600 border-red-600 text-white' : 'bg-black text-red-500 border-red-600/20 hover:border-red-600'}`}
+            >
+              {showFavorites ? '❤️ Ver Todo' : '🤍 Favoritos'} ({favorites.length})
+            </button>
+            <div className="w-full md:w-px h-px md:h-8 bg-zinc-800 mx-1 hidden md:block"></div>
             {categories.map(cat => (
-              <button key={cat} onClick={() => { setSelectedCategory(cat); setCurrentPage(1); }} className={`px-6 py-2 text-[10px] font-black uppercase tracking-widest border-2 transition-all ${selectedCategory === cat ? 'bg-white text-black border-white' : 'bg-black text-zinc-600 border-zinc-900 hover:border-yellow-600'}`}>
+              <button 
+                key={cat} 
+                onClick={() => { setSelectedCategory(cat); setCurrentPage(1); setIsMenuOpen(false); }} 
+                className={`px-4 py-2 text-[10px] font-black uppercase tracking-widest border-2 transition-all rounded ${selectedCategory === cat ? 'bg-white text-black border-white' : 'bg-black text-zinc-600 border-zinc-900 hover:border-yellow-600'}`}
+              >
                 {cat}
               </button>
             ))}
