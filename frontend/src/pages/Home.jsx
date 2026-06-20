@@ -2,10 +2,11 @@ import React, { useState, useMemo, useEffect } from 'react';
 import Courses from '../components/Courses';
 
 const Home = () => {
+  const [allCourses, setAllCourses] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('Todo');
-  const [allCourses, setAllCourses] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [progress, setProgress] = useState(0);
   const [currentPage, setCurrentPage] = useState(1);
   const [favorites, setFavorites] = useState(() => {
     const saved = localStorage.getItem('lca_favorites');
@@ -36,15 +37,14 @@ const Home = () => {
 
   useEffect(() => {
     const init = async () => {
-      console.log("LCA PROTOCOL V9.0 - SYNCING GLOBAL DATABASE");
+      console.log("LCA PROTOCOL V11.0 - SYNCING GLOBAL DATABASE");
       const totalChunks = 90;
-      const batchSize = 10;
+      const batchSize = 5; // Lotes más pequeños para feedback visual suave
       for (let i = 0; i < totalChunks; i += batchSize) {
         const promises = [];
         for (let j = 1; j <= batchSize; j++) {
           const chunkIndex = i + j;
           if (chunkIndex <= totalChunks) {
-            // Manejo especial para bloques fragmentados (45a, 45b, etc)
             if (chunkIndex === 45) {
               promises.push(fetchChunk('45a'));
               promises.push(fetchChunk('45b'));
@@ -65,11 +65,20 @@ const Home = () => {
             return [...prev, ...newOnes];
           });
         }
+        setProgress(Math.round(((i + batchSize) / totalChunks) * 100));
         if (i === 0) setLoading(false);
       }
     };
     init();
   }, []);
+
+  const handleReset = () => {
+    setSearchQuery('');
+    setSelectedCategory('Todo');
+    setShowFavorites(false);
+    setCurrentPage(1);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   const filteredCourses = useMemo(() => {
     let base = allCourses;
@@ -187,20 +196,28 @@ const Home = () => {
     <div className="min-h-screen bg-black flex flex-col items-center justify-center p-6">
       <div className="text-yellow-600 font-black text-xl uppercase animate-pulse text-center tracking-[0.3em] mb-8">Sincronizando Archivos Globales...</div>
       <div className="w-full max-w-md h-2 bg-zinc-900 rounded-full overflow-hidden">
-        <div className="h-full bg-yellow-600 w-1/2 animate-[loading_2s_infinite]"></div>
+        <div className="h-full bg-yellow-600 transition-all duration-500" style={{ width: `${progress}%` }}></div>
       </div>
+      <div className="mt-4 text-zinc-700 font-mono text-[10px] uppercase tracking-widest">{progress}% COMPLETADO</div>
     </div>
   );
 
   return (
     <div className="min-h-screen bg-black text-white font-sans selection:bg-yellow-600 selection:text-black">
+      {/* Scroll Progress Bar (Top) */}
+      {!loading && progress < 100 && (
+        <div className="fixed top-0 left-0 w-full h-1 z-[1000] bg-zinc-900">
+          <div className="h-full bg-yellow-600 transition-all duration-500" style={{ width: `${progress}%` }}></div>
+        </div>
+      )}
+
       {/* Header */}
       <div className="container mx-auto px-6 pt-12 pb-12 border-b border-white/5">
         <div className="flex justify-between items-start mb-8">
-           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest shadow-[0_0_15px_rgba(202,138,4,0.4)]">LCA Massive Protocol v10.1</div>
+           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest shadow-[0_0_15px_rgba(202,138,4,0.4)]">LCA Massive Protocol v11.0</div>
            <div className="text-zinc-700 font-mono text-[9px] uppercase tracking-widest">Base: {allCourses.length}</div>
         </div>
-        <h1 className="text-7xl md:text-[12rem] font-black tracking-tighter leading-none mb-8 uppercase">CURSIN<span className="text-yellow-600">.</span></h1>
+        <h1 onClick={handleReset} className="text-7xl md:text-[12rem] font-black tracking-tighter leading-none mb-8 uppercase cursor-pointer hover:text-yellow-600 transition-colors">CURSIN<span className="text-yellow-600">.</span></h1>
       </div>
 
       {/* Sticky Search */}
@@ -208,7 +225,7 @@ const Home = () => {
         <div className="container mx-auto px-6 py-6">
           <input 
             type="text" 
-            placeholder="BUSCAR CURSO, UNIVERSIDAD O TEMA..." 
+            placeholder="¿QUÉ CURSO BUSCAMOS HOY?..." 
             value={searchQuery} 
             onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }} 
             className="w-full bg-transparent border-b-4 border-zinc-900 py-6 text-2xl md:text-5xl font-black uppercase tracking-tighter focus:outline-none focus:border-yellow-600 transition-all placeholder:text-zinc-900" 
