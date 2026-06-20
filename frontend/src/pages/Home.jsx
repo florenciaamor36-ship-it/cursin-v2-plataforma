@@ -73,11 +73,13 @@ const Home = () => {
 
   const filteredCourses = useMemo(() => {
     let base = allCourses;
+    
+    // Si estamos en modo favoritos, primero filtramos por favoritos
     if (showFavorites) {
       base = allCourses.filter(c => favorites.includes(c.Link || c.link));
     }
 
-    const search = searchQuery.toLowerCase();
+    const search = searchQuery.trim().toLowerCase();
     const cat = selectedCategory.toLowerCase();
     
     return base.filter(course => {
@@ -86,7 +88,7 @@ const Home = () => {
       const provider = (course.Provider || course.provider || '').toLowerCase();
       const categoryField = (course.Category || course.category || '').toLowerCase();
       
-      const matchesSearch = title.includes(search) || desc.includes(search) || provider.includes(search);
+      const matchesSearch = search === "" || title.includes(search) || desc.includes(search) || provider.includes(search);
       if (!matchesSearch) return false;
       
       if (cat === 'todo') return true;
@@ -106,28 +108,42 @@ const Home = () => {
   };
 
   const PaginationComponent = () => (
-    <div className="flex flex-col items-center gap-6 my-12 p-8 bg-zinc-900/50 border border-yellow-600/30 rounded-xl">
-      <div className="flex flex-wrap justify-center items-center gap-4">
+    <div className="flex flex-col items-center gap-6 my-12 p-6 md:p-10 bg-zinc-900/30 border border-white/5 rounded-2xl backdrop-blur-sm">
+      <div className="flex flex-wrap justify-center items-center gap-3">
+        <button 
+          onClick={() => handlePageChange(1)}
+          disabled={currentPage === 1}
+          className="w-12 h-12 flex items-center justify-center bg-zinc-900 text-white border border-white/10 hover:border-yellow-600 disabled:opacity-20 transition-all rounded-lg"
+          title="Primera página"
+        >
+          «
+        </button>
         <button 
           onClick={() => handlePageChange(Math.max(1, currentPage - 1))}
           disabled={currentPage === 1}
-          className="px-8 py-4 bg-yellow-600 text-black font-black uppercase text-xs tracking-widest hover:bg-white transition-all disabled:opacity-20 disabled:bg-zinc-800 disabled:text-zinc-600"
+          className="px-6 h-12 bg-zinc-900 text-white font-black uppercase text-[10px] tracking-widest border border-white/10 hover:border-yellow-600 disabled:opacity-20 transition-all rounded-lg"
         >
           ANTERIOR
         </button>
 
         <div className="flex gap-2">
           {[...Array(Math.min(5, totalPages))].map((_, i) => {
-            let pageNum = currentPage <= 3 ? i + 1 : currentPage + i - 2;
-            if (pageNum > totalPages) pageNum = totalPages - (4 - i);
-            if (pageNum < 1) pageNum = i + 1;
-            if (pageNum > totalPages) return null;
+            let pageNum;
+            if (totalPages <= 5) {
+              pageNum = i + 1;
+            } else if (currentPage <= 3) {
+              pageNum = i + 1;
+            } else if (currentPage >= totalPages - 2) {
+              pageNum = totalPages - 4 + i;
+            } else {
+              pageNum = currentPage - 2 + i;
+            }
 
             return (
               <button 
                 key={pageNum}
                 onClick={() => handlePageChange(pageNum)}
-                className={`w-14 h-14 flex items-center justify-center font-black text-sm transition-all border-2 ${currentPage === pageNum ? 'bg-white border-white text-black scale-110' : 'bg-black border-zinc-800 text-zinc-500 hover:border-yellow-600'}`}
+                className={`w-12 h-12 flex items-center justify-center font-black text-xs transition-all rounded-lg border-2 ${currentPage === pageNum ? 'bg-yellow-600 border-yellow-600 text-black scale-110 shadow-[0_0_20px_rgba(202,138,4,0.3)]' : 'bg-black border-white/5 text-zinc-500 hover:border-white/20'}`}
               >
                 {pageNum}
               </button>
@@ -138,16 +154,31 @@ const Home = () => {
         <button 
           onClick={() => handlePageChange(Math.min(totalPages, currentPage + 1))}
           disabled={currentPage === totalPages}
-          className="px-8 py-4 bg-yellow-600 text-black font-black uppercase text-xs tracking-widest hover:bg-white transition-all disabled:opacity-20 disabled:bg-zinc-800 disabled:text-zinc-600"
+          className="px-6 h-12 bg-zinc-900 text-white font-black uppercase text-[10px] tracking-widest border border-white/10 hover:border-yellow-600 disabled:opacity-20 transition-all rounded-lg"
         >
           SIGUIENTE
         </button>
+        <button 
+          onClick={() => handlePageChange(totalPages)}
+          disabled={currentPage === totalPages}
+          className="w-12 h-12 flex items-center justify-center bg-zinc-900 text-white border border-white/10 hover:border-yellow-600 disabled:opacity-20 transition-all rounded-lg"
+          title="Última página"
+        >
+          »
+        </button>
       </div>
       
-      <div className="flex items-center gap-6 text-[10px] font-mono text-yellow-600 uppercase tracking-[0.4em]">
-        <span>PÁGINA {currentPage} DE {totalPages}</span>
-        <span className="text-zinc-800">|</span>
-        <span>{filteredCourses.length} CURSOS ENCONTRADOS</span>
+      <div className="flex flex-wrap justify-center items-center gap-x-6 gap-y-2 text-[9px] font-mono text-zinc-500 uppercase tracking-[0.3em]">
+        <div className="flex items-center gap-2">
+          <span className="text-yellow-600">PÁGINA</span>
+          <span className="text-white bg-white/5 px-2 py-0.5 rounded">{currentPage}</span>
+          <span>DE {totalPages}</span>
+        </div>
+        <span className="hidden md:block text-zinc-800">/</span>
+        <div className="flex items-center gap-2">
+          <span className="text-yellow-600">{filteredCourses.length}</span>
+          <span>RESULTADOS TOTALES</span>
+        </div>
       </div>
     </div>
   );
@@ -166,7 +197,7 @@ const Home = () => {
       {/* Header */}
       <div className="container mx-auto px-6 pt-12 pb-12 border-b border-white/5">
         <div className="flex justify-between items-start mb-8">
-           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest">LCA Massive Protocol v10.0</div>
+           <div className="bg-yellow-600 text-black px-4 py-1 text-[11px] font-black uppercase tracking-widest shadow-[0_0_15px_rgba(202,138,4,0.4)]">LCA Massive Protocol v10.1</div>
            <div className="text-zinc-700 font-mono text-[9px] uppercase tracking-widest">Base: {allCourses.length}</div>
         </div>
         <h1 className="text-7xl md:text-[12rem] font-black tracking-tighter leading-none mb-8 uppercase">CURSIN<span className="text-yellow-600">.</span></h1>
