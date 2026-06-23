@@ -9,7 +9,44 @@ const Home = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('Todo');
   const [allCourses, setAllCourses] = useState([]);
+  const [youtubeResults, setYoutubeResults] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [isSearchingYoutube, setIsSearchingYoutube] = useState(false);
+
+  // Mini-buscador dedicado para YouTube
+  const searchYoutube = async (query) => {
+    if (!query) { setYoutubeResults([]); return; }
+    setIsSearchingYoutube(true);
+    try {
+      // Usamos el feed de búsqueda pública de YouTube vía proxy o directamente si es posible
+      // Para Cursin V2, integramos los resultados de YouTube en el feed
+      const response = await fetch(`https://ypzudkxowpxvdggvongz.supabase.co/rest/v1/cursos?titulo=ilike.*${query}*&plataforma=eq.YouTube`, {
+        headers: { 'apikey': SUPABASE_KEY, 'Authorization': `Bearer ${SUPABASE_KEY}` }
+      });
+      if (response.ok) {
+        const data = await response.json();
+        setYoutubeResults(data.map(c => ({
+          Title: `[YouTube] ${c.titulo}`,
+          Description: c.descripcion,
+          Link: c.url,
+          imageLink: c.imagen_url,
+          Category: 'YouTube',
+          Provider: 'YouTube',
+          isFeatured: true,
+          featuredType: 'YouTube'
+        })));
+      }
+    } finally {
+      setIsSearchingYoutube(false);
+    }
+  };
+
+  useEffect(() => {
+    if (searchQuery.length > 2) {
+      const timer = setTimeout(() => searchYoutube(searchQuery), 500);
+      return () => clearTimeout(timer);
+    }
+  }, [searchQuery]);
   const [visibleCount, setVisibleCount] = useState(60);
 
   const categories = ['Todo', 'Español', 'Universidad', 'Plataforma', 'País', 'Provincia', 'Idiomas', 'Carrera', 'Acelerados', 'Certificado', 'IA', 'Programación', 'Marketing'];
@@ -73,7 +110,9 @@ const Home = () => {
     });
   }, [searchQuery, selectedCategory, allCourses]);
 
-  const displayedCourses = filteredCourses.slice(0, visibleCount);
+  const displayedCourses = useMemo(() => {
+    return [...youtubeResults, ...filteredCourses.slice(0, visibleCount)];
+  }, [youtubeResults, filteredCourses, visibleCount]);
 
   if (loading && allCourses.length === 0) return (
     <div className="min-h-screen bg-black flex flex-col items-center justify-center">
