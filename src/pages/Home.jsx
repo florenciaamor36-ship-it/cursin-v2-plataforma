@@ -29,14 +29,21 @@ const Home = () => {
         if (response.ok) {
           const data = await response.json();
           // Mapeamos para que coincida con el formato que esperaba el componente (Title, Description, etc)
-          const formatted = data.map(c => ({
-            Title: c.titulo,
-            Description: c.descripcion,
-            Link: c.url,
-            imageLink: c.imagen_url,
-            Category: c.categorias ? c.categorias.nombre : 'General',
-            Provider: c.plataforma
-          }));
+          const formatted = data.map(c => {
+            const isSantander = (c.plataforma || '').toLowerCase().includes('santander');
+            const isYoutube = (c.plataforma || '').toLowerCase().includes('youtube') || (c.url || '').toLowerCase().includes('youtube.com') || (c.url || '').toLowerCase().includes('youtu.be');
+            
+            return {
+              Title: c.titulo,
+              Description: c.descripcion,
+              Link: c.url,
+              imageLink: c.imagen_url,
+              Category: c.categorias ? c.categorias.nombre : 'General',
+              Provider: c.plataforma,
+              isFeatured: isSantander || isYoutube,
+              featuredType: isSantander ? 'Santander' : (isYoutube ? 'YouTube' : null)
+            };
+          });
           setAllCourses(formatted);
         }
       } catch (err) {
