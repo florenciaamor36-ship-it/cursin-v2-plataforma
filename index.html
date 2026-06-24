@@ -8,40 +8,60 @@
     <script src='https://cdn.tailwindcss.com'></script>
     <style>
         body { background: #000; color: #fff; font-family: sans-serif; }
-        .nav-glass { background: rgba(0,0,0,0.9); backdrop-filter: blur(10px); }
+        .nav-glass { background: rgba(0,0,0,0.9); backdrop-filter: blur(10px); border-bottom: 1px solid #111; }
         .card-course { background: #0a0a0a; border: 1px solid #1a1a1a; transition: 0.3s; border-radius: 28px; overflow: hidden; display: flex; flex-direction: column; height: 100%; }
         .card-course:hover { border-color: #ff0000; transform: translateY(-8px); }
         .img-c { height: 160px; background: #050505; display: flex; align-items: center; justify-content: center; padding: 20px; position: relative; }
         .img-c img { max-width: 100%; max-height: 100%; object-fit: contain; z-index: 2; }
     </style>
+    <script>
+        // SCRIPT DE LIMPIEZA TOTAL DE CACHE - v162
+        (function() {
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.getRegistrations().then(function(registrations) {
+                    for(let registration of registrations) { registration.unregister(); }
+                });
+            }
+            if ('caches' in window) {
+                caches.keys().then(function(names) {
+                    for (let name of names) caches.delete(name);
+                });
+            }
+        })();
+    </script>
 </head>
 <body>
     <div class='drawer'>
         <input id='drawer' type='checkbox' class='drawer-toggle' />
         <div class='drawer-content flex flex-col'>
             <div class='navbar w-full nav-glass sticky top-0 z-50 px-4 md:px-10'>
-                <div class='flex-none'><label for='drawer' class='btn btn-square btn-ghost text-white font-bold'>☰</label></div>
-                <div class='flex-1 font-bold text-xl text-white uppercase italic ml-2'>LA CLAVE <span class='text-red-600'>ARGENTINA</span></div>
+                <div class='flex-none'><label for='drawer' class='btn btn-square btn-ghost text-white font-bold text-2xl'>☰</label></div>
+                <div class='flex-1 font-black text-xl text-white uppercase italic ml-2 tracking-tighter'>LA CLAVE <span class='text-red-600'>ARGENTINA</span></div>
             </div>
             <main class='min-h-screen text-center p-4'>
-                <h1 class='text-6xl md:text-9xl font-black mt-20 mb-6 uppercase leading-none text-white'>TIENDA <span class='text-red-600 italic'>SSH</span></h1>
-                <p class='text-zinc-500 font-bold uppercase tracking-widest text-[10px] mb-16'>+65.000 Cursos Certificados de Élite</p>
+                <h1 class='text-6xl md:text-9xl font-black mt-20 mb-6 tracking-tighter uppercase leading-none text-white' style='font-family:Montserrat, sans-serif;'>TIENDA <span class='text-red-600 italic'>SSH</span></h1>
+                <p class='text-zinc-500 font-bold uppercase tracking-widest text-[10px] mb-16'>+65.000 Cursos Certificados de Élite | La Clave Academy</p>
                 <div class='max-w-2xl mx-auto mb-20'>
-                    <input id='q' type='text' placeholder='Buscar entre +65.000 cursos...' class='input input-bordered w-full rounded-full bg-zinc-900 border-zinc-800 font-bold' oninput='search()'/>
+                    <input id='q' type='text' placeholder='Buscar cursos...' class='input input-bordered w-full rounded-full bg-zinc-900 border-zinc-800 font-bold px-8' oninput='search()'/>
                 </div>
-                <div id='grid' class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-[1400px] mx-auto'></div>
-                <div class='mt-20 flex flex-col items-center gap-4'>
-                    <button id='more' onclick='loadMore()' class='btn btn-outline border-zinc-800 text-zinc-400 rounded-full px-12 hover:bg-red-600 hover:text-white font-black'>CARGAR MÁS</button>
+                <div id='grid' class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-[1400px] mx-auto px-4'></div>
+                <div class='mt-20 flex flex-col items-center gap-4 pb-20'>
+                    <button id='more' onclick='loadMore()' class='btn btn-outline border-zinc-800 text-zinc-400 rounded-full px-12 hover:bg-red-600 hover:text-white font-black'>CARGAR MÁS CURSOS</button>
                     <p id='counter' class='text-[9px] font-black text-zinc-600 tracking-[0.3em] uppercase'></p>
                 </div>
             </main>
         </div>
         <div class='drawer-side z-[100]'><label for='drawer' class='drawer-overlay'></label>
-            <ul class='menu p-8 w-80 min-h-full bg-black text-white border-r border-zinc-800'>
-                <li class='mb-10 text-2xl font-black italic'>MENU <span class='text-red-600'>SSH</span></li>
-                <li class='menu-title text-red-600'>Categorías</li>
-                <li><a onclick='loadCat("programacion")' class='font-bold py-4'>Programación</a></li>
-                <li><a onclick='loadCat("diseno")' class='font-bold py-4'>Diseño</a></li>
+            <ul class='menu p-8 w-80 min-h-full bg-black text-white border-r border-zinc-900'>
+                <li class='mb-10 text-2xl font-black italic'>MENU <span class='text-red-600 font-black'>SSH</span></li>
+                <li class='menu-title text-red-600 uppercase font-black text-xs tracking-widest mb-4'>Categorías</li>
+                <li><a onclick='loadCat("programacion")' class='font-bold py-4 hover:bg-zinc-900 rounded-2xl'>Programación</a></li>
+                <li><a onclick='loadCat("diseno")' class='font-bold py-4 hover:bg-zinc-900 rounded-2xl'>Diseño Gráfico</a></li>
+                <li><a onclick='loadCat("ia")' class='font-bold py-4 hover:bg-zinc-900 rounded-2xl'>Inteligencia Artificial</a></li>
+                <li><a onclick='loadCat("marketing")' class='font-bold py-4 hover:bg-zinc-900 rounded-2xl'>Marketing</a></li>
+                <div class='divider opacity-10 my-6'></div>
+                <li><a onclick='alert("La Clave Argentina: Élite Educativa 2026.")' class='font-bold'>Quiénes Somos</a></li>
+                <li><a onclick='alert("FAQ: Acceso vía SSH seguro activado.")' class='font-bold'>Preguntas Frecuentes</a></li>
             </ul>
         </div>
     </div>
@@ -49,7 +69,7 @@
         const K = 'sb_publishable_KmyqfJTmmW4R5FKUeB5b4A_GVFYnn4b', U = 'https://ypzudkxowpxvdggvongz.supabase.co/rest/v1/cursos';
         let page = 0, q = '', c = '';
         async function load(append=false) {
-            const g = document.getElementById('grid');
+            const g = document.getElementById('grid'), btn = document.getElementById('more');
             if(!append) { g.innerHTML = ''; page = 0; }
             let url = U + '?select=*&limit=16&offset=' + (page*16) + '&order=titulo.asc';
             if(q) url += '&or=(titulo.ilike.*' + encodeURIComponent(q) + '*,descripcion.ilike.*' + encodeURIComponent(q) + '*)';
@@ -58,16 +78,17 @@
                 const r = await fetch(url, { headers: { 'apikey': K, 'Authorization': 'Bearer ' + K } });
                 const d = await r.json();
                 d.forEach(x => {
-                    const img = x.imagen_url || 'https://raw.githubusercontent.com/florenciaamor36-ship-it/cursin-v2-oficial/main/youtube_fallback.jpg';
-                    let s = ''; for(let i=0;i<5;i++) s += '<span class="' + (i < (x.puntuacion||4) ? 'text-yellow-400':'text-zinc-800') + '">★</span>';
-                    g.innerHTML += "<div class='card-course'><div class='img-c'><img src='" + img + "' onerror=\"this.src='https://raw.githubusercontent.com/florenciaamor36-ship-it/cursin-v2-oficial/main/youtube_fallback.jpg'\"></div><div class='p-8 text-left flex flex-col flex-1'><div class='flex justify-between items-center mb-2'><div class='text-[9px] font-black text-red-600 uppercase'>" + x.plataforma + "</div><div class='text-[10px]'>" + s + "</div></div><h3 class='font-bold text-xs text-white line-clamp-2 h-8 mb-6'>" + x.titulo + "</h3><a href='" + x.url + "' target='_blank' class='btn btn-block btn-xs btn-error text-white font-black rounded-xl mt-auto'>ACCEDER</a></div></div>";
+                    const fallback = 'https://raw.githubusercontent.com/florenciaamor36-ship-it/cursin-v2-oficial/main/youtube_fallback.jpg';
+                    const img = x.imagen_url || fallback;
+                    let s = ''; for(let i=0;i<5;i++) s += '<span class="' + (i < (x.puntuacion||4) ? 'text-yellow-400':'text-zinc-800') + '" style="font-size:12px">★</span>';
+                    g.innerHTML += "<div class='card-course animate-fadeIn'><div class='img-c'><img src='" + img + "' onerror=\"this.src='" + fallback + "'\"></div><div class='p-8 text-left flex flex-col flex-1'><div class='flex justify-between items-center mb-4'><div class='text-[9px] font-black text-red-600 uppercase tracking-widest'>" + x.plataforma + "</div><div class='flex gap-0.5'>" + s + "</div></div><h3 class='font-bold text-sm text-white line-clamp-2 h-10 mb-8' style='font-family:Montserrat, sans-serif;'>" + x.titulo + "</h3><a href='" + x.url + "' target='_blank' class='btn btn-block btn-xs btn-error text-white font-black rounded-xl mt-auto py-4 h-auto text-[10px]'>ACCEDER AL CURSO</a></div></div>";
                 });
                 document.getElementById('counter').innerText = 'Mostrando ' + g.children.length + ' de +65.000 cursos';
             } catch(e) {}
         }
         function search() { clearTimeout(window.t); window.t = setTimeout(() => { q = document.getElementById('q').value; load(); }, 600); }
         function loadMore() { page++; load(true); }
-        function loadCat(cat) { c = cat; q = ''; load(); document.getElementById('drawer').checked = false; }
+        function loadCat(cat) { c = cat; q = ''; document.getElementById('q').value = ''; load(); document.getElementById('drawer').checked = false; }
         load();
     </script>
 </body>
