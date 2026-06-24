@@ -21,34 +21,33 @@
         <div class='drawer-content flex flex-col'>
             <div class='navbar w-full nav-glass sticky top-0 z-50 px-4'>
                 <div class='flex-none'><label for='drawer' class='btn btn-square btn-ghost text-white'>☰</label></div>
-                <div class='flex-1 font-bold text-xl text-white uppercase ml-2 tracking-tighter'>LA CLAVE <span class='text-red-600'>ARGENTINA</span></div>
+                <div class='flex-1 font-bold text-xl text-white uppercase ml-2'>LA CLAVE <span class='text-red-600'>ARGENTINA</span></div>
             </div>
             <main class='min-h-screen text-center p-4'>
                 <h1 class='text-6xl font-black mt-20 mb-4 uppercase'>TIENDA <span class='text-red-600 italic'>SSH</span></h1>
                 <p class='text-zinc-500 mb-10'>+65.000 Cursos Certificados gestionados por La Clave Academy</p>
                 <div class='max-w-xl mx-auto mb-16 px-4'>
-                    <input id='q' type='text' placeholder='¿Qué quieres aprender hoy?' class='input input-bordered w-full rounded-full bg-zinc-900 border-zinc-800 focus:border-red-600' oninput='search()'/>
+                    <input id='q' type='text' placeholder='Buscar cursos...' class='input input-bordered w-full rounded-full bg-zinc-900 border-zinc-800' oninput='search()'/>
                 </div>
                 <div id='grid' class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 gap-6 max-w-[1600px] mx-auto px-4'></div>
             </main>
             <footer class='footer p-10 bg-zinc-950 border-t border-zinc-900 mt-20'>
-                <nav><header class='footer-title text-red-600 opacity-100 uppercase font-black'>Nosotros</header><a class='link link-hover font-bold' onclick='alert("Quiénes Somos: La Clave Argentina es el ecosistema educativo más potente.")'>Quiénes Somos</a><a class='link link-hover font-bold'>Aviso Legal</a></nav>
+                <nav><header class='footer-title text-red-600 opacity-100 uppercase'>Nosotros</header><a class='link link-hover' onclick='alert("Quiénes Somos: La Clave Argentina es el ecosistema educativo más potente.")'>Quiénes Somos</a><a class='link link-hover' onclick='alert("Legal: © 2026 La Clave Argentina.")'>Aviso Legal</a></nav>
             </footer>
-            <div class='bg-black text-center py-8 text-[10px] text-zinc-700 uppercase font-black tracking-widest'>© 2026 La Clave Argentina | Operado por Tienda SSH</div>
         </div>
         <div class='drawer-side z-[100]'><label for='drawer' class='drawer-overlay'></label>
             <ul class='menu p-6 w-80 min-h-full bg-black text-white border-r border-zinc-800'>
                 <li class='mb-10 text-2xl font-bold italic uppercase text-white'>MENU <span class='text-red-600'>SSH</span></li>
                 <li class='menu-title text-red-600'>Categorías</li>
-                <li><a onclick='loadCat("programacion")' class='font-bold'>Programación</a></li>
-                <li><a onclick='loadCat("diseno")' class='font-bold'>Diseño</a></li>
+                <li><a onclick='loadCat("programacion")'>Programación</a></li>
+                <li><a onclick='loadCat("diseno")'>Diseño</a></li>
                 <div class='divider opacity-10'></div>
                 <li><a onclick='alert("FAQ: Acceso vía SSH activo.")'>Preguntas Frecuentes</a></li>
             </ul>
         </div>
     </div>
     <script>
-        const K = 'sb_publishable_KmyqfJTmmW4R5FKUeB5b4A_GVFYnn4b', U = 'https://ypzudkxowpxvdggvongz.supabase.co/rest/v1/cursos';
+        const K = "sb_publishable_KmyqfJTmmW4R5FKUeB5b4A_GVFYnn4b", U = "https://ypzudkxowpxvdggvongz.supabase.co/rest/v1/cursos";
         async function load(q="", c="") {
             const g = document.getElementById("grid"); g.innerHTML = "";
             let url = U + "?select=titulo,plataforma,url,imagen_url&limit=25&order=titulo.asc";
