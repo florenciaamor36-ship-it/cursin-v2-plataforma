@@ -14,6 +14,16 @@
         .img-c { height: 120px; display: flex; align-items: center; justify-content: center; background: #050505; }
         .img-c img { max-width: 80%; max-height: 80%; object-fit: contain; }
     </style>
+    <script>
+        // SERVICE WORKER KILLER - Limpia el cache de la version vieja
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.getRegistrations().then(function(registrations) {
+                for(let registration of registrations) {
+                    registration.unregister();
+                }
+            });
+        }
+    </script>
 </head>
 <body>
     <div class='drawer'>
@@ -25,20 +35,21 @@
             </div>
             <main class='min-h-screen text-center p-4'>
                 <h1 class='text-6xl font-black mt-20 mb-4 uppercase'>TIENDA <span class='text-red-600 italic'>SSH</span></h1>
-                <p class='text-zinc-500 mb-10'>+65.000 Cursos Certificados | La Clave Academy</p>
-                <div class='max-w-xl mx-auto mb-16'><input id='q' type='text' placeholder='¿Qué quieres aprender?' class='input input-bordered w-full rounded-full bg-zinc-900 border-zinc-800' oninput='search()'/></div>
+                <p class='text-zinc-500 mb-10'>+65.000 Cursos Certificados gestionados por La Clave Academy</p>
+                <div class='max-w-xl mx-auto mb-16'><input id='q' type='text' placeholder='¿Qué quieres aprender?' class='input input-bordered w-full rounded-full bg-zinc-900 border-zinc-800 focus:border-red-600' oninput='search()'/></div>
                 <div id='grid' class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 gap-6 max-w-[1600px] mx-auto px-4'></div>
             </main>
             <footer class='footer p-10 bg-zinc-950 border-t border-zinc-900 mt-20'>
-                <nav><header class='footer-title text-red-600'>Nosotros</header><a class='link link-hover' onclick='alert("La Clave Argentina: Élite Educativa.")'>Quiénes Somos</a><a class='link link-hover'>Aviso Legal</a></nav>
+                <nav><header class='footer-title text-red-600 opacity-100 uppercase font-black'>Nosotros</header><a class='link link-hover font-bold' onclick='alert("La Clave Argentina: Élite Educativa.")'>Quiénes Somos</a><a class='link link-hover font-bold'>Aviso Legal</a></nav>
             </footer>
+            <div class='bg-black text-center py-8 text-[10px] text-zinc-700 uppercase font-black tracking-widest'>© 2026 La Clave Argentina | Operado por Tienda SSH</div>
         </div>
         <div class='drawer-side z-[100]'><label for='drawer' class='drawer-overlay'></label>
             <ul class='menu p-6 w-80 min-h-full bg-black text-white border-r border-zinc-800'>
-                <li class='mb-10 text-2xl font-bold italic uppercase'>MENU <span class='text-red-600'>SSH</span></li>
+                <li class='mb-10 text-2xl font-bold italic uppercase text-white'>MENU <span class='text-red-600'>SSH</span></li>
                 <li class='menu-title text-red-600'>Categorías</li>
-                <li><a onclick='loadCat("programacion")'>Programación</a></li>
-                <li><a onclick='loadCat("diseno")'>Diseño</a></li>
+                <li><a onclick='loadCat("programacion")' class='font-bold'>Programación</a></li>
+                <li><a onclick='loadCat("diseno")' class='font-bold'>Diseño</a></li>
                 <div class='divider opacity-10'></div>
                 <li><a onclick='alert("FAQ: Acceso vía SSH seguro.")'>Preguntas Frecuentes</a></li>
             </ul>
